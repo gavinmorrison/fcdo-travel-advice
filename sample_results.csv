@@ -1,0 +1,227 @@
+country,slug,alert_status
+Azerbaijan,azerbaijan,"avoid_all_travel_to_parts, avoid_all_but_essential_travel_to_parts"
+Papua New Guinea,papua-new-guinea,avoid_all_but_essential_travel_to_parts
+Federated States of Micronesia,federated-states-of-micronesia,No alert status
+China,china,No alert status
+Botswana,botswana,No alert status
+Burundi,burundi,"avoid_all_travel_to_parts, avoid_all_but_essential_travel_to_parts"
+Bangladesh,bangladesh,avoid_all_but_essential_travel_to_parts
+Indonesia,indonesia,avoid_all_travel_to_parts
+Philippines,philippines,avoid_all_travel_to_parts
+New Caledonia,new-caledonia,No alert status
+Thailand,thailand,avoid_all_but_essential_travel_to_parts
+Mauritius,mauritius,No alert status
+Turkey,turkey,avoid_all_travel_to_parts
+Libya,libya,"avoid_all_travel_to_parts, avoid_all_but_essential_travel_to_parts"
+Gabon,gabon,No alert status
+Antarctica/British Antarctic Territory,antarctica-british-antarctic-territory,No alert status
+South Sudan,south-sudan,avoid_all_travel_to_whole_country
+Sudan,sudan,avoid_all_travel_to_parts
+Democratic Republic of the Congo,democratic-republic-of-the-congo,avoid_all_travel_to_parts
+Angola,angola,avoid_all_but_essential_travel_to_parts
+Afghanistan,afghanistan,avoid_all_travel_to_whole_country
+Cyprus,cyprus,No alert status
+Australia,australia,No alert status
+Tonga,tonga,No alert status
+Myanmar (Burma),myanmar,"avoid_all_travel_to_parts, avoid_all_but_essential_travel_to_parts"
+Portugal,portugal,No alert status
+Romania,romania,No alert status
+Slovakia,slovakia,No alert status
+South Africa,south-africa,No alert status
+Mexico,mexico,avoid_all_but_essential_travel_to_parts
+Sweden,sweden,No alert status
+Iceland,iceland,No alert status
+Norway,norway,No alert status
+Liechtenstein,liechtenstein,No alert status
+Switzerland,switzerland,No alert status
+Tanzania,tanzania,avoid_all_but_essential_travel_to_parts
+Austria,austria,No alert status
+Bulgaria,bulgaria,No alert status
+Croatia,croatia,No alert status
+Czech Republic,czech-republic,No alert status
+Denmark,denmark,No alert status
+France,france,No alert status
+Lithuania,lithuania,No alert status
+Poland,poland,No alert status
+Germany,germany,No alert status
+Estonia,estonia,No alert status
+Finland,finland,No alert status
+Hungary,hungary,No alert status
+Greece,greece,No alert status
+Latvia,latvia,No alert status
+Luxembourg,luxembourg,No alert status
+Malta,malta,No alert status
+Netherlands,netherlands,No alert status
+Brunei,brunei,No alert status
+Taiwan,taiwan,No alert status
+Kyrgyzstan,kyrgyzstan,No alert status
+Malaysia,malaysia,avoid_all_but_essential_travel_to_parts
+Ecuador,ecuador,avoid_all_but_essential_travel_to_parts
+Peru,peru,avoid_all_but_essential_travel_to_parts
+Pakistan,pakistan,"avoid_all_travel_to_parts, avoid_all_but_essential_travel_to_parts"
+Saudi Arabia,saudi-arabia,avoid_all_travel_to_parts
+South Korea,south-korea,No alert status
+Rwanda,rwanda,avoid_all_but_essential_travel_to_parts
+Egypt,egypt,avoid_all_travel_to_parts
+Brazil,brazil,avoid_all_but_essential_travel_to_parts
+Oman,oman,No alert status
+Madagascar,madagascar,No alert status
+Slovenia,slovenia,No alert status
+United Arab Emirates,united-arab-emirates,No alert status
+Spain,spain,No alert status
+India,india,avoid_all_travel_to_parts
+Ghana,ghana,avoid_all_but_essential_travel_to_parts
+Colombia,colombia,avoid_all_but_essential_travel_to_parts
+Belgium,belgium,No alert status
+Italy,italy,No alert status
+Côte d'Ivoire,cote-d-ivoire,avoid_all_travel_to_parts
+Togo,togo,avoid_all_travel_to_parts
+Pitcairn Island,pitcairn-island,No alert status
+Lebanon,lebanon,"avoid_all_travel_to_parts, avoid_all_but_essential_travel_to_parts"
+Tajikistan,tajikistan,No alert status
+USA,usa,No alert status
+Trinidad and Tobago,trinidad-and-tobago,No alert status
+Mauritania,mauritania,avoid_all_travel_to_parts
+Vietnam,vietnam,No alert status
+"Cook Islands, Tokelau and Niue",cook-islands-tokelau-and-niue,No alert status
+Namibia,namibia,No alert status
+Laos,laos,avoid_all_but_essential_travel_to_parts
+Zimbabwe,zimbabwe,No alert status
+Sierra Leone,sierra-leone,No alert status
+Burkina Faso,burkina-faso,avoid_all_travel_to_parts
+Belarus,belarus,avoid_all_travel_to_whole_country
+Barbados,barbados,No alert status
+Belize,belize,No alert status
+Grenada,grenada,No alert status
+Zambia,zambia,No alert status
+Lesotho,lesotho,No alert status
+Dominican Republic,dominican-republic,No alert status
+Georgia,georgia,avoid_all_travel_to_parts
+Qatar,qatar,No alert status
+Eritrea,eritrea,avoid_all_travel_to_parts
+Serbia,serbia,No alert status
+Panama,panama,No alert status
+Albania,albania,No alert status
+Nigeria,nigeria,avoid_all_travel_to_parts
+Dominica,dominica,No alert status
+Bhutan,bhutan,No alert status
+British Indian Ocean Territory,british-indian-ocean-territory,No alert status
+Cambodia,cambodia,No alert status
+Comoros,comoros,No alert status
+Fiji,fiji,No alert status
+French Polynesia,french-polynesia,No alert status
+Hong Kong,hong-kong,No alert status
+Kazakhstan,kazakhstan,No alert status
+Kiribati,kiribati,No alert status
+Macao,macao,No alert status
+Marshall Islands,marshall-islands,No alert status
+Mongolia,mongolia,No alert status
+Nauru,nauru,No alert status
+New Zealand,new-zealand,No alert status
+North Korea,north-korea,avoid_all_but_essential_travel_to_whole_country
+Seychelles,seychelles,No alert status
+Singapore,singapore,No alert status
+Solomon Islands,solomon-islands,No alert status
+Sri Lanka,sri-lanka,No alert status
+Timor-Leste,timor-leste,No alert status
+Turkmenistan,turkmenistan,No alert status
+Equatorial Guinea,equatorial-guinea,No alert status
+Eswatini,eswatini,No alert status
+The Gambia,the-gambia,No alert status
+Guinea-Bissau,guinea-bissau,No alert status
+Kenya,kenya,avoid_all_but_essential_travel_to_parts
+French Guiana,french-guiana,No alert status
+Guyana,guyana,No alert status
+Paraguay,paraguay,No alert status
+South Georgia and the South Sandwich Islands,south-georgia-and-south-sandwich-islands,No alert status
+"St Helena, Ascension and Tristan da Cunha",st-helena-ascension-and-tristan-da-cunha,No alert status
+Suriname,suriname,No alert status
+Uruguay,uruguay,No alert status
+Venezuela,venezuela,avoid_all_travel_to_parts
+Benin,benin,avoid_all_travel_to_parts
+Cameroon,cameroon,avoid_all_travel_to_parts
+Central African Republic,central-african-republic,avoid_all_travel_to_parts
+Chad,chad,avoid_all_travel_to_parts
+Congo,congo,avoid_all_travel_to_parts
+Japan,japan,No alert status
+Montserrat,montserrat,No alert status
+Nicaragua,nicaragua,No alert status
+St Kitts and Nevis,st-kitts-and-nevis,No alert status
+St Lucia,st-lucia,No alert status
+St Maarten,st-maarten,No alert status
+St Martin and St Barthélemy,st-martin-and-st-barthelemy,No alert status
+St Pierre & Miquelon,st-pierre-and-miquelon,No alert status
+St Vincent and the Grenadines,st-vincent-and-the-grenadines,No alert status
+Turks and Caicos Islands,turks-and-caicos-islands,No alert status
+Samoa,samoa,No alert status
+Palau,palau,No alert status
+Tuvalu,tuvalu,No alert status
+Uzbekistan,uzbekistan,No alert status
+Bahrain,bahrain,No alert status
+Algeria,algeria,avoid_all_travel_to_parts
+Ukraine,ukraine,"avoid_all_travel_to_parts, avoid_all_but_essential_travel_to_parts"
+Wallis and Futuna,wallis-and-futuna,No alert status
+Andorra,andorra,No alert status
+Armenia,armenia,avoid_all_travel_to_parts
+Kuwait,kuwait,No alert status
+Morocco,morocco,No alert status
+Bosnia and Herzegovina,bosnia-and-herzegovina,No alert status
+Western Sahara,western-sahara,avoid_all_travel_to_parts
+Yemen,yemen,avoid_all_travel_to_whole_country
+Anguilla,anguilla,No alert status
+Antigua and Barbuda,antigua-and-barbuda,No alert status
+Aruba,aruba,No alert status
+Bahamas,bahamas,No alert status
+Bermuda,bermuda,No alert status
+British Virgin Islands,british-virgin-islands,No alert status
+Gibraltar,gibraltar,No alert status
+Cayman Islands,cayman-islands,No alert status
+Costa Rica,costa-rica,No alert status
+Curaçao,curacao,No alert status
+Ireland,ireland,No alert status
+El Salvador,el-salvador,No alert status
+Kosovo,kosovo,avoid_all_but_essential_travel_to_parts
+Guadeloupe,guadeloupe,No alert status
+Guatemala,guatemala,avoid_all_but_essential_travel_to_parts
+Haiti,haiti,avoid_all_travel_to_whole_country
+Honduras,honduras,No alert status
+Jamaica,jamaica,No alert status
+Martinique,martinique,No alert status
+Mayotte,mayotte,avoid_all_but_essential_travel_to_whole_country
+São Tomé and Principe,sao-tome-and-principe,No alert status
+Moldova,moldova,avoid_all_travel_to_parts
+Monaco,monaco,No alert status
+Montenegro,montenegro,No alert status
+Senegal,senegal,No alert status
+North Macedonia,north-macedonia,No alert status
+Tunisia,tunisia,avoid_all_travel_to_parts
+Uganda,uganda,avoid_all_but_essential_travel_to_parts
+Russia,russia,avoid_all_travel_to_whole_country
+Bonaire/St Eustatius/Saba,bonaire-st-eustatius-saba,No alert status
+San Marino,san-marino,No alert status
+Liberia,liberia,No alert status
+Mali,mali,avoid_all_travel_to_parts
+Malawi,malawi,No alert status
+Niger,niger,avoid_all_travel_to_parts
+Cape Verde,cape-verde,No alert status
+Canada,canada,No alert status
+Vanuatu,vanuatu,No alert status
+Chile,chile,No alert status
+Falkland Islands,falkland-islands,No alert status
+Jordan,jordan,avoid_all_travel_to_parts
+Réunion,reunion,No alert status
+Mozambique,mozambique,"avoid_all_travel_to_parts, avoid_all_but_essential_travel_to_parts"
+Djibouti,djibouti,avoid_all_travel_to_parts
+Iran,iran,avoid_all_travel_to_whole_country
+Iraq,iraq,"avoid_all_travel_to_parts, avoid_all_but_essential_travel_to_parts"
+Syria,syria,avoid_all_travel_to_whole_country
+Ethiopia,ethiopia,"avoid_all_travel_to_parts, avoid_all_but_essential_travel_to_parts"
+Guinea,guinea,No alert status
+Cuba,cuba,No alert status
+Maldives,maldives,No alert status
+Argentina,argentina,No alert status
+Israel,israel,avoid_all_travel_to_parts
+The Occupied Palestinian Territories,the-occupied-palestinian-territories,avoid_all_travel_to_parts
+Bolivia,bolivia,avoid_all_but_essential_travel_to_parts
+Somalia,somalia,avoid_all_travel_to_parts
+Nepal,nepal,No alert status
