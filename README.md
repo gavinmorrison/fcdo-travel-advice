@@ -23,18 +23,18 @@ Refer to the linked FCDO advice page for full details on any warnings.
 |:------:|---------|-------------|
 | 🔴 | [Afghanistan](https://www.gov.uk/foreign-travel-advice/afghanistan) | FCDO advises against all travel to Afghanistan. |
 | 🟢 | [Albania](https://www.gov.uk/foreign-travel-advice/albania) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Algeria](https://www.gov.uk/foreign-travel-advice/algeria) | FCDO advises against all travel to parts of Algeria. |
+| ⚠️ | [Algeria](https://www.gov.uk/foreign-travel-advice/algeria) | FCDO advises against all travel to parts of Algeria. |
 | 🟢 | [Andorra](https://www.gov.uk/foreign-travel-advice/andorra) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Angola](https://www.gov.uk/foreign-travel-advice/angola) | FCDO advises against all but essential travel to parts of Angola. |
 | 🟢 | [Anguilla](https://www.gov.uk/foreign-travel-advice/anguilla) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Antarctica/British Antarctic Territory](https://www.gov.uk/foreign-travel-advice/antarctica-british-antarctic-territory) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Antigua and Barbuda](https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Argentina](https://www.gov.uk/foreign-travel-advice/argentina) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Armenia](https://www.gov.uk/foreign-travel-advice/armenia) | FCDO advises against all travel to parts of Armenia. |
+| ⚠️ | [Armenia](https://www.gov.uk/foreign-travel-advice/armenia) | FCDO advises against all travel to parts of Armenia. |
 | 🟢 | [Aruba](https://www.gov.uk/foreign-travel-advice/aruba) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Australia](https://www.gov.uk/foreign-travel-advice/australia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Austria](https://www.gov.uk/foreign-travel-advice/austria) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Azerbaijan](https://www.gov.uk/foreign-travel-advice/azerbaijan) | FCDO advises against all travel to parts of Azerbaijan.<br />FCDO advises against all but essential travel to parts of Azerbaijan. |
+| ⚠️ | [Azerbaijan](https://www.gov.uk/foreign-travel-advice/azerbaijan) | FCDO advises against all travel to parts of Azerbaijan.<br />FCDO advises against all but essential travel to parts of Azerbaijan. |
 | 🟢 | [Bahamas](https://www.gov.uk/foreign-travel-advice/bahamas) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Bahrain](https://www.gov.uk/foreign-travel-advice/bahrain) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Bangladesh](https://www.gov.uk/foreign-travel-advice/bangladesh) | FCDO advises against all but essential travel to parts of Bangladesh. |
@@ -42,7 +42,7 @@ Refer to the linked FCDO advice page for full details on any warnings.
 | 🔴 | [Belarus](https://www.gov.uk/foreign-travel-advice/belarus) | FCDO advises against all travel to Belarus. |
 | 🟢 | [Belgium](https://www.gov.uk/foreign-travel-advice/belgium) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Belize](https://www.gov.uk/foreign-travel-advice/belize) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Benin](https://www.gov.uk/foreign-travel-advice/benin) | FCDO advises against all travel to parts of Benin. |
+| ⚠️ | [Benin](https://www.gov.uk/foreign-travel-advice/benin) | FCDO advises against all travel to parts of Benin. |
 | 🟢 | [Bermuda](https://www.gov.uk/foreign-travel-advice/bermuda) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Bhutan](https://www.gov.uk/foreign-travel-advice/bhutan) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Bolivia](https://www.gov.uk/foreign-travel-advice/bolivia) | FCDO advises against all but essential travel to parts of Bolivia. |
@@ -54,20 +54,20 @@ Refer to the linked FCDO advice page for full details on any warnings.
 | 🟢 | [British Virgin Islands](https://www.gov.uk/foreign-travel-advice/british-virgin-islands) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Brunei](https://www.gov.uk/foreign-travel-advice/brunei) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Bulgaria](https://www.gov.uk/foreign-travel-advice/bulgaria) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Burkina Faso](https://www.gov.uk/foreign-travel-advice/burkina-faso) | FCDO advises against all travel to parts of Burkina Faso. |
-| 🔴* | [Burundi](https://www.gov.uk/foreign-travel-advice/burundi) | FCDO advises against all travel to parts of Burundi.<br />FCDO advises against all but essential travel to parts of Burundi. |
+| ⚠️ | [Burkina Faso](https://www.gov.uk/foreign-travel-advice/burkina-faso) | FCDO advises against all travel to parts of Burkina Faso. |
+| ⚠️ | [Burundi](https://www.gov.uk/foreign-travel-advice/burundi) | FCDO advises against all travel to parts of Burundi.<br />FCDO advises against all but essential travel to parts of Burundi. |
 | 🟢 | [Cambodia](https://www.gov.uk/foreign-travel-advice/cambodia) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Cameroon](https://www.gov.uk/foreign-travel-advice/cameroon) | FCDO advises against all travel to parts of Cameroon. |
+| ⚠️ | [Cameroon](https://www.gov.uk/foreign-travel-advice/cameroon) | FCDO advises against all travel to parts of Cameroon. |
 | 🟢 | [Canada](https://www.gov.uk/foreign-travel-advice/canada) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Cape Verde](https://www.gov.uk/foreign-travel-advice/cape-verde) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Cayman Islands](https://www.gov.uk/foreign-travel-advice/cayman-islands) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Central African Republic](https://www.gov.uk/foreign-travel-advice/central-african-republic) | FCDO advises against all travel to parts of Central African Republic. |
-| 🔴* | [Chad](https://www.gov.uk/foreign-travel-advice/chad) | FCDO advises against all travel to parts of Chad. |
+| ⚠️ | [Central African Republic](https://www.gov.uk/foreign-travel-advice/central-african-republic) | FCDO advises against all travel to parts of Central African Republic. |
+| ⚠️ | [Chad](https://www.gov.uk/foreign-travel-advice/chad) | FCDO advises against all travel to parts of Chad. |
 | 🟢 | [Chile](https://www.gov.uk/foreign-travel-advice/chile) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [China](https://www.gov.uk/foreign-travel-advice/china) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Colombia](https://www.gov.uk/foreign-travel-advice/colombia) | FCDO advises against all but essential travel to parts of Colombia. |
 | 🟢 | [Comoros](https://www.gov.uk/foreign-travel-advice/comoros) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Congo](https://www.gov.uk/foreign-travel-advice/congo) | FCDO advises against all travel to parts of Congo. |
+| ⚠️ | [Congo](https://www.gov.uk/foreign-travel-advice/congo) | FCDO advises against all travel to parts of Congo. |
 | 🟢 | [Cook Islands, Tokelau and Niue](https://www.gov.uk/foreign-travel-advice/cook-islands-tokelau-and-niue) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Costa Rica](https://www.gov.uk/foreign-travel-advice/costa-rica) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Croatia](https://www.gov.uk/foreign-travel-advice/croatia) | No specific FCDO travel advisories are currently active. |
@@ -75,20 +75,20 @@ Refer to the linked FCDO advice page for full details on any warnings.
 | 🟢 | [Curaçao](https://www.gov.uk/foreign-travel-advice/curacao) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Cyprus](https://www.gov.uk/foreign-travel-advice/cyprus) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Czech Republic](https://www.gov.uk/foreign-travel-advice/czech-republic) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Côte d'Ivoire](https://www.gov.uk/foreign-travel-advice/cote-d-ivoire) | FCDO advises against all travel to parts of Côte d'Ivoire. |
-| 🔴* | [Democratic Republic of the Congo](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) | FCDO advises against all travel to parts of Democratic Republic of the Congo. |
+| ⚠️ | [Côte d'Ivoire](https://www.gov.uk/foreign-travel-advice/cote-d-ivoire) | FCDO advises against all travel to parts of Côte d'Ivoire. |
+| ⚠️ | [Democratic Republic of the Congo](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) | FCDO advises against all travel to parts of Democratic Republic of the Congo. |
 | 🟢 | [Denmark](https://www.gov.uk/foreign-travel-advice/denmark) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Djibouti](https://www.gov.uk/foreign-travel-advice/djibouti) | FCDO advises against all travel to parts of Djibouti. |
+| ⚠️ | [Djibouti](https://www.gov.uk/foreign-travel-advice/djibouti) | FCDO advises against all travel to parts of Djibouti. |
 | 🟢 | [Dominica](https://www.gov.uk/foreign-travel-advice/dominica) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Dominican Republic](https://www.gov.uk/foreign-travel-advice/dominican-republic) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Ecuador](https://www.gov.uk/foreign-travel-advice/ecuador) | FCDO advises against all but essential travel to parts of Ecuador. |
-| 🔴* | [Egypt](https://www.gov.uk/foreign-travel-advice/egypt) | FCDO advises against all travel to parts of Egypt. |
+| ⚠️ | [Egypt](https://www.gov.uk/foreign-travel-advice/egypt) | FCDO advises against all travel to parts of Egypt. |
 | 🟢 | [El Salvador](https://www.gov.uk/foreign-travel-advice/el-salvador) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Equatorial Guinea](https://www.gov.uk/foreign-travel-advice/equatorial-guinea) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Eritrea](https://www.gov.uk/foreign-travel-advice/eritrea) | FCDO advises against all travel to parts of Eritrea. |
+| ⚠️ | [Eritrea](https://www.gov.uk/foreign-travel-advice/eritrea) | FCDO advises against all travel to parts of Eritrea. |
 | 🟢 | [Estonia](https://www.gov.uk/foreign-travel-advice/estonia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Eswatini](https://www.gov.uk/foreign-travel-advice/eswatini) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Ethiopia](https://www.gov.uk/foreign-travel-advice/ethiopia) | FCDO advises against all travel to parts of Ethiopia.<br />FCDO advises against all but essential travel to parts of Ethiopia. |
+| ⚠️ | [Ethiopia](https://www.gov.uk/foreign-travel-advice/ethiopia) | FCDO advises against all travel to parts of Ethiopia.<br />FCDO advises against all but essential travel to parts of Ethiopia. |
 | 🟢 | [Falkland Islands](https://www.gov.uk/foreign-travel-advice/falkland-islands) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Federated States of Micronesia](https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Fiji](https://www.gov.uk/foreign-travel-advice/fiji) | No specific FCDO travel advisories are currently active. |
@@ -97,7 +97,7 @@ Refer to the linked FCDO advice page for full details on any warnings.
 | 🟢 | [French Guiana](https://www.gov.uk/foreign-travel-advice/french-guiana) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [French Polynesia](https://www.gov.uk/foreign-travel-advice/french-polynesia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Gabon](https://www.gov.uk/foreign-travel-advice/gabon) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Georgia](https://www.gov.uk/foreign-travel-advice/georgia) | FCDO advises against all travel to parts of Georgia. |
+| ⚠️ | [Georgia](https://www.gov.uk/foreign-travel-advice/georgia) | FCDO advises against all travel to parts of Georgia. |
 | 🟢 | [Germany](https://www.gov.uk/foreign-travel-advice/germany) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Ghana](https://www.gov.uk/foreign-travel-advice/ghana) | FCDO advises against all but essential travel to parts of Ghana. |
 | 🟢 | [Gibraltar](https://www.gov.uk/foreign-travel-advice/gibraltar) | No specific FCDO travel advisories are currently active. |
@@ -113,16 +113,16 @@ Refer to the linked FCDO advice page for full details on any warnings.
 | 🟢 | [Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-kong) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Hungary](https://www.gov.uk/foreign-travel-advice/hungary) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Iceland](https://www.gov.uk/foreign-travel-advice/iceland) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [India](https://www.gov.uk/foreign-travel-advice/india) | FCDO advises against all travel to parts of India. |
-| 🔴* | [Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia) | FCDO advises against all travel to parts of Indonesia. |
+| ⚠️ | [India](https://www.gov.uk/foreign-travel-advice/india) | FCDO advises against all travel to parts of India. |
+| ⚠️ | [Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia) | FCDO advises against all travel to parts of Indonesia. |
 | 🔴 | [Iran](https://www.gov.uk/foreign-travel-advice/iran) | FCDO advises against all travel to Iran. |
-| 🔴* | [Iraq](https://www.gov.uk/foreign-travel-advice/iraq) | FCDO advises against all travel to parts of Iraq.<br />FCDO advises against all but essential travel to parts of Iraq. |
+| ⚠️ | [Iraq](https://www.gov.uk/foreign-travel-advice/iraq) | FCDO advises against all travel to parts of Iraq.<br />FCDO advises against all but essential travel to parts of Iraq. |
 | 🟢 | [Ireland](https://www.gov.uk/foreign-travel-advice/ireland) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Israel](https://www.gov.uk/foreign-travel-advice/israel) | FCDO advises against all travel to parts of Israel. |
+| ⚠️ | [Israel](https://www.gov.uk/foreign-travel-advice/israel) | FCDO advises against all travel to parts of Israel. |
 | 🟢 | [Italy](https://www.gov.uk/foreign-travel-advice/italy) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Jamaica](https://www.gov.uk/foreign-travel-advice/jamaica) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Japan](https://www.gov.uk/foreign-travel-advice/japan) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Jordan](https://www.gov.uk/foreign-travel-advice/jordan) | FCDO advises against all travel to parts of Jordan. |
+| ⚠️ | [Jordan](https://www.gov.uk/foreign-travel-advice/jordan) | FCDO advises against all travel to parts of Jordan. |
 | 🟢 | [Kazakhstan](https://www.gov.uk/foreign-travel-advice/kazakhstan) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Kenya](https://www.gov.uk/foreign-travel-advice/kenya) | FCDO advises against all but essential travel to parts of Kenya. |
 | 🟢 | [Kiribati](https://www.gov.uk/foreign-travel-advice/kiribati) | No specific FCDO travel advisories are currently active. |
@@ -131,10 +131,10 @@ Refer to the linked FCDO advice page for full details on any warnings.
 | 🟢 | [Kyrgyzstan](https://www.gov.uk/foreign-travel-advice/kyrgyzstan) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Laos](https://www.gov.uk/foreign-travel-advice/laos) | FCDO advises against all but essential travel to parts of Laos. |
 | 🟢 | [Latvia](https://www.gov.uk/foreign-travel-advice/latvia) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Lebanon](https://www.gov.uk/foreign-travel-advice/lebanon) | FCDO advises against all travel to parts of Lebanon.<br />FCDO advises against all but essential travel to parts of Lebanon. |
+| ⚠️ | [Lebanon](https://www.gov.uk/foreign-travel-advice/lebanon) | FCDO advises against all travel to parts of Lebanon.<br />FCDO advises against all but essential travel to parts of Lebanon. |
 | 🟢 | [Lesotho](https://www.gov.uk/foreign-travel-advice/lesotho) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Liberia](https://www.gov.uk/foreign-travel-advice/liberia) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Libya](https://www.gov.uk/foreign-travel-advice/libya) | FCDO advises against all travel to parts of Libya.<br />FCDO advises against all but essential travel to parts of Libya. |
+| ⚠️ | [Libya](https://www.gov.uk/foreign-travel-advice/libya) | FCDO advises against all travel to parts of Libya.<br />FCDO advises against all but essential travel to parts of Libya. |
 | 🟢 | [Liechtenstein](https://www.gov.uk/foreign-travel-advice/liechtenstein) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Lithuania](https://www.gov.uk/foreign-travel-advice/lithuania) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Luxembourg](https://www.gov.uk/foreign-travel-advice/luxembourg) | No specific FCDO travel advisories are currently active. |
@@ -143,22 +143,22 @@ Refer to the linked FCDO advice page for full details on any warnings.
 | 🟢 | [Malawi](https://www.gov.uk/foreign-travel-advice/malawi) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Malaysia](https://www.gov.uk/foreign-travel-advice/malaysia) | FCDO advises against all but essential travel to parts of Malaysia. |
 | 🟢 | [Maldives](https://www.gov.uk/foreign-travel-advice/maldives) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Mali](https://www.gov.uk/foreign-travel-advice/mali) | FCDO advises against all travel to parts of Mali. |
+| ⚠️ | [Mali](https://www.gov.uk/foreign-travel-advice/mali) | FCDO advises against all travel to parts of Mali. |
 | 🟢 | [Malta](https://www.gov.uk/foreign-travel-advice/malta) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Marshall Islands](https://www.gov.uk/foreign-travel-advice/marshall-islands) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Martinique](https://www.gov.uk/foreign-travel-advice/martinique) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Mauritania](https://www.gov.uk/foreign-travel-advice/mauritania) | FCDO advises against all travel to parts of Mauritania. |
+| ⚠️ | [Mauritania](https://www.gov.uk/foreign-travel-advice/mauritania) | FCDO advises against all travel to parts of Mauritania. |
 | 🟢 | [Mauritius](https://www.gov.uk/foreign-travel-advice/mauritius) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Mayotte](https://www.gov.uk/foreign-travel-advice/mayotte) | FCDO advises against all but essential travel to Mayotte. |
 | 🟡 | [Mexico](https://www.gov.uk/foreign-travel-advice/mexico) | FCDO advises against all but essential travel to parts of Mexico. |
-| 🔴* | [Moldova](https://www.gov.uk/foreign-travel-advice/moldova) | FCDO advises against all travel to parts of Moldova. |
+| ⚠️ | [Moldova](https://www.gov.uk/foreign-travel-advice/moldova) | FCDO advises against all travel to parts of Moldova. |
 | 🟢 | [Monaco](https://www.gov.uk/foreign-travel-advice/monaco) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Mongolia](https://www.gov.uk/foreign-travel-advice/mongolia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Montenegro](https://www.gov.uk/foreign-travel-advice/montenegro) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Montserrat](https://www.gov.uk/foreign-travel-advice/montserrat) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Morocco](https://www.gov.uk/foreign-travel-advice/morocco) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Mozambique](https://www.gov.uk/foreign-travel-advice/mozambique) | FCDO advises against all travel to parts of Mozambique.<br />FCDO advises against all but essential travel to parts of Mozambique. |
-| 🔴* | [Myanmar (Burma)](https://www.gov.uk/foreign-travel-advice/myanmar) | FCDO advises against all travel to parts of Myanmar (Burma).<br />FCDO advises against all but essential travel to parts of Myanmar (Burma). |
+| ⚠️ | [Mozambique](https://www.gov.uk/foreign-travel-advice/mozambique) | FCDO advises against all travel to parts of Mozambique.<br />FCDO advises against all but essential travel to parts of Mozambique. |
+| ⚠️ | [Myanmar (Burma)](https://www.gov.uk/foreign-travel-advice/myanmar) | FCDO advises against all travel to parts of Myanmar (Burma).<br />FCDO advises against all but essential travel to parts of Myanmar (Burma). |
 | 🟢 | [Namibia](https://www.gov.uk/foreign-travel-advice/namibia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Nauru](https://www.gov.uk/foreign-travel-advice/nauru) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Nepal](https://www.gov.uk/foreign-travel-advice/nepal) | No specific FCDO travel advisories are currently active. |
@@ -166,19 +166,19 @@ Refer to the linked FCDO advice page for full details on any warnings.
 | 🟢 | [New Caledonia](https://www.gov.uk/foreign-travel-advice/new-caledonia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [New Zealand](https://www.gov.uk/foreign-travel-advice/new-zealand) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Nicaragua](https://www.gov.uk/foreign-travel-advice/nicaragua) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Niger](https://www.gov.uk/foreign-travel-advice/niger) | FCDO advises against all travel to parts of Niger. |
-| 🔴* | [Nigeria](https://www.gov.uk/foreign-travel-advice/nigeria) | FCDO advises against all travel to parts of Nigeria. |
+| ⚠️ | [Niger](https://www.gov.uk/foreign-travel-advice/niger) | FCDO advises against all travel to parts of Niger. |
+| ⚠️ | [Nigeria](https://www.gov.uk/foreign-travel-advice/nigeria) | FCDO advises against all travel to parts of Nigeria. |
 | 🟡 | [North Korea](https://www.gov.uk/foreign-travel-advice/north-korea) | FCDO advises against all but essential travel to North Korea. |
 | 🟢 | [North Macedonia](https://www.gov.uk/foreign-travel-advice/north-macedonia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Norway](https://www.gov.uk/foreign-travel-advice/norway) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Oman](https://www.gov.uk/foreign-travel-advice/oman) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Pakistan](https://www.gov.uk/foreign-travel-advice/pakistan) | FCDO advises against all travel to parts of Pakistan.<br />FCDO advises against all but essential travel to parts of Pakistan. |
+| ⚠️ | [Pakistan](https://www.gov.uk/foreign-travel-advice/pakistan) | FCDO advises against all travel to parts of Pakistan.<br />FCDO advises against all but essential travel to parts of Pakistan. |
 | 🟢 | [Palau](https://www.gov.uk/foreign-travel-advice/palau) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Panama](https://www.gov.uk/foreign-travel-advice/panama) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Papua New Guinea](https://www.gov.uk/foreign-travel-advice/papua-new-guinea) | FCDO advises against all but essential travel to parts of Papua New Guinea. |
 | 🟢 | [Paraguay](https://www.gov.uk/foreign-travel-advice/paraguay) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Peru](https://www.gov.uk/foreign-travel-advice/peru) | FCDO advises against all but essential travel to parts of Peru. |
-| 🔴* | [Philippines](https://www.gov.uk/foreign-travel-advice/philippines) | FCDO advises against all travel to parts of Philippines. |
+| ⚠️ | [Philippines](https://www.gov.uk/foreign-travel-advice/philippines) | FCDO advises against all travel to parts of Philippines. |
 | 🟢 | [Pitcairn Island](https://www.gov.uk/foreign-travel-advice/pitcairn-island) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Poland](https://www.gov.uk/foreign-travel-advice/poland) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Portugal](https://www.gov.uk/foreign-travel-advice/portugal) | No specific FCDO travel advisories are currently active. |
@@ -189,7 +189,7 @@ Refer to the linked FCDO advice page for full details on any warnings.
 | 🟢 | [Réunion](https://www.gov.uk/foreign-travel-advice/reunion) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Samoa](https://www.gov.uk/foreign-travel-advice/samoa) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [San Marino](https://www.gov.uk/foreign-travel-advice/san-marino) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) | FCDO advises against all travel to parts of Saudi Arabia. |
+| ⚠️ | [Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) | FCDO advises against all travel to parts of Saudi Arabia. |
 | 🟢 | [Senegal](https://www.gov.uk/foreign-travel-advice/senegal) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Serbia](https://www.gov.uk/foreign-travel-advice/serbia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Seychelles](https://www.gov.uk/foreign-travel-advice/seychelles) | No specific FCDO travel advisories are currently active. |
@@ -198,7 +198,7 @@ Refer to the linked FCDO advice page for full details on any warnings.
 | 🟢 | [Slovakia](https://www.gov.uk/foreign-travel-advice/slovakia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Slovenia](https://www.gov.uk/foreign-travel-advice/slovenia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Solomon Islands](https://www.gov.uk/foreign-travel-advice/solomon-islands) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Somalia](https://www.gov.uk/foreign-travel-advice/somalia) | FCDO advises against all travel to parts of Somalia. |
+| ⚠️ | [Somalia](https://www.gov.uk/foreign-travel-advice/somalia) | FCDO advises against all travel to parts of Somalia. |
 | 🟢 | [South Africa](https://www.gov.uk/foreign-travel-advice/south-africa) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [South Georgia and the South Sandwich Islands](https://www.gov.uk/foreign-travel-advice/south-georgia-and-south-sandwich-islands) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [South Korea](https://www.gov.uk/foreign-travel-advice/south-korea) | No specific FCDO travel advisories are currently active. |
@@ -212,7 +212,7 @@ Refer to the linked FCDO advice page for full details on any warnings.
 | 🟢 | [St Martin and St Barthélemy](https://www.gov.uk/foreign-travel-advice/st-martin-and-st-barthelemy) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [St Pierre & Miquelon](https://www.gov.uk/foreign-travel-advice/st-pierre-and-miquelon) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [St Vincent and the Grenadines](https://www.gov.uk/foreign-travel-advice/st-vincent-and-the-grenadines) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Sudan](https://www.gov.uk/foreign-travel-advice/sudan) | FCDO advises against all travel to parts of Sudan. |
+| ⚠️ | [Sudan](https://www.gov.uk/foreign-travel-advice/sudan) | FCDO advises against all travel to parts of Sudan. |
 | 🟢 | [Suriname](https://www.gov.uk/foreign-travel-advice/suriname) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Sweden](https://www.gov.uk/foreign-travel-advice/sweden) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Switzerland](https://www.gov.uk/foreign-travel-advice/switzerland) | No specific FCDO travel advisories are currently active. |
@@ -223,27 +223,27 @@ Refer to the linked FCDO advice page for full details on any warnings.
 | 🟡 | [Tanzania](https://www.gov.uk/foreign-travel-advice/tanzania) | FCDO advises against all but essential travel to parts of Tanzania. |
 | 🟡 | [Thailand](https://www.gov.uk/foreign-travel-advice/thailand) | FCDO advises against all but essential travel to parts of Thailand. |
 | 🟢 | [The Gambia](https://www.gov.uk/foreign-travel-advice/the-gambia) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [The Occupied Palestinian Territories](https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories) | FCDO advises against all travel to parts of The Occupied Palestinian Territories. |
+| ⚠️ | [The Occupied Palestinian Territories](https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories) | FCDO advises against all travel to parts of The Occupied Palestinian Territories. |
 | 🟢 | [Timor-Leste](https://www.gov.uk/foreign-travel-advice/timor-leste) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Togo](https://www.gov.uk/foreign-travel-advice/togo) | FCDO advises against all travel to parts of Togo. |
+| ⚠️ | [Togo](https://www.gov.uk/foreign-travel-advice/togo) | FCDO advises against all travel to parts of Togo. |
 | 🟢 | [Tonga](https://www.gov.uk/foreign-travel-advice/tonga) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Trinidad and Tobago](https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Tunisia](https://www.gov.uk/foreign-travel-advice/tunisia) | FCDO advises against all travel to parts of Tunisia. |
-| 🔴* | [Turkey](https://www.gov.uk/foreign-travel-advice/turkey) | FCDO advises against all travel to parts of Turkey. |
+| ⚠️ | [Tunisia](https://www.gov.uk/foreign-travel-advice/tunisia) | FCDO advises against all travel to parts of Tunisia. |
+| ⚠️ | [Turkey](https://www.gov.uk/foreign-travel-advice/turkey) | FCDO advises against all travel to parts of Turkey. |
 | 🟢 | [Turkmenistan](https://www.gov.uk/foreign-travel-advice/turkmenistan) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Turks and Caicos Islands](https://www.gov.uk/foreign-travel-advice/turks-and-caicos-islands) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Tuvalu](https://www.gov.uk/foreign-travel-advice/tuvalu) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [USA](https://www.gov.uk/foreign-travel-advice/usa) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Uganda](https://www.gov.uk/foreign-travel-advice/uganda) | FCDO advises against all but essential travel to parts of Uganda. |
-| 🔴* | [Ukraine](https://www.gov.uk/foreign-travel-advice/ukraine) | FCDO advises against all travel to parts of Ukraine.<br />FCDO advises against all but essential travel to parts of Ukraine. |
+| ⚠️ | [Ukraine](https://www.gov.uk/foreign-travel-advice/ukraine) | FCDO advises against all travel to parts of Ukraine.<br />FCDO advises against all but essential travel to parts of Ukraine. |
 | 🟢 | [United Arab Emirates](https://www.gov.uk/foreign-travel-advice/united-arab-emirates) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Uruguay](https://www.gov.uk/foreign-travel-advice/uruguay) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Uzbekistan](https://www.gov.uk/foreign-travel-advice/uzbekistan) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Vanuatu](https://www.gov.uk/foreign-travel-advice/vanuatu) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Venezuela](https://www.gov.uk/foreign-travel-advice/venezuela) | FCDO advises against all travel to parts of Venezuela. |
+| ⚠️ | [Venezuela](https://www.gov.uk/foreign-travel-advice/venezuela) | FCDO advises against all travel to parts of Venezuela. |
 | 🟢 | [Vietnam](https://www.gov.uk/foreign-travel-advice/vietnam) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Wallis and Futuna](https://www.gov.uk/foreign-travel-advice/wallis-and-futuna) | No specific FCDO travel advisories are currently active. |
-| 🔴* | [Western Sahara](https://www.gov.uk/foreign-travel-advice/western-sahara) | FCDO advises against all travel to parts of Western Sahara. |
+| ⚠️ | [Western Sahara](https://www.gov.uk/foreign-travel-advice/western-sahara) | FCDO advises against all travel to parts of Western Sahara. |
 | 🔴 | [Yemen](https://www.gov.uk/foreign-travel-advice/yemen) | FCDO advises against all travel to Yemen. |
 | 🟢 | [Zambia](https://www.gov.uk/foreign-travel-advice/zambia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Zimbabwe](https://www.gov.uk/foreign-travel-advice/zimbabwe) | No specific FCDO travel advisories are currently active. |
