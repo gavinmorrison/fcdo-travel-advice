@@ -4,13 +4,15 @@ This repository automatically tracks the UK Foreign, Commonwealth & Development 
 
 ## Traffic Light System
 
-The status column uses a traffic light system to provide a quick overview:
+The status column uses a traffic light system based on the following rules:
 
-*   🔴 **Red:** FCDO advises against all travel (either to the whole country or parts).
-*   🟡 **Yellow:** FCDO advises against all but essential travel (either to the whole country or parts).
-*   🟢 **Green:** No specific FCDO travel advisories are currently active.
-*   `*` **Asterisk:** Indicates that multiple levels of advice are present (e.g., both 'Red' and 'Yellow' level warnings apply to different parts of the country). Refer to the linked FCDO advice page for full details.
-*   ❓ **Question Mark:** Indicates an error occurred while fetching or processing the data for this country.
+*   🔴 **Red:** FCDO advises against **all travel** to at least one part of the country (applies if `avoid_all_travel_to_parts` or `avoid_all_travel_to_whole_country` is present).
+*   🔴* **Red with Asterisk:** A combination of "avoid all travel" and "avoid all but essential travel" warnings exist for the country (both Red-level and Yellow-level alerts are present).
+*   🟡 **Yellow:** FCDO advises against **all but essential travel** (applies if `avoid_all_but_essential_travel_to_parts` or `avoid_all_but_essential_travel_to_whole_country` is present), **and** no Red-level warnings are present.
+*   🟢 **Green:** No FCDO travel warnings apply (the API returns an empty list for `alert_status`).
+*   ❓ **Question Mark:** An error occurred fetching/processing data, the `alert_status` was missing or invalid, or contained unrecognized values.
+
+Refer to the linked FCDO advice page for full details on any warnings.
 
 ---
 

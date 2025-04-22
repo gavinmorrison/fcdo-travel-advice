@@ -15,14 +15,14 @@ YELLOW_ALERTS = {
     "avoid_all_but_essential_travel_to_parts"
 }
 
-# Define test slugs
+# Define test slugs - Expected results based on NEW rules
 TEST_SLUGS = [
-    "colombia",      # Expected: Yellow (avoid_all_but_essential_travel_to_parts)
-    "north-korea",   # Expected: Yellow (avoid_all_but_essential_travel_to_whole_country)
-    "turkey",        # Expected: Red (avoid_all_travel_to_parts)
-    "azerbaijan",    # Expected: Red* (avoid_all_travel_to_parts, avoid_all_but_essential_travel_to_parts)
-    "yemen",         # Expected: Red (avoid_all_travel_to_whole_country)
-    "norway"         # Expected: Green (No alert status)
+    "colombia",      # Expected: 🟡 Yellow (avoid_all_but_essential_travel_to_parts only)
+    "north-korea",   # Expected: 🟡 Yellow (avoid_all_but_essential_travel_to_whole_country only)
+    "turkey",        # Expected: 🔴 Red (avoid_all_travel_to_parts only)
+    "azerbaijan",    # Expected: 🔴* Red* (avoid_all_travel_to_parts AND avoid_all_but_essential_travel_to_parts)
+    "yemen",         # Expected: 🔴 Red (avoid_all_travel_to_whole_country only)
+    "norway"         # Expected: 🟢 Green (API returns empty list [])
 ]
 
 def fetch_json(url):
@@ -38,7 +38,7 @@ def fetch_json(url):
 
 def get_traffic_light_status(alert_list):
     """
-    Determines the traffic light emoji and raw status string based on alert levels.
+    Determines the traffic light emoji and raw status string based on FCDO rules.
 
     Args:
         alert_list: A list of alert status strings from the API.
@@ -46,28 +46,38 @@ def get_traffic_light_status(alert_list):
     Returns:
         A tuple: (emoji_string, raw_status_string)
     """
+    # Rule 5: Handle unexpected input type (treat as error/unknown)
     if not isinstance(alert_list, list):
-        # Handle unexpected data type
-        print(f"Warning: Unexpected alert_list type: {type(alert_list)}. Treating as no alerts.", file=sys.stderr)
-        alert_list = []
+        print(f"Warning: Unexpected alert_list type: {type(alert_list)}. Assigning '❓'.", file=sys.stderr)
+        raw_status = f"Invalid data type received: {type(alert_list)}"
+        return "❓", raw_status
 
     current_alerts = set(alert_list)
-    raw_status = ", ".join(alert_list) if alert_list else "No specific alerts"
+    raw_status = ", ".join(alert_list) if alert_list else "No specific alerts" # Display "No specific alerts" if list is empty
 
     has_red = bool(current_alerts.intersection(RED_ALERTS))
     has_yellow = bool(current_alerts.intersection(YELLOW_ALERTS))
 
-    emoji = "🟢" # Default Green
+    # Apply rules in order of precedence
     if has_red:
-        emoji = "🔴"
+        # Rule 2: Red with Asterisk*
+        if has_yellow:
+            emoji = "🔴*"
+        # Rule 1: Red
+        else:
+            emoji = "🔴"
     elif has_yellow:
+        # Rule 3: Yellow (only if no Red)
         emoji = "🟡"
-
-    # Add asterisk if multiple severity levels are present
-    if has_red and has_yellow:
-        emoji += "*"
-    # Could also add check for green + yellow/red if "No alert status" was ever mixed,
-    # but based on sample data, it seems exclusive.
+    # Rule 4: Green (only if no Red or Yellow and list is empty)
+    # The API returns [] for countries with no warnings, not "No alert status" text.
+    elif not alert_list:
+         emoji = "🟢"
+    # Rule 5: Question Mark (if list has content but none match Red/Yellow - covers unexpected API values)
+    else:
+        print(f"Warning: Unrecognized alert values found: {alert_list}. Assigning '❓'.", file=sys.stderr)
+        emoji = "❓"
+        raw_status = f"Unrecognized alerts: {raw_status}" # Keep original raw status for debugging
 
     return emoji, raw_status
 
@@ -76,13 +86,22 @@ def get_country_data(slug):
     url = f"{BASE_URL}/{slug}"
     data = fetch_json(url)
 
+    # Handle fetch error (Rule 5 implicitly)
     if data is None:
         return {"slug": slug, "error": "Failed to fetch API data"}
 
     try:
         details = data.get("details", {})
         country_name = details.get("country", {}).get("name", slug.replace('-', ' ').title())
-        alert_list = details.get("alert_status", []) # Expecting a list
+        # Ensure alert_status exists and is a list (Rule 5 check)
+        alert_list = details.get("alert_status")
+        if alert_list is None:
+             print(f"Warning: 'alert_status' key missing for {slug}. Treating as error.", file=sys.stderr)
+             return {"slug": slug, "error": "Missing 'alert_status' in API response"}
+        if not isinstance(alert_list, list):
+             print(f"Warning: 'alert_status' is not a list for {slug} (type: {type(alert_list)}). Treating as error.", file=sys.stderr)
+             return {"slug": slug, "error": f"Invalid 'alert_status' type: {type(alert_list)}"}
+
 
         return {
             "country": country_name,
@@ -91,7 +110,7 @@ def get_country_data(slug):
             "error": None
         }
     except Exception as e:
-        # Catch potential errors during data extraction
+        # Catch potential errors during data extraction (Rule 5 implicitly)
         print(f"Error processing data for {slug}: {e}\nData: {json.dumps(data)}", file=sys.stderr)
         return {"slug": slug, "error": f"Error processing API response: {str(e)}"}
 
@@ -143,21 +162,27 @@ def main(args): # Accept parsed arguments
     ]
 
     processed_count = 0
+    error_count = 0 # Track errors
     for i, slug in enumerate(countries_to_process, start=1):
         print(f"Processing {i}/{total}: {slug}", file=sys.stderr)
         result = get_country_data(slug)
 
+        # Handle errors from get_country_data (Rule 5)
         if result.get("error"):
             country_name = slug.replace('-', ' ').title()
             markdown_rows.append(f"| ❓ | {country_name} | Error: {result['error']} |")
+            error_count += 1
         else:
+            # Apply traffic light logic (Rules 1-4, and 5 for unrecognized values)
             emoji, raw_status = get_traffic_light_status(result['alert_list'])
             country_name = result['country']
             link = f"https://www.gov.uk/foreign-travel-advice/{result['slug']}"
             markdown_rows.append(f"| {emoji} | [{country_name}]({link}) | {raw_status} |")
+            if emoji == '❓':
+                 error_count += 1
             processed_count += 1
 
-    print(f"\nProcessed {processed_count}/{total} countries.", file=sys.stderr)
+    print(f"\nProcessed {processed_count}/{total} countries. Encountered {error_count} errors/unknown statuses.", file=sys.stderr)
     # Print the final table to stdout
     print("\n".join(markdown_rows))
 
