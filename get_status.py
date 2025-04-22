@@ -23,13 +23,13 @@ ADVICE_TEMPLATES = {
     "avoid_all_but_essential_travel_to_parts": "FCDO advises against all but essential travel to parts of {country_name}."
 }
 
-# Define test slugs
+# Define test slugs - Updated expected results
 TEST_SLUGS = [
     "colombia",      # Expected: 🟡 Yellow
     "north-korea",   # Expected: 🟡 Yellow
-    "turkey",        # Expected: 🔴 Red
-    "azerbaijan",    # Expected: 🔴* Red*
-    "yemen",         # Expected: 🔴 Red
+    "turkey",        # Expected: 🔴* Red* (avoid_all_travel_to_parts only)
+    "azerbaijan",    # Expected: 🔴* Red* (avoid_all_travel_to_parts AND avoid_all_but_essential_travel_to_parts)
+    "yemen",         # Expected: 🔴 Red (avoid_all_travel_to_whole_country)
     "norway"         # Expected: 🟢 Green
 ]
 
@@ -71,25 +71,36 @@ def translate_advice(alert_list, country_name):
     return output
 
 def get_traffic_light_status(alert_list):
-    """Determines the traffic light emoji based on FCDO rules."""
+    """Determines the traffic light emoji based on FCDO rules (updated 🔴/🔴* logic)."""
     if not isinstance(alert_list, list):
         print(f"Warning: Unexpected alert_list type: {type(alert_list)}. Assigning '❓'.", file=sys.stderr)
         return "❓"
 
     current_alerts = set(alert_list)
-    has_red = bool(current_alerts.intersection(RED_ALERTS))
-    has_yellow = bool(current_alerts.intersection(YELLOW_ALERTS))
+    has_red_whole = "avoid_all_travel_to_whole_country" in current_alerts
+    has_red_parts = "avoid_all_travel_to_parts" in current_alerts
+    has_any_red = has_red_whole or has_red_parts
+    has_any_yellow = bool(current_alerts.intersection(YELLOW_ALERTS))
 
-    if has_red:
-        emoji = "🔴*" if has_yellow else "🔴"
-    elif has_yellow:
+    # Apply rules in order of precedence based on confirmed logic
+    if has_red_whole:
+        # Rule: 🔴 if 'whole_country' red alert exists (takes precedence)
+        emoji = "🔴"
+    elif has_red_parts:
+         # Rule: 🔴* if 'parts' red alert exists AND 'whole_country' red alert does NOT exist
+         emoji = "🔴*"
+    elif has_any_yellow:
+        # Rule: 🟡 if any Yellow alerts exist AND no Red alerts exist
         emoji = "🟡"
     elif not alert_list:
+         # Rule: 🟢 if list is empty (no alerts)
          emoji = "🟢"
     else:
+        # Rule: ❓ if list has content but none match known Red/Yellow alerts
         if any(alert not in ADVICE_TEMPLATES for alert in alert_list):
-             emoji = "❓"
+             emoji = "❓" # Contains unrecognized alerts
         else:
+             # Contains known alerts, but didn't trigger Red/Yellow/Green logic (should not happen ideally)
              print(f"Warning: Alert list {alert_list} didn't match Red/Yellow/Green rules, but contains known values. Assigning '❓'.", file=sys.stderr)
              emoji = "❓"
     return emoji
@@ -200,7 +211,7 @@ def main(args):
              error_count += 1
         else:
             alert_list = result['alert_list']
-            emoji = get_traffic_light_status(alert_list)
+            emoji = get_traffic_light_status(alert_list) # Get emoji based on updated logic
             advice_text = translate_advice(alert_list, country_name)
             if emoji == '❓' and not advice_text.startswith("Unrecognized alerts") and not advice_text.startswith("Error:"):
                  advice_text = "Error: Could not determine status from alerts."
@@ -220,7 +231,6 @@ def main(args):
             print(f"✅ Successfully wrote results to {output_filename}", file=sys.stderr)
         except IOError as e:
             print(f"❌ Error writing to file {output_filename}: {e}", file=sys.stderr)
-            # Optionally print to stdout as a fallback? Or just exit? For now, just report error.
             sys.exit(1) # Exit if file write fails
     else:
         # Print to standard output if no file specified
