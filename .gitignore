@@ -17,3 +17,5 @@ results.md
 # OS-specific files
 .DS_Store
 Thumbs.db
+# Test output file
+TEST.md

@@ -1,0 +1,42 @@
+name: Run Test Mode
+
+on:
+  workflow_dispatch: # Allow manual trigger from Actions tab
+
+jobs:
+  run_test_script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script in test mode (output to TEST.md)
+        run: python get_status.py --test
+
+      - name: Check if TEST.md was created
+        id: check_test_file
+        run: |
+          if [ -f TEST.md ]; then
+            echo "TEST.md successfully created."
+            # Optional: Output a snippet for quick verification in logs
+            echo "::notice title=TEST.md Content Snippet::$(head -n 10 TEST.md)"
+          else
+            echo "::error::TEST.md was not created. The script might have failed."
+            exit 1
+          fi
+        # Note: This workflow does not commit TEST.md.
+        # It's just for verifying the script runs correctly in test mode.
+        # You can optionally add steps to upload TEST.md as an artifact if needed.
+        # - name: Upload Test Results
+        #   uses: actions/upload-artifact@v4
+        #   with:
+        #     name: test-results
+        #     path: TEST.md
