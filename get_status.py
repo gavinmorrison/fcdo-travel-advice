@@ -27,8 +27,8 @@ ADVICE_TEMPLATES = {
 TEST_SLUGS = [
     "colombia",      # Expected: 🟡 Yellow
     "north-korea",   # Expected: 🟡 Yellow
-    "turkey",        # Expected: 🔴* Red* (avoid_all_travel_to_parts only)
-    "azerbaijan",    # Expected: 🔴* Red* (avoid_all_travel_to_parts AND avoid_all_but_essential_travel_to_parts)
+    "turkey",        # Expected: ⚠️ Warning (avoid_all_travel_to_parts only)
+    "azerbaijan",    # Expected: ⚠️ Warning (avoid_all_travel_to_parts AND avoid_all_but_essential_travel_to_parts)
     "yemen",         # Expected: 🔴 Red (avoid_all_travel_to_whole_country)
     "norway"         # Expected: 🟢 Green
 ]
@@ -87,8 +87,8 @@ def get_traffic_light_status(alert_list):
         # Rule: 🔴 if 'whole_country' red alert exists (takes precedence)
         emoji = "🔴"
     elif has_red_parts:
-         # Rule: 🔴* if 'parts' red alert exists AND 'whole_country' red alert does NOT exist
-         emoji = "🔴*"
+         # Rule: ⚠️ if 'parts' red alert exists AND 'whole_country' red alert does NOT exist
+         emoji = "⚠️"
     elif has_any_yellow:
         # Rule: 🟡 if any Yellow alerts exist AND no Red alerts exist
         emoji = "🟡"
