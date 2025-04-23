@@ -137,66 +137,46 @@ def get_country_data(slug):
         return {"slug": slug, "country": slug.replace('-', ' ').title(), "alert_list": None, "error": f"Error processing API response: {str(e)}"}
 
 
-def main(args):
-    """Fetches countries, gets status, sorts, and prints/writes Markdown table."""
+def get_all_country_slugs(base_url):
+    """Fetches the list of all country slugs from the API."""
+    print("Fetching full country list...", file=sys.stderr)
+    root_data = fetch_json(base_url)
+    if root_data is None or 'links' not in root_data or 'children' not in root_data['links']:
+        print("❌ Error: Could not fetch the main country list from API.", file=sys.stderr)
+        return None
 
-    slugs_to_process = []
-    output_target = sys.stdout # Default to standard output
-    output_filename = None
+    slugs = []
+    all_countries_data = root_data['links']['children']
+    print(f"Found {len(all_countries_data)} countries in API list. Extracting slugs...", file=sys.stderr)
+    for i, country_link_data in enumerate(all_countries_data, start=1):
+        slug = country_link_data.get('details', {}).get('country', {}).get('slug')
+        if slug:
+            slugs.append(slug)
+        else:
+            title = country_link_data.get('title', f'Unknown Entry {i}')
+            print(f"⚠️ Skipping entry '{title}' due to missing slug.", file=sys.stderr)
+    return slugs
 
-    # Determine output target
-    if args.output:
-        output_filename = args.output
-        print(f"Output will be written to file: {output_filename}", file=sys.stderr)
-    elif args.test:
-        # Default output file for test mode if --output not specified
-        output_filename = "TEST.md"
-        print(f"Test mode active. Output will be written to default file: {output_filename}", file=sys.stderr)
-    else:
-         print(f"Output will be written to standard output.", file=sys.stderr)
-
-
-    if args.test:
-        print("🧪 Running in test mode with predefined slugs.", file=sys.stderr)
-        slugs_to_process = TEST_SLUGS
-    else:
-        # Fetch full list if not in test mode
-        print("Fetching full country list...", file=sys.stderr)
-        root_data = fetch_json(BASE_URL)
-        if root_data is None or 'links' not in root_data or 'children' not in root_data['links']:
-            print("❌ Error: Could not fetch the main country list from API.", file=sys.stderr)
-            sys.exit(1)
-        all_countries_data = root_data['links']['children']
-        print(f"Found {len(all_countries_data)} countries in API list. Extracting slugs...", file=sys.stderr)
-        for i, country_link_data in enumerate(all_countries_data, start=1):
-            slug = country_link_data.get('details', {}).get('country', {}).get('slug')
-            if slug:
-                slugs_to_process.append(slug)
-            else:
-                title = country_link_data.get('title', f'Unknown Entry {i}')
-                print(f"⚠️ Skipping entry '{title}' due to missing slug.", file=sys.stderr)
-
-    # Fetch data for selected slugs
-    total_slugs = len(slugs_to_process)
+def fetch_all_country_data(slugs, base_url):
+    """Fetches data for a list of country slugs."""
+    total_slugs = len(slugs)
     print(f"Fetching details for {total_slugs} countries...", file=sys.stderr)
     all_results = []
-    for i, slug in enumerate(slugs_to_process, start=1):
+    for i, slug in enumerate(slugs, start=1):
         print(f"Fetching {i}/{total_slugs}: {slug}", file=sys.stderr)
         all_results.append(get_country_data(slug))
+    return all_results
 
-    # Sort results alphabetically
-    all_results.sort(key=lambda x: x.get('country', ''))
-    print(f"\nSorting complete.", file=sys.stderr)
-
-    # Generate Markdown table
+def generate_markdown_table(results):
+    """Generates the Markdown table rows from processed country data."""
     markdown_rows = [
         "| Status | Country | FCDO Advice |",
         "|:------:|---------|-------------|"
     ]
     processed_count = 0
     error_count = 0
-    print(f"Generating Markdown table for {len(all_results)} countries...", file=sys.stderr)
-    for result in all_results:
+    print(f"Generating Markdown table for {len(results)} countries...", file=sys.stderr)
+    for result in results:
         country_name = result.get('country', 'Unknown')
         slug = result.get('slug', '')
         link = f"https://www.gov.uk/foreign-travel-advice/{slug}" if slug else "#"
@@ -211,7 +191,7 @@ def main(args):
              error_count += 1
         else:
             alert_list = result['alert_list']
-            emoji = get_traffic_light_status(alert_list) # Get emoji based on updated logic
+            emoji = get_traffic_light_status(alert_list)
             advice_text = translate_advice(alert_list, country_name)
             if emoji == '❓' and not advice_text.startswith("Unrecognized alerts") and not advice_text.startswith("Error:"):
                  advice_text = "Error: Could not determine status from alerts."
@@ -220,34 +200,50 @@ def main(args):
 
         markdown_rows.append(f"| {emoji} | [{country_name}]({link}) | {advice_text} |")
 
-    print(f"\nProcessed {processed_count}/{len(all_results)} countries successfully. Encountered {error_count} errors/unknown statuses.", file=sys.stderr)
+    print(f"\nProcessed {processed_count}/{len(results)} countries successfully. Encountered {error_count} errors/unknown statuses.", file=sys.stderr)
+    return "\n".join(markdown_rows)
 
-    # Write output
-    final_markdown = "\n".join(markdown_rows)
-    if output_filename:
+def write_output(content, filename):
+    """Writes the given content to a file or standard output."""
+    if filename:
         try:
-            with open(output_filename, 'w', encoding='utf-8') as f:
-                f.write(final_markdown)
-            print(f"✅ Successfully wrote results to {output_filename}", file=sys.stderr)
+            with open(filename, 'w', encoding='utf-8') as f:
+                f.write(content)
+            print(f"✅ Successfully wrote results to {filename}", file=sys.stderr)
         except IOError as e:
-            print(f"❌ Error writing to file {output_filename}: {e}", file=sys.stderr)
-            sys.exit(1) # Exit if file write fails
+            print(f"❌ Error writing to file {filename}: {e}", file=sys.stderr)
+            sys.exit(1)
     else:
-        # Print to standard output if no file specified
-        print(final_markdown)
+        print(content)
 
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Fetch FCDO travel advice and generate a Markdown table.")
-    parser.add_argument(
-        "--test",
-        action="store_true",
-        help="Run in test mode using a predefined list of country slugs (outputs to TEST.md by default)."
-    )
-    parser.add_argument(
-        "-o", "--output",
-        metavar="FILE",
-        help="Specify output file path (default: stdout, or TEST.md if --test is used)."
-    )
-    parsed_args = parser.parse_args()
-    main(parsed_args)
+def main(args):
+    """Fetches countries, gets status, sorts, and prints/writes Markdown table."""
+
+    output_filename = None
+    if args.output:
+        output_filename = args.output
+        print(f"Output will be written to file: {output_filename}", file=sys.stderr)
+    elif args.test:
+        output_filename = "TEST.md"
+        print(f"Test mode active. Output will be written to default file: {output_filename}", file=sys.stderr)
+    else:
+         print(f"Output will be written to standard output.", file=sys.stderr)
+
+    if args.test:
+        print("🧪 Running in test mode with predefined slugs.", file=sys.stderr)
+        slugs_to_process = TEST_SLUGS
+    else:
+        slugs_to_process = get_all_country_slugs(BASE_URL)
+        if slugs_to_process is None:
+            sys.exit(1)
+
+    all_results = fetch_all_country_data(slugs_to_process, BASE_URL)
+
+    # Sort results alphabetically
+    all_results.sort(key=lambda x: x.get('country', ''))
+    print(f"\nSorting complete.", file=sys.stderr)
+
+    final_markdown = generate_markdown_table(all_results)
+
+    write_output(final_markdown, output_filename)
