@@ -1,5 +1,5 @@
-import requests
 import sys
+import requests
 import json # Import json for potential error details
 import argparse # Import argparse for command-line flags
 
@@ -247,3 +247,17 @@ def main(args):
     final_markdown = generate_markdown_table(all_results)
 
     write_output(final_markdown, output_filename)
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Fetch FCDO travel advice and generate a Markdown table.")
+    parser.add_argument(
+        "--test",
+        action="store_true",
+        help="Run in test mode using a predefined list of country slugs (outputs to TEST.md by default)."
+    )
+    parser.add_argument(
+        "-o", "--output",
+        metavar="FILE",
+        help="Specify output file path (default: stdout, or TEST.md if --test is used)."
+    )
+    parsed_args = parser.parse_args()
+    main(parsed_args)
