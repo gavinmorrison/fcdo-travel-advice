@@ -23,34 +23,32 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run script and capture output
-        run: python get_status.py 2>&1 | tee script_output.log
+      - name: Run script and generate results.md
+        run: python get_status.py --output results.md 2> script_stderr.log || true # Capture stderr, continue even if script fails
 
-      - name: Extract Markdown table from output
+      - name: Check script stderr for errors
         run: |
-          # Find the start and end markers and extract the content in between
-          awk '/\| Status \| Country \| FCDO Advice \|/,/<!-- FCDO_TABLE_END -->/' script_output.log | \
-          grep -v '<!-- FCDO_TABLE_END -->' > results.md
+          if [ -s script_stderr.log ]; then
+            echo "::warning::Script produced errors:"
+            cat script_stderr.log
+          fi
 
-      - name: Check if results file is empty
+      - name: Check if results file exists and is not empty
         id: check_results
         run: |
           if [ -s results.md ]; then
             echo "Results generated successfully."
             echo "empty=false" >> $GITHUB_OUTPUT
           else
-            # Output error message to Actions log
-            echo "::error::results.md is empty. The Python script might have failed to fetch or process data or the output format changed."
+            echo "::error::results.md is empty or was not created. The Python script likely failed."
+            echo "::warning::Script stderr log:"
+            cat script_stderr.log # Print stderr log for debugging
             echo "empty=true" >> $GITHUB_OUTPUT
-            # Print the full script output to the log for debugging
-            echo "::debug::Full script output:"
-            cat script_output.log
-            # Exit with failure code to stop the workflow here
             exit 1
           fi
 
       - name: Update README.md
-        # Only run this step if the results file was not empty
+        # Only run this step if the results file exists and is not empty
         if: steps.check_results.outputs.empty == 'false'
         run: |
           # Ensure README.md exists and has markers (add if missing)
