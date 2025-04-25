@@ -19,7 +19,7 @@ jobs:
         run: pip install requests
 
       - name: Run script in test mode (output to TEST.md)
-        run: python get_status.py --test
+        run: python get_status.py --test 2> test_stderr.log || true # Capture stderr, continue on failure
 
       - name: Check if TEST.md was created
         id: check_test_file
@@ -30,6 +30,8 @@ jobs:
             echo "::notice title=TEST.md Content Snippet::$(head -n 10 TEST.md)"
           else
             echo "::error::TEST.md was not created. The script might have failed."
+            echo "::warning::Script stderr log:"
+            cat test_stderr.log # Print stderr log for debugging
             exit 1
           fi
         # Note: This workflow does not commit TEST.md.
