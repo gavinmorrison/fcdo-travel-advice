@@ -21,10 +21,15 @@ jobs:
           python-version: '3.11' # Using Python 3.11
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Run script and generate results.md
-        run: python get_status.py --output results.md 2> script_stderr.log || true # Capture stderr, continue even if script fails
+        run: |
+          echo "Running FCDO travel advice script..."
+          python get_status.py --output results.md 2> script_stderr.log || true
+          echo "Script execution completed."
 
       - name: Check script stderr for errors
         run: |

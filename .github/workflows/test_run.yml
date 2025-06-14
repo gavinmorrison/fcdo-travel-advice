@@ -16,7 +16,9 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Run script in test mode (output to TEST.md)
         run: python get_status.py --test 2> test_stderr.log || true # Capture stderr, continue on failure

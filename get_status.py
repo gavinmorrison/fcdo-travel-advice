@@ -1,7 +1,30 @@
+#!/usr/bin/env python3
+"""
+FCDO Travel Advice Status Checker
+
+This script fetches travel advice data from the UK Foreign, Commonwealth & Development Office (FCDO)
+API and generates a Markdown table showing the current travel advisory status for all countries.
+
+The script categorizes countries using a traffic light system:
+🔴 Red: FCDO advises against all travel to the whole country
+⚠️  Warning: FCDO advises against all travel to parts of the country
+🟡 Yellow: FCDO advises against all but essential travel
+🟢 Green: No specific travel advisories active
+❓ Unknown: Error or unrecognized alert status
+
+Author: Gavin Morrison
+License: MIT
+Version: 1.0.0
+"""
+
 import sys
 import requests
-import json # Import json for potential error details
-import argparse # Import argparse for command-line flags
+import json
+import argparse
+
+__version__ = "1.0.0"
+__author__ = "FCDO Travel Advice Monitor"
+__license__ = "MIT"
 
 BASE_URL = "https://www.gov.uk/api/content/foreign-travel-advice"
 
@@ -79,7 +102,6 @@ def get_traffic_light_status(alert_list):
     current_alerts = set(alert_list)
     has_red_whole = "avoid_all_travel_to_whole_country" in current_alerts
     has_red_parts = "avoid_all_travel_to_parts" in current_alerts
-    has_any_red = has_red_whole or has_red_parts
     has_any_yellow = bool(current_alerts.intersection(YELLOW_ALERTS))
 
     # Apply rules in order of precedence based on confirmed logic
@@ -157,7 +179,7 @@ def get_all_country_slugs(base_url):
             print(f"⚠️ Skipping entry '{title}' due to missing slug.", file=sys.stderr)
     return slugs
 
-def fetch_all_country_data(slugs, base_url):
+def fetch_all_country_data(slugs):
     """Fetches data for a list of country slugs."""
     total_slugs = len(slugs)
     print(f"Fetching details for {total_slugs} countries...", file=sys.stderr)
@@ -238,7 +260,7 @@ def main(args):
         if slugs_to_process is None:
             sys.exit(1)
 
-    all_results = fetch_all_country_data(slugs_to_process, BASE_URL)
+    all_results = fetch_all_country_data(slugs_to_process)
 
     # Sort results alphabetically
     all_results.sort(key=lambda x: x.get('country', ''))
@@ -248,7 +270,15 @@ def main(args):
 
     write_output(final_markdown, output_filename)
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Fetch FCDO travel advice and generate a Markdown table.")
+    parser = argparse.ArgumentParser(
+        description="Fetch FCDO travel advice and generate a Markdown table.",
+        epilog=f"Version {__version__} - {__license__} License"
+    )
+    parser.add_argument(
+        "--version",
+        action="version",
+        version=f"%(prog)s {__version__}"
+    )
     parser.add_argument(
         "--test",
         action="store_true",
