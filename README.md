@@ -129,7 +129,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Kyrgyzstan](https://www.gov.uk/foreign-travel-advice/kyrgyzstan) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Laos](https://www.gov.uk/foreign-travel-advice/laos) | FCDO advises against all but essential travel to parts of Laos. |
 | 🟢 | [Latvia](https://www.gov.uk/foreign-travel-advice/latvia) | No specific FCDO travel advisories are currently active. |
-| ⚠️ | [Lebanon](https://www.gov.uk/foreign-travel-advice/lebanon) | FCDO advises against all travel to parts of Lebanon.<br />FCDO advises against all but essential travel to parts of Lebanon. |
+| ⚠️ | [Lebanon](https://www.gov.uk/foreign-travel-advice/lebanon) | FCDO advises against all travel to parts of Lebanon. |
 | 🟢 | [Lesotho](https://www.gov.uk/foreign-travel-advice/lesotho) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Liberia](https://www.gov.uk/foreign-travel-advice/liberia) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Libya](https://www.gov.uk/foreign-travel-advice/libya) | FCDO advises against all travel to parts of Libya.<br />FCDO advises against all but essential travel to parts of Libya. |
