@@ -72,7 +72,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Cuba](https://www.gov.uk/foreign-travel-advice/cuba) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Curaçao](https://www.gov.uk/foreign-travel-advice/curacao) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Cyprus](https://www.gov.uk/foreign-travel-advice/cyprus) | No specific FCDO travel advisories are currently active. |
-| 🟢 | [Czech Republic](https://www.gov.uk/foreign-travel-advice/czech-republic) | No specific FCDO travel advisories are currently active. |
+| 🟢 | [Czechia](https://www.gov.uk/foreign-travel-advice/czechia) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Côte d'Ivoire](https://www.gov.uk/foreign-travel-advice/cote-d-ivoire) | FCDO advises against all travel to parts of Côte d'Ivoire. |
 | ⚠️ | [Democratic Republic of the Congo](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) | FCDO advises against all travel to parts of Democratic Republic of the Congo. |
 | 🟢 | [Denmark](https://www.gov.uk/foreign-travel-advice/denmark) | No specific FCDO travel advisories are currently active. |
