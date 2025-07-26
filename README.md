@@ -52,7 +52,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [British Virgin Islands](https://www.gov.uk/foreign-travel-advice/british-virgin-islands) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Brunei](https://www.gov.uk/foreign-travel-advice/brunei) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Bulgaria](https://www.gov.uk/foreign-travel-advice/bulgaria) | No specific FCDO travel advisories are currently active. |
-| ⚠️ | [Burkina Faso](https://www.gov.uk/foreign-travel-advice/burkina-faso) | FCDO advises against all travel to parts of Burkina Faso. |
+| 🔴 | [Burkina Faso](https://www.gov.uk/foreign-travel-advice/burkina-faso) | FCDO advises against all travel to Burkina Faso. |
 | ⚠️ | [Burundi](https://www.gov.uk/foreign-travel-advice/burundi) | FCDO advises against all travel to parts of Burundi.<br />FCDO advises against all but essential travel to parts of Burundi. |
 | 🟡 | [Cambodia](https://www.gov.uk/foreign-travel-advice/cambodia) | FCDO advises against all but essential travel to parts of Cambodia. |
 | ⚠️ | [Cameroon](https://www.gov.uk/foreign-travel-advice/cameroon) | FCDO advises against all travel to parts of Cameroon. |
