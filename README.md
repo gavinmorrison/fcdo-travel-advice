@@ -147,7 +147,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Martinique](https://www.gov.uk/foreign-travel-advice/martinique) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Mauritania](https://www.gov.uk/foreign-travel-advice/mauritania) | FCDO advises against all travel to parts of Mauritania. |
 | 🟢 | [Mauritius](https://www.gov.uk/foreign-travel-advice/mauritius) | No specific FCDO travel advisories are currently active. |
-| 🟡 | [Mayotte](https://www.gov.uk/foreign-travel-advice/mayotte) | FCDO advises against all but essential travel to Mayotte. |
+| 🟢 | [Mayotte](https://www.gov.uk/foreign-travel-advice/mayotte) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Mexico](https://www.gov.uk/foreign-travel-advice/mexico) | FCDO advises against all but essential travel to parts of Mexico. |
 | ⚠️ | [Moldova](https://www.gov.uk/foreign-travel-advice/moldova) | FCDO advises against all travel to parts of Moldova. |
 | 🟢 | [Monaco](https://www.gov.uk/foreign-travel-advice/monaco) | No specific FCDO travel advisories are currently active. |
