@@ -122,7 +122,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Japan](https://www.gov.uk/foreign-travel-advice/japan) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Jordan](https://www.gov.uk/foreign-travel-advice/jordan) | FCDO advises against all travel to parts of Jordan. |
 | 🟢 | [Kazakhstan](https://www.gov.uk/foreign-travel-advice/kazakhstan) | No specific FCDO travel advisories are currently active. |
-| 🟡 | [Kenya](https://www.gov.uk/foreign-travel-advice/kenya) | FCDO advises against all but essential travel to parts of Kenya. |
+| ⚠️ | [Kenya](https://www.gov.uk/foreign-travel-advice/kenya) | FCDO advises against all travel to parts of Kenya.<br />FCDO advises against all but essential travel to parts of Kenya. |
 | 🟢 | [Kiribati](https://www.gov.uk/foreign-travel-advice/kiribati) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Kosovo](https://www.gov.uk/foreign-travel-advice/kosovo) | FCDO advises against all but essential travel to parts of Kosovo. |
 | 🟢 | [Kuwait](https://www.gov.uk/foreign-travel-advice/kuwait) | No specific FCDO travel advisories are currently active. |
