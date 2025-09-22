@@ -172,6 +172,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Oman](https://www.gov.uk/foreign-travel-advice/oman) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Pakistan](https://www.gov.uk/foreign-travel-advice/pakistan) | FCDO advises against all travel to parts of Pakistan.<br />FCDO advises against all but essential travel to parts of Pakistan. |
 | 🟢 | [Palau](https://www.gov.uk/foreign-travel-advice/palau) | No specific FCDO travel advisories are currently active. |
+| ⚠️ | [Palestine](https://www.gov.uk/foreign-travel-advice/palestine) | FCDO advises against all travel to parts of Palestine.<br />FCDO advises against all but essential travel to parts of Palestine. |
 | 🟢 | [Panama](https://www.gov.uk/foreign-travel-advice/panama) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Papua New Guinea](https://www.gov.uk/foreign-travel-advice/papua-new-guinea) | FCDO advises against all but essential travel to parts of Papua New Guinea. |
 | 🟢 | [Paraguay](https://www.gov.uk/foreign-travel-advice/paraguay) | No specific FCDO travel advisories are currently active. |
@@ -221,7 +222,6 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟡 | [Tanzania](https://www.gov.uk/foreign-travel-advice/tanzania) | FCDO advises against all but essential travel to parts of Tanzania. |
 | 🟡 | [Thailand](https://www.gov.uk/foreign-travel-advice/thailand) | FCDO advises against all but essential travel to parts of Thailand. |
 | 🟢 | [The Gambia](https://www.gov.uk/foreign-travel-advice/the-gambia) | No specific FCDO travel advisories are currently active. |
-| ⚠️ | [The Occupied Palestinian Territories](https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories) | FCDO advises against all travel to parts of The Occupied Palestinian Territories.<br />FCDO advises against all but essential travel to parts of The Occupied Palestinian Territories. |
 | 🟢 | [Timor-Leste](https://www.gov.uk/foreign-travel-advice/timor-leste) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Togo](https://www.gov.uk/foreign-travel-advice/togo) | FCDO advises against all travel to parts of Togo. |
 | 🟢 | [Tonga](https://www.gov.uk/foreign-travel-advice/tonga) | No specific FCDO travel advisories are currently active. |
