@@ -137,7 +137,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Lithuania](https://www.gov.uk/foreign-travel-advice/lithuania) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Luxembourg](https://www.gov.uk/foreign-travel-advice/luxembourg) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Macao](https://www.gov.uk/foreign-travel-advice/macao) | No specific FCDO travel advisories are currently active. |
-| 🟢 | [Madagascar](https://www.gov.uk/foreign-travel-advice/madagascar) | No specific FCDO travel advisories are currently active. |
+| 🟡 | [Madagascar](https://www.gov.uk/foreign-travel-advice/madagascar) | FCDO advises against all but essential travel to Madagascar. |
 | 🟢 | [Malawi](https://www.gov.uk/foreign-travel-advice/malawi) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Malaysia](https://www.gov.uk/foreign-travel-advice/malaysia) | FCDO advises against all but essential travel to parts of Malaysia. |
 | 🟢 | [Maldives](https://www.gov.uk/foreign-travel-advice/maldives) | No specific FCDO travel advisories are currently active. |
