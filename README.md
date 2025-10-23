@@ -164,7 +164,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [New Caledonia](https://www.gov.uk/foreign-travel-advice/new-caledonia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [New Zealand](https://www.gov.uk/foreign-travel-advice/new-zealand) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Nicaragua](https://www.gov.uk/foreign-travel-advice/nicaragua) | No specific FCDO travel advisories are currently active. |
-| ⚠️ | [Niger](https://www.gov.uk/foreign-travel-advice/niger) | FCDO advises against all travel to parts of Niger. |
+| ⚠️ | [Niger](https://www.gov.uk/foreign-travel-advice/niger) | FCDO advises against all travel to parts of Niger.<br />FCDO advises against all but essential travel to parts of Niger. |
 | ⚠️ | [Nigeria](https://www.gov.uk/foreign-travel-advice/nigeria) | FCDO advises against all travel to parts of Nigeria. |
 | 🟡 | [North Korea](https://www.gov.uk/foreign-travel-advice/north-korea) | FCDO advises against all but essential travel to North Korea. |
 | 🟢 | [North Macedonia](https://www.gov.uk/foreign-travel-advice/north-macedonia) | No specific FCDO travel advisories are currently active. |
