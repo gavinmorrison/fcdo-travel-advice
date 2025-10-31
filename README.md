@@ -141,7 +141,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Malawi](https://www.gov.uk/foreign-travel-advice/malawi) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Malaysia](https://www.gov.uk/foreign-travel-advice/malaysia) | FCDO advises against all but essential travel to parts of Malaysia. |
 | 🟢 | [Maldives](https://www.gov.uk/foreign-travel-advice/maldives) | No specific FCDO travel advisories are currently active. |
-| ⚠️ | [Mali](https://www.gov.uk/foreign-travel-advice/mali) | FCDO advises against all travel to parts of Mali. |
+| 🔴 | [Mali](https://www.gov.uk/foreign-travel-advice/mali) | FCDO advises against all travel to Mali. |
 | 🟢 | [Malta](https://www.gov.uk/foreign-travel-advice/malta) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Marshall Islands](https://www.gov.uk/foreign-travel-advice/marshall-islands) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Martinique](https://www.gov.uk/foreign-travel-advice/martinique) | No specific FCDO travel advisories are currently active. |
