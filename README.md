@@ -219,7 +219,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [São Tomé and Principe](https://www.gov.uk/foreign-travel-advice/sao-tome-and-principe) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Taiwan](https://www.gov.uk/foreign-travel-advice/taiwan) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Tajikistan](https://www.gov.uk/foreign-travel-advice/tajikistan) | No specific FCDO travel advisories are currently active. |
-| 🟡 | [Tanzania](https://www.gov.uk/foreign-travel-advice/tanzania) | FCDO advises against all but essential travel to parts of Tanzania. |
+| 🟡 | [Tanzania](https://www.gov.uk/foreign-travel-advice/tanzania) | FCDO advises against all but essential travel to Tanzania. |
 | 🟡 | [Thailand](https://www.gov.uk/foreign-travel-advice/thailand) | FCDO advises against all but essential travel to parts of Thailand. |
 | 🟢 | [The Gambia](https://www.gov.uk/foreign-travel-advice/the-gambia) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Timor-Leste](https://www.gov.uk/foreign-travel-advice/timor-leste) | No specific FCDO travel advisories are currently active. |
