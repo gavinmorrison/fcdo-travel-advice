@@ -232,7 +232,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Turks and Caicos Islands](https://www.gov.uk/foreign-travel-advice/turks-and-caicos-islands) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Tuvalu](https://www.gov.uk/foreign-travel-advice/tuvalu) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [USA](https://www.gov.uk/foreign-travel-advice/usa) | No specific FCDO travel advisories are currently active. |
-| 🟡 | [Uganda](https://www.gov.uk/foreign-travel-advice/uganda) | FCDO advises against all but essential travel to parts of Uganda. |
+| 🟢 | [Uganda](https://www.gov.uk/foreign-travel-advice/uganda) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Ukraine](https://www.gov.uk/foreign-travel-advice/ukraine) | FCDO advises against all travel to parts of Ukraine.<br />FCDO advises against all but essential travel to parts of Ukraine. |
 | 🟢 | [United Arab Emirates](https://www.gov.uk/foreign-travel-advice/united-arab-emirates) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Uruguay](https://www.gov.uk/foreign-travel-advice/uruguay) | No specific FCDO travel advisories are currently active. |
