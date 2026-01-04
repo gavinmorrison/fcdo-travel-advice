@@ -238,7 +238,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Uruguay](https://www.gov.uk/foreign-travel-advice/uruguay) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Uzbekistan](https://www.gov.uk/foreign-travel-advice/uzbekistan) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Vanuatu](https://www.gov.uk/foreign-travel-advice/vanuatu) | No specific FCDO travel advisories are currently active. |
-| ⚠️ | [Venezuela](https://www.gov.uk/foreign-travel-advice/venezuela) | FCDO advises against all travel to parts of Venezuela. |
+| 🔴 | [Venezuela](https://www.gov.uk/foreign-travel-advice/venezuela) | FCDO advises against all travel to Venezuela. |
 | 🟢 | [Vietnam](https://www.gov.uk/foreign-travel-advice/vietnam) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Wallis and Futuna](https://www.gov.uk/foreign-travel-advice/wallis-and-futuna) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Western Sahara](https://www.gov.uk/foreign-travel-advice/western-sahara) | FCDO advises against all travel to parts of Western Sahara. |
