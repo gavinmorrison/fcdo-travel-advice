@@ -21,6 +21,7 @@ fcdo-travel-advice/
 │       └── test_run.yml         # Manual test workflow (workflow_dispatch)
 ├── .gitignore                   # Git ignore rules
 ├── CHANGELOG.md                 # Version history and changes
+├── CHANGES.log                  # Auto-generated log of status changes
 ├── CLAUDE.md                    # This file - AI assistant guide
 ├── LICENSE                      # MIT License
 ├── README.md                    # User-facing documentation (auto-updated)
@@ -105,15 +106,29 @@ python get_status.py --version       # Show version
 3. Install dependencies from `requirements.txt`
 4. Run script: `python get_status.py --output results.md`
 5. Validate `results.md` exists and is not empty
-6. Update README.md between markers using `awk`
-7. Commit and push if changes detected
-8. Retry push with exponential backoff (5s, 10s)
+6. Save old table for comparison (change detection)
+7. Update README.md between markers using `awk`
+8. Update "Last updated" line with actual date/time
+9. Detect changes and generate summary (Python inline script)
+10. Update CHANGES.log if status changes occurred
+11. Commit with informative message and push
+12. Retry push with exponential backoff (5s, 10s)
 
 **Key Features**:
 - Captures stderr to `script_stderr.log` for debugging
 - Continues on script failure (`|| true`)
 - Only commits if changes detected (`git diff --staged --quiet`)
 - Uses bot identity for commits
+- **Dynamic timestamp**: Updates "Last updated" with actual date/time (e.g., `2025-01-04 02:00 UTC`)
+- **Change detection**: Compares old vs new table to identify status changes
+- **Informative commits**: Messages like `Update FCDO travel advice: 2 worsened, 1 improved`
+- **CHANGES.log**: Auto-generated changelog tracking status changes over time
+
+**Change Detection Categories**:
+- ⬆️ Worsened: Status became more severe (e.g., 🟡 → 🔴)
+- ⬇️ Improved: Status became less severe (e.g., 🔴 → 🟡)
+- ➕ Added: New country appeared in the list
+- ➖ Removed: Country removed from the list
 
 ### test_run.yml - Testing Workflow
 
