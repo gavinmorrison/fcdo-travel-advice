@@ -80,7 +80,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Dominica](https://www.gov.uk/foreign-travel-advice/dominica) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Dominican Republic](https://www.gov.uk/foreign-travel-advice/dominican-republic) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Ecuador](https://www.gov.uk/foreign-travel-advice/ecuador) | FCDO advises against all but essential travel to parts of Ecuador. |
-| ⚠️ | [Egypt](https://www.gov.uk/foreign-travel-advice/egypt) | FCDO advises against all travel to parts of Egypt. |
+| ⚠️ | [Egypt](https://www.gov.uk/foreign-travel-advice/egypt) | FCDO advises against all travel to parts of Egypt.<br />FCDO advises against all but essential travel to parts of Egypt. |
 | 🟢 | [El Salvador](https://www.gov.uk/foreign-travel-advice/el-salvador) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Equatorial Guinea](https://www.gov.uk/foreign-travel-advice/equatorial-guinea) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Eritrea](https://www.gov.uk/foreign-travel-advice/eritrea) | FCDO advises against all travel to parts of Eritrea. |
@@ -248,7 +248,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-01-15 02:48 UTC*
+*Last updated: 2026-01-16 02:49 UTC*
 
 ## 🛠️ Usage
 
