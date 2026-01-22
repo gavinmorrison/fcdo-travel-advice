@@ -116,7 +116,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🔴 | [Iran](https://www.gov.uk/foreign-travel-advice/iran) | FCDO advises against all travel to Iran. |
 | ⚠️ | [Iraq](https://www.gov.uk/foreign-travel-advice/iraq) | FCDO advises against all travel to parts of Iraq.<br />FCDO advises against all but essential travel to parts of Iraq. |
 | 🟢 | [Ireland](https://www.gov.uk/foreign-travel-advice/ireland) | No specific FCDO travel advisories are currently active. |
-| ⚠️ | [Israel](https://www.gov.uk/foreign-travel-advice/israel) | FCDO advises against all travel to parts of Israel.<br />FCDO advises against all but essential travel to Israel. |
+| ⚠️ | [Israel](https://www.gov.uk/foreign-travel-advice/israel) | FCDO advises against all travel to parts of Israel.<br />FCDO advises against all but essential travel to parts of Israel. |
 | 🟢 | [Italy](https://www.gov.uk/foreign-travel-advice/italy) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Jamaica](https://www.gov.uk/foreign-travel-advice/jamaica) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Japan](https://www.gov.uk/foreign-travel-advice/japan) | No specific FCDO travel advisories are currently active. |
@@ -172,7 +172,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Oman](https://www.gov.uk/foreign-travel-advice/oman) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Pakistan](https://www.gov.uk/foreign-travel-advice/pakistan) | FCDO advises against all travel to parts of Pakistan.<br />FCDO advises against all but essential travel to parts of Pakistan. |
 | 🟢 | [Palau](https://www.gov.uk/foreign-travel-advice/palau) | No specific FCDO travel advisories are currently active. |
-| ⚠️ | [Palestine](https://www.gov.uk/foreign-travel-advice/palestine) | FCDO advises against all travel to parts of Palestine.<br />FCDO advises against all but essential travel to Palestine. |
+| ⚠️ | [Palestine](https://www.gov.uk/foreign-travel-advice/palestine) | FCDO advises against all travel to parts of Palestine.<br />FCDO advises against all but essential travel to parts of Palestine. |
 | 🟢 | [Panama](https://www.gov.uk/foreign-travel-advice/panama) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Papua New Guinea](https://www.gov.uk/foreign-travel-advice/papua-new-guinea) | FCDO advises against all but essential travel to parts of Papua New Guinea. |
 | 🟢 | [Paraguay](https://www.gov.uk/foreign-travel-advice/paraguay) | No specific FCDO travel advisories are currently active. |
@@ -248,7 +248,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-01-21 02:49 UTC*
+*Last updated: 2026-01-22 02:53 UTC*
 
 ## 🛠️ Usage
 
