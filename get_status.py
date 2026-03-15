@@ -18,6 +18,7 @@ Version: 1.0.0
 """
 
 import sys
+import os
 import requests
 import json
 import argparse
@@ -139,6 +140,8 @@ def get_country_data(slug):
         details = data.get("details", {})
         country_name = details.get("country", {}).get("name", slug.replace('-', ' ').title())
         alert_list = details.get("alert_status")
+        change_history = details.get("change_history", [])
+        reviewed_at = details.get("reviewed_at")
         error_msg = None
 
         if alert_list is None:
@@ -152,6 +155,8 @@ def get_country_data(slug):
             "country": country_name,
             "slug": slug,
             "alert_list": alert_list,
+            "change_history": change_history,
+            "reviewed_at": reviewed_at,
             "error": error_msg
         }
     except Exception as e:
@@ -189,7 +194,7 @@ def fetch_all_country_data(slugs):
         all_results.append(get_country_data(slug))
     return all_results
 
-def generate_markdown_table(results):
+def generate_markdown_table(results, country_pages_dir=None):
     """Generates the Markdown table rows from processed country data."""
     markdown_rows = [
         "| Status | Country | FCDO Advice |",
@@ -201,7 +206,12 @@ def generate_markdown_table(results):
     for result in results:
         country_name = result.get('country', 'Unknown')
         slug = result.get('slug', '')
-        link = f"https://www.gov.uk/foreign-travel-advice/{slug}" if slug else "#"
+        if country_pages_dir and slug:
+            link = f"{country_pages_dir}/{slug}.md"
+        elif slug:
+            link = f"https://www.gov.uk/foreign-travel-advice/{slug}"
+        else:
+            link = "#"
 
         if result.get("error"):
             emoji = "❓"
@@ -224,6 +234,88 @@ def generate_markdown_table(results):
 
     print(f"\nProcessed {processed_count}/{len(results)} countries successfully. Encountered {error_count} errors/unknown statuses.", file=sys.stderr)
     return "\n".join(markdown_rows)
+
+def generate_country_page(result):
+    """Generates a Markdown page for a single country with current status and change history."""
+    country_name = result.get('country', 'Unknown')
+    slug = result.get('slug', '')
+    alert_list = result.get('alert_list', [])
+    change_history = result.get('change_history', [])
+    reviewed_at = result.get('reviewed_at', '')
+    fcdo_url = f"https://www.gov.uk/foreign-travel-advice/{slug}"
+
+    emoji = get_traffic_light_status(alert_list) if alert_list is not None else "❓"
+    advice_text = translate_advice(alert_list, country_name) if alert_list is not None else "Unable to determine status."
+
+    lines = []
+    lines.append(f"# {country_name}")
+    lines.append("")
+    lines.append(f"> **[View current FCDO travel advice for {country_name}]({fcdo_url})**")
+    lines.append("")
+    lines.append(f"## Current Status: {emoji}")
+    lines.append("")
+    lines.append(advice_text.replace("<br />", "\n\n"))
+    lines.append("")
+
+    if reviewed_at:
+        lines.append(f"*Last reviewed by FCDO: {reviewed_at[:10]}*")
+        lines.append("")
+
+    if change_history:
+        lines.append("## Change History")
+        lines.append("")
+
+        # Group entries by year
+        years = {}
+        for entry in change_history:
+            timestamp = entry.get("public_timestamp", "")[:10]
+            note = entry.get("note", "No details provided.")
+            year = timestamp[:4] if len(timestamp) >= 4 else "Unknown"
+            years.setdefault(year, []).append((timestamp, note))
+
+        sorted_years = sorted(years.keys(), reverse=True)
+
+        for i, year in enumerate(sorted_years):
+            entries = years[year]
+            if i == 0:
+                # Most recent year: open by default
+                lines.append(f"### {year}")
+                lines.append("")
+                for timestamp, note in entries:
+                    lines.append(f"- **{timestamp}** — {note}")
+                lines.append("")
+            else:
+                # Older years: collapsed
+                lines.append(f"<details>")
+                lines.append(f"<summary><strong>{year}</strong> ({len(entries)} update{'s' if len(entries) != 1 else ''})</summary>")
+                lines.append("")
+                for timestamp, note in entries:
+                    lines.append(f"- **{timestamp}** — {note}")
+                lines.append("")
+                lines.append(f"</details>")
+                lines.append("")
+
+    return "\n".join(lines)
+
+
+def write_country_pages(results, output_dir):
+    """Writes individual Markdown pages for each country."""
+    os.makedirs(output_dir, exist_ok=True)
+    count = 0
+    for result in results:
+        slug = result.get('slug', '')
+        if not slug:
+            continue
+        page_content = generate_country_page(result)
+        filepath = os.path.join(output_dir, f"{slug}.md")
+        try:
+            with open(filepath, 'w', encoding='utf-8') as f:
+                f.write(page_content)
+            count += 1
+        except IOError as e:
+            print(f"Error writing country page {filepath}: {e}", file=sys.stderr)
+    print(f"Wrote {count} country pages to {output_dir}/", file=sys.stderr)
+
 
 def write_output(content, filename):
     """Writes the given content to a file or standard output."""
@@ -266,7 +358,12 @@ def main(args):
     all_results.sort(key=lambda x: x.get('country', ''))
     print(f"\nSorting complete.", file=sys.stderr)
 
-    final_markdown = generate_markdown_table(all_results)
+    # Generate country pages
+    countries_dir = "countries"
+    if not args.test:
+        write_country_pages(all_results, countries_dir)
+
+    final_markdown = generate_markdown_table(all_results, countries_dir if not args.test else None)
 
     write_output(final_markdown, output_filename)
 if __name__ == "__main__":
