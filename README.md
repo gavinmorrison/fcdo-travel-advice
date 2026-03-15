@@ -2,6 +2,9 @@
 
 This repository contains a Python script that automatically fetches and monitors travel advice from the UK Foreign, Commonwealth & Development Office (FCDO) API. The script generates a comprehensive table showing the current travel advisory status for all countries worldwide.
 
+> [!NOTE]
+> Country and territory names, groupings, and designations are sourced directly from the UK government's FCDO API and do not represent the views or opinions of the author.
+
 ## 🚦 Status Legend
 
 The script uses a traffic light system to categorize travel advice:
@@ -279,4 +282,6 @@ This tool is for informational purposes only. Always check the official FCDO web
 
 ## Licence
 
-[MIT](LICENSE)
+The code in this repository is licensed under the [MIT Licence](LICENSE).
+
+Travel advice data is published by the UK Foreign, Commonwealth & Development Office under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
