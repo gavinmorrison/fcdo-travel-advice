@@ -258,18 +258,17 @@ def generate_country_page(result):
     advice_text = translate_advice(alert_list, country_name) if alert_list is not None else "Unable to determine status."
 
     lines = []
-    lines.append(f"# {country_name}")
-    lines.append("")
-    lines.append(f"> **[View current FCDO travel advice for {country_name}]({fcdo_url})**")
-    lines.append("")
-    lines.append(f"## Current Status: {emoji}")
+    lines.append(f"# {country_name} {emoji}")
     lines.append("")
     lines.append(advice_text.replace("<br />", "\n\n"))
     lines.append("")
-
     if reviewed_at:
         lines.append(f"*Last reviewed by FCDO: {format_date(reviewed_at)}*")
         lines.append("")
+    lines.append(f"[View current FCDO travel advice for {country_name}]({fcdo_url})")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
 
     if change_history:
         lines.append("## Change History")
@@ -293,7 +292,7 @@ def generate_country_page(result):
                 lines.append("")
                 for timestamp, note in entries:
                     lines.append(f"**{format_date(timestamp)}**")
-                    lines.append(f"{note}")
+                    lines.append(f"<br />{note}")
                     lines.append("")
             else:
                 # Older years: collapsed
@@ -302,7 +301,7 @@ def generate_country_page(result):
                 lines.append("")
                 for timestamp, note in entries:
                     lines.append(f"**{format_date(timestamp)}**")
-                    lines.append(f"{note}")
+                    lines.append(f"<br />{note}")
                     lines.append("")
                 lines.append(f"</details>")
                 lines.append("")
