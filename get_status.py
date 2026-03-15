@@ -267,8 +267,6 @@ def generate_country_page(result):
         lines.append("")
     lines.append(f"[View current FCDO travel advice for {country_name}]({fcdo_url})")
     lines.append("")
-    lines.append("---")
-    lines.append("")
 
     if change_history:
         lines.append("## Change History")

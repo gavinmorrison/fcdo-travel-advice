@@ -6,8 +6,6 @@ No specific FCDO travel advisories are currently active.
 
 [View current FCDO travel advice for Norway](https://www.gov.uk/foreign-travel-advice/norway)
 
----
-
 ## Change History
 
 ### 2026

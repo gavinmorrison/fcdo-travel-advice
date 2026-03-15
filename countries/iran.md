@@ -6,8 +6,6 @@ FCDO advises against all travel to Iran.
 
 [View current FCDO travel advice for Iran](https://www.gov.uk/foreign-travel-advice/iran)
 
----
-
 ## Change History
 
 ### 2026

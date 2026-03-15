@@ -6,8 +6,6 @@ FCDO advises against all travel to Israel.
 
 [View current FCDO travel advice for Israel](https://www.gov.uk/foreign-travel-advice/israel)
 
----
-
 ## Change History
 
 ### 2026
