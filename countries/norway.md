@@ -406,3 +406,7 @@ Norway (‘Coronavirus’ page)
 <br />Latest update: Summary – addition of link to Living In country guide; Health section – revised guidance on sources of health information before travel
 
 </details>
+
+---
+
+*Travel advice data is published by the [Foreign, Commonwealth & Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office) under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).*

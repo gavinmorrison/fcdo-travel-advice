@@ -1,79 +1,77 @@
-# Qatar
-
-> **[View current FCDO travel advice for Qatar](https://www.gov.uk/foreign-travel-advice/qatar)**
-
-## Current Status: 🟡
+# Qatar 🟡
 
 FCDO advises against all but essential travel to Qatar.
 
 *Last reviewed by FCDO: 14 March 2026*
+
+[View current FCDO travel advice for Qatar](https://www.gov.uk/foreign-travel-advice/qatar)
 
 ## Change History
 
 ### 2026
 
 **14 March 2026**
-Updated information about regional escalation (‘Warnings and insurance’ page). 
+<br />Updated information about regional escalation (‘Warnings and insurance’ page). 
 
 **10 March 2026**
-Information about additional commercial flights departing Doha ('Warnings and insurance’ page).
+<br />Information about additional commercial flights departing Doha ('Warnings and insurance’ page).
 
 **9 March 2026**
-New information about entry to Saudi Arabia (see ‘Warnings and insurance’ and ‘Entry requirements’ pages). 
+<br />New information about entry to Saudi Arabia (see ‘Warnings and insurance’ and ‘Entry requirements’ pages). 
 
 **3 March 2026**
-Updated information about regional escalation and leaving Qatar
+<br />Updated information about regional escalation and leaving Qatar
 
 **28 February 2026**
-The FCDO now advises against all but essential travel to Qatar. Register your presence if you're in Qatar (Warnings and insurance).
+<br />The FCDO now advises against all but essential travel to Qatar. Register your presence if you're in Qatar (Warnings and insurance).
 
 **28 February 2026**
-Addition of information due to reported missile attacks, British nationals in Qatar should immediately shelter in place. Remain indoors in a secure location, avoid all travel and follow instructions from the local authorities. ('Warnings and insurance' page)
+<br />Addition of information due to reported missile attacks, British nationals in Qatar should immediately shelter in place. Remain indoors in a secure location, avoid all travel and follow instructions from the local authorities. ('Warnings and insurance' page)
 
 **27 February 2026**
-Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
+<br />Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
 
 **10 February 2026**
-Addition of information about travel bans (‘Entry requirements’ page).
+<br />Addition of information about travel bans (‘Entry requirements’ page).
 
 **14 January 2026**
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
+<br />There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
 
 <details>
 <summary><strong>2025</strong> (11 updates)</summary>
 
 **10 December 2025**
-New information about dual nationals returning to the UK (‘Entry requirements’ page).
+<br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 **13 October 2025**
-This travel advice has been reviewed for accuracy with edits made throughout, including updated information about religion, dress code, Ramadan, illegal drugs and prison sentences, using cameras and binoculars, journalistic activity, financial crimes, road safety and desert drives (‘Safety and security’ page).  
+<br />This travel advice has been reviewed for accuracy with edits made throughout, including updated information about religion, dress code, Ramadan, illegal drugs and prison sentences, using cameras and binoculars, journalistic activity, financial crimes, road safety and desert drives (‘Safety and security’ page).  
 
 **9 September 2025**
-Update following explosions in Doha on 9 September ('Warnings and insurance' page).
+<br />Update following explosions in Doha on 9 September ('Warnings and insurance' page).
 
 **9 September 2025**
-Addition of information following explosions in Duhail, Katara and Lusail areas in Doha on 9 September (‘Warnings and insurance’ page).
+<br />Addition of information following explosions in Duhail, Katara and Lusail areas in Doha on 9 September (‘Warnings and insurance’ page).
 
 **27 June 2025**
-Updated information about regional risks (see “Warnings and Insurance” page) 
+<br />Updated information about regional risks (see “Warnings and Insurance” page) 
 
 **24 June 2025**
-Updated information about the risks of regional escalation and the instruction to take shelter if instructed ('Warnings and insurance' page).
+<br />Updated information about the risks of regional escalation and the instruction to take shelter if instructed ('Warnings and insurance' page).
 
 **23 June 2025**
-Update following the interception of Iranian missiles fired towards Qatar on 23 June (“Warnings and Insurance” page)
+<br />Update following the interception of Iranian missiles fired towards Qatar on 23 June (“Warnings and Insurance” page)
 
 **23 June 2025**
-Following a US security alert for US nationals in Qatar, out of an abundance of caution, we recommend that British nationals in Qatar shelter in place until further notice ('Warnings and insurance' page).
+<br />Following a US security alert for US nationals in Qatar, out of an abundance of caution, we recommend that British nationals in Qatar shelter in place until further notice ('Warnings and insurance' page).
 
 **22 June 2025**
-Update on regional risks following US military strikes against Iran on 22 June ('Safety and security' page).
+<br />Update on regional risks following US military strikes against Iran on 22 June ('Safety and security' page).
 
 **19 June 2025**
-Latest update: Updated information about possible travel disruptions, including short-notice airspace closures, delayed and cancelled flights ('Safety and security' page)
+<br />Latest update: Updated information about possible travel disruptions, including short-notice airspace closures, delayed and cancelled flights ('Safety and security' page)
 
 **13 June 2025**
-Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (‘Safety and security’ page).
+<br />Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (‘Safety and security’ page).
 
 
 
@@ -83,33 +81,33 @@ Ongoing hostilities in the region and between Israel and Iran could escalate qui
 <summary><strong>2024</strong> (9 updates)</summary>
 
 **26 October 2024**
-On 26 October Israel carried out military action against Iran ('Safety and security' page)
+<br />On 26 October Israel carried out military action against Iran ('Safety and security' page)
 
 **28 September 2024**
-Updated information on the Conflict affecting Lebanon (Safety and Security Pages)
+<br />Updated information on the Conflict affecting Lebanon (Safety and Security Pages)
 
 **28 September 2024**
-Updated information on the Conflict in Lebanon (Safety and Security Pages)
+<br />Updated information on the Conflict in Lebanon (Safety and Security Pages)
 
 **25 June 2024**
-Updated information about road safety (‘Safety and security’ page).
+<br />Updated information about road safety (‘Safety and security’ page).
 
 
 
 **26 April 2024**
-Removal of some language on military activity in the region (‘Warnings and insurance’ page).
+<br />Removal of some language on military activity in the region (‘Warnings and insurance’ page).
 
 **19 April 2024**
-Information on explosions in Iran, and unconfirmed reports of explosions in Syria and Iraq (‘Warnings and insurance’ page).
+<br />Information on explosions in Iran, and unconfirmed reports of explosions in Syria and Iraq (‘Warnings and insurance’ page).
 
 **14 April 2024**
-13 April 2024 – drones and missiles fired from Iran into Israel (‘Warnings and Insurance’ page)
+<br />13 April 2024 – drones and missiles fired from Iran into Israel (‘Warnings and Insurance’ page)
 
 **12 April 2024**
-Information on regional risks (‘Safety and security’ page).
+<br />Information on regional risks (‘Safety and security’ page).
 
 **12 January 2024**
-Update to Safety and Security page
+<br />Update to Safety and Security page
 
 </details>
 
@@ -117,25 +115,25 @@ Update to Safety and Security page
 <summary><strong>2023</strong> (7 updates)</summary>
 
 **22 August 2023**
-Information that you must get health insurance before travelling to Qatar for 30 or more days and that all visitors are advised to get travel insurance before entering Qatar ('Entry requirements' page).
+<br />Information that you must get health insurance before travelling to Qatar for 30 or more days and that all visitors are advised to get travel insurance before entering Qatar ('Entry requirements' page).
 
 **22 June 2023**
-Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.
+<br />Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.
 
 **23 May 2023**
-Advice rewritten to aid readability.
+<br />Advice rewritten to aid readability.
 
 **18 April 2023**
-Updated information to Mandatory Health Insurance and Visas sections  ('Entry requirements' page) and editorial changes.
+<br />Updated information to Mandatory Health Insurance and Visas sections  ('Entry requirements' page) and editorial changes.
 
 **5 April 2023**
-Updated information to COVID-19 section ('Entry requirements' page).
+<br />Updated information to COVID-19 section ('Entry requirements' page).
 
 **9 February 2023**
-New information about mandatory visitors’ health insurance policy ('Entry requirements' page).
+<br />New information about mandatory visitors’ health insurance policy ('Entry requirements' page).
 
 **27 January 2023**
-Update to COVID-19 entry requirements concerning travellers from China ('Entry requirements' page).  
+<br />Update to COVID-19 entry requirements concerning travellers from China ('Entry requirements' page).  
 
 </details>
 
@@ -143,46 +141,46 @@ Update to COVID-19 entry requirements concerning travellers from China ('Entry r
 <summary><strong>2022</strong> (14 updates)</summary>
 
 **24 December 2022**
-Removal of information about the FIFA World Cup and Hayya Card entry requirements. Update to terrorism language (See ‘Summary’, ‘Terrorism’ and ‘Entry requirements’ pages). 
+<br />Removal of information about the FIFA World Cup and Hayya Card entry requirements. Update to terrorism language (See ‘Summary’, ‘Terrorism’ and ‘Entry requirements’ pages). 
 
 **7 December 2022**
-Removal of the Hayya Card requirement for GCC citizens and residents ('Qatar World Cup 2022' and ‘Entry requirement’ pages).
+<br />Removal of the Hayya Card requirement for GCC citizens and residents ('Qatar World Cup 2022' and ‘Entry requirement’ pages).
 
 **24 November 2022**
-Updated information on travelling early to World Cup matches, and ensuring that Hayya Card applications are approved for individual matchday visits ('Qatar World Cup 2022' page).
+<br />Updated information on travelling early to World Cup matches, and ensuring that Hayya Card applications are approved for individual matchday visits ('Qatar World Cup 2022' page).
 
 **17 November 2022**
-Updated information on what to do if your passport is lost or stolen in Qatar, the local laws and customs and Ehteraz app requirements ('Qatar World Cup 2022', 'Entry requirements' and 'Health' pages).
+<br />Updated information on what to do if your passport is lost or stolen in Qatar, the local laws and customs and Ehteraz app requirements ('Qatar World Cup 2022', 'Entry requirements' and 'Health' pages).
 
 **7 November 2022**
-Updated information on Summary', 'Safety and Security' and 'Terrorism'
+<br />Updated information on Summary', 'Safety and Security' and 'Terrorism'
 
 **28 October 2022**
-Updated information on Entry Requirements and Qatar World Cup 2022 (‘Entry Requirements’ and ‘Qatar World Cup 2022’ pages). 
+<br />Updated information on Entry Requirements and Qatar World Cup 2022 (‘Entry Requirements’ and ‘Qatar World Cup 2022’ pages). 
 
 **21 October 2022**
-Updated information on the Qatar World Cup 2022 ('Qatar World Cup 2022' page).
+<br />Updated information on the Qatar World Cup 2022 ('Qatar World Cup 2022' page).
 
 **20 October 2022**
-Updated information on the Qatar World Cup 2022 ('Qatar World Cup 2022' page).
+<br />Updated information on the Qatar World Cup 2022 ('Qatar World Cup 2022' page).
 
 **29 September 2022**
-Updated information on expected COVID-19 requirements during the World Cup see (Qatar World Cup 2022 page)
+<br />Updated information on expected COVID-19 requirements during the World Cup see (Qatar World Cup 2022 page)
 
 **6 September 2022**
-Updated information on lifting of coronavirus requirements in public spaces and all visitors being subject to bringing a PCR test certificate with a valid negative result ('Summary' and 'Entry requirements' pages).
+<br />Updated information on lifting of coronavirus requirements in public spaces and all visitors being subject to bringing a PCR test certificate with a valid negative result ('Summary' and 'Entry requirements' pages).
 
 **24 August 2022**
-Updated information in entire document
+<br />Updated information in entire document
 
 **15 July 2022**
-Updated information on the re-introduction of the requirement to wear a face mask in closed public places in Qatar ('Coronavirus' page)
+<br />Updated information on the re-introduction of the requirement to wear a face mask in closed public places in Qatar ('Coronavirus' page)
 
 **25 May 2022**
-Updated information on entry requirements and travel in Qatar (‘Summary’, 'Coronavirus' and 'Entry requirements'  pages).
+<br />Updated information on entry requirements and travel in Qatar (‘Summary’, 'Coronavirus' and 'Entry requirements'  pages).
 
 **25 March 2022**
-Updated information on World Cup 2022 and tournament-specific procedures that will be in operation. Updated information on entry requirements and domestic measures in relation to COVID-19 ('Coronavirus', ‘Qatar World Cup 2022’ and ‘Entry requirements’ pages)
+<br />Updated information on World Cup 2022 and tournament-specific procedures that will be in operation. Updated information on entry requirements and domestic measures in relation to COVID-19 ('Coronavirus', ‘Qatar World Cup 2022’ and ‘Entry requirements’ pages)
 
 </details>
 
@@ -190,63 +188,63 @@ Updated information on World Cup 2022 and tournament-specific procedures that wi
 <summary><strong>2021</strong> (19 updates)</summary>
 
 **18 November 2021**
-Updated to amend some links in the 'Entry requirements' section.
+<br />Updated to amend some links in the 'Entry requirements' section.
 
 **15 November 2021**
-Information added about changes to Qatar's traffic light system. The UK is now a red list country for entry into Qatar ('Entry requirements' page)
+<br />Information added about changes to Qatar's traffic light system. The UK is now a red list country for entry into Qatar ('Entry requirements' page)
 
 **10 November 2021**
-New 'Qatar World Cup 2022' section added with information and advice on the FIFA World Cup, due to be held in Qatar from 21 November to 18 December 2022. 
+<br />New 'Qatar World Cup 2022' section added with information and advice on the FIFA World Cup, due to be held in Qatar from 21 November to 18 December 2022. 
 
 **8 October 2021**
-Review of 'Entry requirements', 'Coronavirus' and 'Local laws and customs' sections, which have been republished with amendments throughout the texts.
+<br />Review of 'Entry requirements', 'Coronavirus' and 'Local laws and customs' sections, which have been republished with amendments throughout the texts.
 
 **6 August 2021**
-The FCDO no longer advises against all but essential travel to Qatar, based on the current assessment of COVID-19 risks.
+<br />The FCDO no longer advises against all but essential travel to Qatar, based on the current assessment of COVID-19 risks.
 
 **6 August 2021**
-New information on how to get a COVID-19 vaccine if you live in Qatar (‘Coronavirus’ page) 
+<br />New information on how to get a COVID-19 vaccine if you live in Qatar (‘Coronavirus’ page) 
 
 **5 August 2021**
-From 4am on Sunday 8 August Qatar will move to the amber list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (‘Summary’ page)
+<br />From 4am on Sunday 8 August Qatar will move to the amber list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (‘Summary’ page)
 
 **4 August 2021**
-Full review, including updates to information in ‘Local laws and customs’ and ‘Entry requirements’ sections.
+<br />Full review, including updates to information in ‘Local laws and customs’ and ‘Entry requirements’ sections.
 
 **4 June 2021**
-From 8 June, direct flights can arrive in England from Qatar but they must arrive at dedicated terminals at Heathrow and Birmingham airports. Different requirements may apply for arrivals into Scotland, Wales and Northern Ireland. ('International Travel') ('Returning to the UK')
+<br />From 8 June, direct flights can arrive in England from Qatar but they must arrive at dedicated terminals at Heathrow and Birmingham airports. Different requirements may apply for arrivals into Scotland, Wales and Northern Ireland. ('International Travel') ('Returning to the UK')
 
 **29 April 2021**
-Update to information on Entry rules in response to coronavirus (‘Entry requirements’ page)
+<br />Update to information on Entry rules in response to coronavirus (‘Entry requirements’ page)
 
 **12 April 2021**
-Update to information on Emergency Travel Documents (‘Entry requirements’ page)
+<br />Update to information on Emergency Travel Documents (‘Entry requirements’ page)
 
 **18 March 2021**
-Update to International Travel ('Coronavirus' page)
+<br />Update to International Travel ('Coronavirus' page)
 
 **15 March 2021**
-From 4am on 19 March, direct flights from Qatar to England are prohibited. Visitors who have been in or transited through Qatar in the previous 10 days cannot enter England. British and Irish nationals and third country nationals with residence rights in the UK arriving in England from Qatar will be required to quarantine in a hotel. (‘Summary’ page)
+<br />From 4am on 19 March, direct flights from Qatar to England are prohibited. Visitors who have been in or transited through Qatar in the previous 10 days cannot enter England. British and Irish nationals and third country nationals with residence rights in the UK arriving in England from Qatar will be required to quarantine in a hotel. (‘Summary’ page)
 
 **23 February 2021**
-New information on how to get a COVID-19 vaccine if you live in Qatar (‘Coronavirus’ page) 
+<br />New information on how to get a COVID-19 vaccine if you live in Qatar (‘Coronavirus’ page) 
 
 
 **22 February 2021**
-Addition of information on the re-opening of the land border between Saudi Arabia and Qatar  and resumption of flights from Qatar to Saudi Arabia, Egypt and the UAE. Update to information on local restrictions and entry requirements  ('Summary', 'Coronavirus' and 'Entry requirements' pages)
+<br />Addition of information on the re-opening of the land border between Saudi Arabia and Qatar  and resumption of flights from Qatar to Saudi Arabia, Egypt and the UAE. Update to information on local restrictions and entry requirements  ('Summary', 'Coronavirus' and 'Entry requirements' pages)
 
 
 **16 January 2021**
-If you are arriving in the UK from Qatar on or after 4am on 16 January you will need to self-isolate on your arrival, unless you have a valid exemption (‘Summary’ page)
+<br />If you are arriving in the UK from Qatar on or after 4am on 16 January you will need to self-isolate on your arrival, unless you have a valid exemption (‘Summary’ page)
 
 **14 January 2021**
-The FCDO advises against all but essential travel to Qatar, based on the current assessment of COVID-19 risks ('Summary' page)
+<br />The FCDO advises against all but essential travel to Qatar, based on the current assessment of COVID-19 risks ('Summary' page)
 
 **14 January 2021**
-Addition of information and advice on pre-departure COVID-19 testing facilities in Qatar (‘Coronavirus’ page)
+<br />Addition of information and advice on pre-departure COVID-19 testing facilities in Qatar (‘Coronavirus’ page)
 
 **13 January 2021**
-Updated information on the recent announcement from the Qatari Government Communications Office about the opening of borders with Saudi Arabia ('Entry requirements' page)
+<br />Updated information on the recent announcement from the Qatari Government Communications Office about the opening of borders with Saudi Arabia ('Entry requirements' page)
 
 </details>
 
@@ -254,98 +252,98 @@ Updated information on the recent announcement from the Qatari Government Commun
 <summary><strong>2020</strong> (31 updates)</summary>
 
 **29 December 2020**
-Updated information on list of hotels which UK travellers or residents arriving on flights originating in the UK can book for hotel quarantine when entering Qatar ('Entry requirements' page)
+<br />Updated information on list of hotels which UK travellers or residents arriving on flights originating in the UK can book for hotel quarantine when entering Qatar ('Entry requirements' page)
 
 **22 December 2020**
-Updated information on quarantine procedures for those arriving in Qatar from the UK (‘Entry requirements’ page).
+<br />Updated information on quarantine procedures for those arriving in Qatar from the UK (‘Entry requirements’ page).
 
 **3 December 2020**
-Updated information on quarantine procedures for those returning to Qatar ('Summary' and 'Entry requirements page). 
+<br />Updated information on quarantine procedures for those returning to Qatar ('Summary' and 'Entry requirements page). 
 
 **30 November 2020**
-Updated information on quarantine procedures for those returning to Qatar ('Summary' and 'Entry requirements page). New section added on ‘Money’ ('Money' page)
+<br />Updated information on quarantine procedures for those returning to Qatar ('Summary' and 'Entry requirements page). New section added on ‘Money’ ('Money' page)
 
 
 **12 November 2020**
-The FCDO no longer advises against travel to Qatar. Qatar is now on the list of countries and territories where self-isolation is not required on return to the UK. (‘Summary’ page)
+<br />The FCDO no longer advises against travel to Qatar. Qatar is now on the list of countries and territories where self-isolation is not required on return to the UK. (‘Summary’ page)
 
 **2 September 2020**
-New information on easing of some local restrictions ('Coronavirus’ page). 
+<br />New information on easing of some local restrictions ('Coronavirus’ page). 
 
 **28 July 2020**
-British nationals holding a Qatar residence permit will be able to enter Qatar from 1 August ('Summary' and 'Entry requirements' section). Editorial review to remove ‘Return to the UK’ section and improve ‘Coronavirus’ section. 
+<br />British nationals holding a Qatar residence permit will be able to enter Qatar from 1 August ('Summary' and 'Entry requirements' section). Editorial review to remove ‘Return to the UK’ section and improve ‘Coronavirus’ section. 
 
 **17 July 2020**
-Update to information on unpaid loans and financial commitments ('Local laws and customs' page)
+<br />Update to information on unpaid loans and financial commitments ('Local laws and customs' page)
 
 **1 July 2020**
-New information on the second phase of Qatar's 4-phase road-map for reopening. ('Summary' and 'Staying during coronavirus' pages).
+<br />New information on the second phase of Qatar's 4-phase road-map for reopening. ('Summary' and 'Staying during coronavirus' pages).
 
 **15 June 2020**
-Addition of information on the first phase of Qatar's 4-phase roadmap which began on 15 June ('Summary' and 'Staying during coronavirus' pages).
+<br />Addition of information on the first phase of Qatar's 4-phase roadmap which began on 15 June ('Summary' and 'Staying during coronavirus' pages).
 
 **8 June 2020**
-New information on rules for entering the UK from 8 June.  ('Return to the UK' page)
+<br />New information on rules for entering the UK from 8 June.  ('Return to the UK' page)
 
 **4 June 2020**
-Updated information on the number of people allowed to travel in one vehicle ('Staying during coronavirus' page)
+<br />Updated information on the number of people allowed to travel in one vehicle ('Staying during coronavirus' page)
 
 **20 May 2020**
-Addition of information and advice on financial support (‘Staying during coronavirus’ page)
+<br />Addition of information and advice on financial support (‘Staying during coronavirus’ page)
 
 **19 May 2020**
-Update and addition to information on local coronavirus (COVID-19) measures including public transport, face masks, use of compulsory contact tracing app from 22 May and reporting of coronavirus symptoms ('Staying during coronavirus' page)
+<br />Update and addition to information on local coronavirus (COVID-19) measures including public transport, face masks, use of compulsory contact tracing app from 22 May and reporting of coronavirus symptoms ('Staying during coronavirus' page)
 
 **21 April 2020**
-update information to 'Local measures' section on the Coronavirus page.
+<br />update information to 'Local measures' section on the Coronavirus page.
 
 **20 April 2020**
-British nationals currently in Qatar on on-arrival visas can only extend their visa twice, by 30 days on each occasion. Overstaying this 90 day period will result in overstay fines ('Coronavirus' page)
+<br />British nationals currently in Qatar on on-arrival visas can only extend their visa twice, by 30 days on each occasion. Overstaying this 90 day period will result in overstay fines ('Coronavirus' page)
 
 **14 April 2020**
-British nationals currently in Qatar on on-arrival visas can only extend their visa twice, by 30 days on each occasion. Overstaying this 90 day period will result in overstay fines ('Coronavirus' page)
+<br />British nationals currently in Qatar on on-arrival visas can only extend their visa twice, by 30 days on each occasion. Overstaying this 90 day period will result in overstay fines ('Coronavirus' page)
 
 **6 April 2020**
-Update to information and advice for people wishing to return to the UK (’Return to the UK’ page) 
+<br />Update to information and advice for people wishing to return to the UK (’Return to the UK’ page) 
 
 **24 March 2020**
-Update to local measures ('Return to UK' page)
+<br />Update to local measures ('Return to UK' page)
 
 **23 March 2020**
-Update to local measures ('Coronavirus' page)
+<br />Update to local measures ('Coronavirus' page)
 
 **19 March 2020**
-Non-Qatari nationals are not allowed to enter Qatar ('Summary' and 'Health' pages)
+<br />Non-Qatari nationals are not allowed to enter Qatar ('Summary' and 'Health' pages)
 
 **18 March 2020**
-Update to information on precautionary measures introduced for coronavirus (COVID-19) ('Health' page)
+<br />Update to information on precautionary measures introduced for coronavirus (COVID-19) ('Health' page)
 
 **16 March 2020**
-Updated information on local measures taken to limit the spread of coronavirus (COVID-19) (‘Health’ pages)
+<br />Updated information on local measures taken to limit the spread of coronavirus (COVID-19) (‘Health’ pages)
 
 **16 March 2020**
-Health - Update on travel restrictions Qatar has introduced to help stop the spread of coronavirus (COVID-19)
+<br />Health - Update on travel restrictions Qatar has introduced to help stop the spread of coronavirus (COVID-19)
 
 **15 March 2020**
-Update on travel restrictions ('Health')
+<br />Update on travel restrictions ('Health')
 
 **14 March 2020**
-Summary - Following the attack on the coalition base at Taji in Iraq on 11 March, and subsequent US airstrikes, tensions may be raised across the region. There is a possibility of an increased threat against Western interests, including against UK citizens. You should remain vigilant and keep up to date with the latest developments, including via the media and this travel advice. 
+<br />Summary - Following the attack on the coalition base at Taji in Iraq on 11 March, and subsequent US airstrikes, tensions may be raised across the region. There is a possibility of an increased threat against Western interests, including against UK citizens. You should remain vigilant and keep up to date with the latest developments, including via the media and this travel advice. 
 
 **10 March 2020**
-Update to information about travel restrictions introduced by the authorities in response to coronavirus (COVID-19) ('Health' page)
+<br />Update to information about travel restrictions introduced by the authorities in response to coronavirus (COVID-19) ('Health' page)
 
 **4 March 2020**
-Update to information on travel restrictions for passengers arriving from coronavirus (COVID-19) affected countries ('Health' page)
+<br />Update to information on travel restrictions for passengers arriving from coronavirus (COVID-19) affected countries ('Health' page)
 
 **1 March 2020**
-Updated information on coronavirus (COVID-19) following confirmed cases of the virus in Qatar ('Health')
+<br />Updated information on coronavirus (COVID-19) following confirmed cases of the virus in Qatar ('Health')
 
 **6 January 2020**
-Summary - amendments to existing information on increased tensions in the region
+<br />Summary - amendments to existing information on increased tensions in the region
 
 **4 January 2020**
-Latest update: Summary - Following the death of Iranian General Qasem Soleimani in a US strike in Baghdad on 3 January, British nationals in the region should remain vigilant and keep up to date with the latest developments, including via the media and this travel advice.
+<br />Latest update: Summary - Following the death of Iranian General Qasem Soleimani in a US strike in Baghdad on 3 January, British nationals in the region should remain vigilant and keep up to date with the latest developments, including via the media and this travel advice.
 
 </details>
 
@@ -353,22 +351,22 @@ Latest update: Summary - Following the death of Iranian General Qasem Soleimani 
 <summary><strong>2019</strong> (6 updates)</summary>
 
 **30 December 2019**
-Summary - removal of link to advice page on FIFA Club World Cup Qatar 2019 
+<br />Summary - removal of link to advice page on FIFA Club World Cup Qatar 2019 
 
 **18 November 2019**
-Local laws and customs - addition of information on alcohol use, swearing, posting material online and homosexuality
+<br />Local laws and customs - addition of information on alcohol use, swearing, posting material online and homosexuality
 
 **28 October 2019**
-Summary - addition of link to guidance page for FIFA Club World Cup Qatar 2019 
+<br />Summary - addition of link to guidance page for FIFA Club World Cup Qatar 2019 
 
 **15 July 2019**
-Entry requirements section (Visas) - updated information on visa requirements for non-tourist visits and extending a visa waiver
+<br />Entry requirements section (Visas) - updated information on visa requirements for non-tourist visits and extending a visa waiver
 
 **25 June 2019**
-Latest update: This advice has been reviewed in full and reissued with editorial amendments
+<br />Latest update: This advice has been reviewed in full and reissued with editorial amendments
 
 **7 March 2019**
-Latest update: Safety and security section (Road travel) – updated information about International Driving Permit changes from 28 March 2019
+<br />Latest update: Safety and security section (Road travel) – updated information about International Driving Permit changes from 28 March 2019
 
 </details>
 
@@ -376,6 +374,10 @@ Latest update: Safety and security section (Road travel) – updated information
 <summary><strong>2018</strong> (1 update)</summary>
 
 **3 December 2018**
-Latest update: Terrorism section - updated info and risk on the threat from terrorism in Qatar, reflecting a decreased threat
+<br />Latest update: Terrorism section - updated info and risk on the threat from terrorism in Qatar, reflecting a decreased threat
 
 </details>
+
+---
+
+*Travel advice data is published by the [Foreign, Commonwealth & Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office) under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).*

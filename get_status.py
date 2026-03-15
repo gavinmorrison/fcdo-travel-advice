@@ -304,6 +304,11 @@ def generate_country_page(result):
                 lines.append(f"</details>")
                 lines.append("")
 
+    lines.append("---")
+    lines.append("")
+    lines.append("*Travel advice data is published by the [Foreign, Commonwealth & Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office) under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).*")
+    lines.append("")
+
     return "\n".join(lines)
 
 

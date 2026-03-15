@@ -632,3 +632,7 @@ Changed language advising against all travel within 4km of the border with Leban
 <br />Latest update: Summary - on 12 November 2018, over 370 projectiles were fired from Gaza into southern Israel; Israel responded by returning projectile fire into Gaza; if travelling in southern Israel, familiarise yourself with the safety actions that you should take in the event of a warning siren, follow advice from local authorities and stay informed of the security situation through the media and this travel advice
 
 </details>
+
+---
+
+*Travel advice data is published by the [Foreign, Commonwealth & Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office) under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).*

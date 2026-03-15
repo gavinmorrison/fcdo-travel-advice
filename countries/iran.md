@@ -294,3 +294,7 @@ FCDO advises against all travel to Iran.
 <br />Latest update: Summary - update to information about the availability of consular support
 
 </details>
+
+---
+
+*Travel advice data is published by the [Foreign, Commonwealth & Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office) under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).*
