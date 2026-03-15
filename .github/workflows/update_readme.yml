@@ -114,27 +114,18 @@ jobs:
           def parse_table(content):
               """Parse markdown table and extract country -> status mapping."""
               countries = {}
-              # Match table rows: | emoji | [Country](url) | advice |
-              pattern = r'\|\s*([🔴⚠️🟡🟢❓])\s*\|\s*\[([^\]]+)\]'
-              for match in re.finditer(pattern, content):
+              # Match table rows: | <anything> | [Country](url) | advice |
+              # Capture everything between the first pair of pipes as the emoji
+              for match in re.finditer(r'\|\s*(.+?)\s*\|\s*\[([^\]]+)\]', content):
                   emoji, country = match.groups()
-                  countries[country] = emoji
+                  emoji = emoji.strip()
+                  if emoji in KNOWN_EMOJI:
+                      countries[country] = emoji
               return countries
 
-          def emoji_to_text(emoji):
-              """Convert emoji to readable text."""
-              mapping = {
-                  '🔴': 'Red (avoid all travel)',
-                  '⚠️': 'Warning (avoid parts)',
-                  '🟡': 'Yellow (essential only)',
-                  '🟢': 'Green (no advisories)',
-                  '❓': 'Unknown'
-              }
-              return mapping.get(emoji, emoji)
+          KNOWN_EMOJI = {'🔴', '⚠️', '🟡', '🟢', '❓'}
 
-          def emoji_priority(emoji):
-              """Return priority for sorting (higher = more severe)."""
-              return {'🔴': 4, '⚠️': 3, '🟡': 2, '🟢': 1, '❓': 0}.get(emoji, 0)
+          EMOJI_PRIORITY = {'🔴': 4, '⚠️': 3, '🟡': 2, '🟢': 1, '❓': 0}
 
           # Read old and new tables
           old_content = open('old_table.md').read() if os.path.exists('old_table.md') else ''
@@ -143,75 +134,39 @@ jobs:
           old_countries = parse_table(old_content)
           new_countries = parse_table(new_content)
 
-          # Detect changes
+          # Detect status changes (only countries present in both runs)
           changes = []
-          upgrades = []  # Status improved (less severe)
-          downgrades = []  # Status worsened (more severe)
-          new_entries = []
-          removed_entries = []
+          for country in sorted(set(old_countries) & set(new_countries)):
+              old_status = old_countries[country]
+              new_status = new_countries[country]
+              if old_status != new_status:
+                  changes.append((country, old_status, new_status))
 
-          for country, new_status in new_countries.items():
-              old_status = old_countries.get(country)
-              if old_status is None:
-                  new_entries.append((country, new_status))
-              elif old_status != new_status:
-                  old_priority = emoji_priority(old_status)
-                  new_priority = emoji_priority(new_status)
-                  if new_priority > old_priority:
-                      downgrades.append((country, old_status, new_status))
-                  else:
-                      upgrades.append((country, old_status, new_status))
-
-          for country, old_status in old_countries.items():
-              if country not in new_countries:
-                  removed_entries.append((country, old_status))
-
-          # Generate summary
-          has_changes = downgrades or upgrades or new_entries or removed_entries
-
-          if not has_changes:
+          if not changes:
               commit_msg = "Update FCDO travel advice table"
               changelog_entry = ""
           else:
+              worsened = sum(1 for _, o, n in changes if EMOJI_PRIORITY.get(n, 0) > EMOJI_PRIORITY.get(o, 0))
+              improved = len(changes) - worsened
+
               parts = []
-              details = []
-
-              if downgrades:
-                  parts.append(f"{len(downgrades)} worsened")
-                  for country, old, new in downgrades:
-                      details.append(f"  ⬆️ {country}: {old} → {new}")
-
-              if upgrades:
-                  parts.append(f"{len(upgrades)} improved")
-                  for country, old, new in upgrades:
-                      details.append(f"  ⬇️ {country}: {old} → {new}")
-
-              if new_entries:
-                  parts.append(f"{len(new_entries)} added")
-                  for country, status in new_entries:
-                      details.append(f"  ➕ {country}: {status}")
-
-              if removed_entries:
-                  parts.append(f"{len(removed_entries)} removed")
-                  for country, status in removed_entries:
-                      details.append(f"  ➖ {country}: {status}")
-
+              if worsened:
+                  parts.append(f"{worsened} worsened")
+              if improved:
+                  parts.append(f"{improved} improved")
               commit_msg = f"Update FCDO travel advice: {', '.join(parts)}"
 
-              # Generate changelog entry
               timestamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
-              changelog_entry = f"\n## {timestamp}\n\n"
-              changelog_entry += "\n".join(details) + "\n"
+              details = [f"  {country}: {old} → {new}" for country, old, new in changes]
+              changelog_entry = f"\n## {timestamp}\n\n" + "\n".join(details) + "\n"
 
-          # Write outputs
           with open('commit_message.txt', 'w') as f:
               f.write(commit_msg)
 
           with open('changelog_entry.txt', 'w') as f:
               f.write(changelog_entry)
 
-          # Set output for GitHub Actions
-          print(f"has_changes={'true' if has_changes else 'false'}")
+          print(f"has_changes={'true' if changes else 'false'}")
           print(f"commit_message={commit_msg}")
 
           PYTHON_SCRIPT
