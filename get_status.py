@@ -22,6 +22,7 @@ import os
 import requests
 import json
 import argparse
+from datetime import datetime
 
 __version__ = "1.0.0"
 __author__ = "FCDO Travel Advice Monitor"
@@ -235,6 +236,15 @@ def generate_markdown_table(results, country_pages_dir=None):
     print(f"\nProcessed {processed_count}/{len(results)} countries successfully. Encountered {error_count} errors/unknown statuses.", file=sys.stderr)
     return "\n".join(markdown_rows)
 
+def format_date(iso_date):
+    """Formats an ISO date string to GOV.UK style, e.g. '14 June 2025'."""
+    try:
+        dt = datetime.fromisoformat(iso_date.replace("Z", "+00:00"))
+        return dt.strftime("%-d %B %Y")
+    except (ValueError, AttributeError):
+        return iso_date[:10] if iso_date else ""
+
+
 def generate_country_page(result):
     """Generates a Markdown page for a single country with current status and change history."""
     country_name = result.get('country', 'Unknown')
@@ -258,7 +268,7 @@ def generate_country_page(result):
     lines.append("")
 
     if reviewed_at:
-        lines.append(f"*Last reviewed by FCDO: {reviewed_at[:10]}*")
+        lines.append(f"*Last reviewed by FCDO: {format_date(reviewed_at)}*")
         lines.append("")
 
     if change_history:
@@ -268,7 +278,7 @@ def generate_country_page(result):
         # Group entries by year
         years = {}
         for entry in change_history:
-            timestamp = entry.get("public_timestamp", "")[:10]
+            timestamp = entry.get("public_timestamp", "")
             note = entry.get("note", "No details provided.")
             year = timestamp[:4] if len(timestamp) >= 4 else "Unknown"
             years.setdefault(year, []).append((timestamp, note))
@@ -282,16 +292,18 @@ def generate_country_page(result):
                 lines.append(f"### {year}")
                 lines.append("")
                 for timestamp, note in entries:
-                    lines.append(f"- **{timestamp}** — {note}")
-                lines.append("")
+                    lines.append(f"**{format_date(timestamp)}**")
+                    lines.append(f"{note}")
+                    lines.append("")
             else:
                 # Older years: collapsed
                 lines.append(f"<details>")
                 lines.append(f"<summary><strong>{year}</strong> ({len(entries)} update{'s' if len(entries) != 1 else ''})</summary>")
                 lines.append("")
                 for timestamp, note in entries:
-                    lines.append(f"- **{timestamp}** — {note}")
-                lines.append("")
+                    lines.append(f"**{format_date(timestamp)}**")
+                    lines.append(f"{note}")
+                    lines.append("")
                 lines.append(f"</details>")
                 lines.append("")
 
