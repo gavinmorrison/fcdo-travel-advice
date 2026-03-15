@@ -201,6 +201,10 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
+          # Add country pages if they were generated
+          if [ -d countries ]; then
+            git add countries/
+          fi
           # Also add CHANGES.log if it exists
           if [ -f CHANGES.log ]; then
             git add CHANGES.log
