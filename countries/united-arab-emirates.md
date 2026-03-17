@@ -2,13 +2,19 @@
 
 FCDO advises against all but essential travel to United Arab Emirates.
 
-*Last reviewed by FCDO: 15 March 2026*
+*Last reviewed by FCDO: 16 March 2026*
 
 [View current FCDO travel advice for United Arab Emirates](https://www.gov.uk/foreign-travel-advice/united-arab-emirates)
 
 ## Change History
 
 ### 2026
+
+**16 March 2026**
+<br />Updated information about registering your presence (‘Warnings and insurance’ page).
+
+**16 March 2026**
+<br />Updated information about regional escalation (‘Warnings and insurance’ page).
 
 **15 March 2026**
 <br />Updated information about registering your presence

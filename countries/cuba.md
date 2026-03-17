@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to Cuba.
 
-*Last reviewed by FCDO: 13 March 2026*
+*Last reviewed by FCDO: 16 March 2026*
 
 [View current FCDO travel advice for Cuba](https://www.gov.uk/foreign-travel-advice/cuba)
 
 ## Change History
 
 ### 2026
+
+**16 March 2026**
+<br />Updated information on protests (See 'Warnings and Insurance' page)
 
 **13 March 2026**
 <br />New information on protests (See “Warnings and Insurance” page)
