@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Philippines.
 
-*Last reviewed by FCDO: 6 March 2026*
+*Last reviewed by FCDO: 17 March 2026*
 
 [View current FCDO travel advice for Philippines](https://www.gov.uk/foreign-travel-advice/philippines)
 
 ## Change History
 
 ### 2026
+
+**17 March 2026**
+<br />Updated information about travel disruption ('Warnings and insurance' page).
 
 **6 March 2026**
 <br />New information about travel disruption ('Warnings and insurance' page).

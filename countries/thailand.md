@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Thailand.
 
-*Last reviewed by FCDO: 4 March 2026*
+*Last reviewed by FCDO: 17 March 2026*
 
 [View current FCDO travel advice for Thailand](https://www.gov.uk/foreign-travel-advice/thailand)
 
 ## Change History
 
 ### 2026
+
+**17 March 2026**
+<br />New information about smoking and e-cigarettes and updated information about cannabis ('Warnings and insurance' and 'Safety and security' pages).
 
 **4 March 2026**
 <br />Information on options for British nationals affected in Thailand, due to the escalation in the Middle East (Warnings and Insurance" page).
