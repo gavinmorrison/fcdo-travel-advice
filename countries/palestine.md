@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Palestine.
 
-*Last reviewed by FCDO: 12 March 2026*
+*Last reviewed by FCDO: 18 March 2026*
 
 [View current FCDO travel advice for Palestine](https://www.gov.uk/foreign-travel-advice/palestine)
 
 ## Change History
 
 ### 2026
+
+**18 March 2026**
+<br />Updated information on entry to Egypt ('Warnings and insurance' and 'Entry requirements' pages).
 
 **12 March 2026**
 <br />Addition of information about British nationals, including those with dual nationality, facing urgent or exceptional circumstances and needing help (‘Warnings and insurance’ page). 

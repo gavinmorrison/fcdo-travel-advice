@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Egypt.
 
 FCDO advises against all but essential travel to parts of Egypt.
 
-*Last reviewed by FCDO: 10 March 2026*
+*Last reviewed by FCDO: 18 March 2026*
 
 [View current FCDO travel advice for Egypt](https://www.gov.uk/foreign-travel-advice/egypt)
 
 ## Change History
 
 ### 2026
+
+**18 March 2026**
+<br />Updated information on entering Egypt from Israel (‘Entry requirements’ page). 
 
 **10 March 2026**
 <br />Updated information on visa requirements and entering Egypt from Israel. New information about entering Egypt from Jordan ('Entry requirements' page).

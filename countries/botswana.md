@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 6 March 2026*
+*Last reviewed by FCDO: 18 March 2026*
 
 [View current FCDO travel advice for Botswana](https://www.gov.uk/foreign-travel-advice/botswana)
 
 ## Change History
 
 ### 2026
+
+**18 March 2026**
+<br />Updated information on flooding ('Safety and security' page).
 
 **6 March 2026**
 <br />Addition of information about heavy rainfall between 6 and 10 March ('Warnings and insurance' page).

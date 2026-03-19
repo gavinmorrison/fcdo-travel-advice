@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 30 December 2025*
+*Last reviewed by FCDO: 18 March 2026*
 
 [View current FCDO travel advice for South Korea](https://www.gov.uk/foreign-travel-advice/south-korea)
 
 ## Change History
 
-### 2025
+### 2026
+
+**18 March 2026**
+<br />Addition of information about a large-scale public event ('Warnings and insurance’ page). 
+
+<details>
+<summary><strong>2025</strong> (13 updates)</summary>
 
 **30 December 2025**
 <br />Updated information on K-ETA exemptions and entry declaration forms (‘Entry requirements’ page).
@@ -52,6 +58,8 @@ No specific FCDO travel advisories are currently active.
 
 **2 January 2025**
 <br />Updated information on likely locations of political protests (‘Warnings and insurance’ page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (7 updates)</summary>
