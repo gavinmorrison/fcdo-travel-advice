@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Cambodia.
 
-*Last reviewed by FCDO: 2 February 2026*
+*Last reviewed by FCDO: 19 March 2026*
 
 [View current FCDO travel advice for Cambodia](https://www.gov.uk/foreign-travel-advice/cambodia)
 
 ## Change History
 
 ### 2026
+
+**19 March 2026**
+<br />New information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
 
 **2 February 2026**
 <br />FCDO now advises against all but essential travel to within 20km from the land border with Thailand. 

@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 18 March 2026*
+*Last reviewed by FCDO: 19 March 2026*
 
 [View current FCDO travel advice for South Korea](https://www.gov.uk/foreign-travel-advice/south-korea)
 
 ## Change History
 
 ### 2026
+
+**19 March 2026**
+<br />New information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
 
 **18 March 2026**
 <br />Addition of information about a large-scale public event ('Warnings and insurance’ page). 

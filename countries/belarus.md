@@ -2,13 +2,19 @@
 
 FCDO advises against all travel to Belarus.
 
-*Last reviewed by FCDO: 15 December 2025*
+*Last reviewed by FCDO: 19 March 2026*
 
 [View current FCDO travel advice for Belarus](https://www.gov.uk/foreign-travel-advice/belarus)
 
 ## Change History
 
-### 2025
+### 2026
+
+**19 March 2026**
+<br />Updated information for dual British-Belarus nationals intending to travel to Belarus ('Warnings and insurance' and 'Safety and security' pages).
+
+<details>
+<summary><strong>2025</strong> (8 updates)</summary>
 
 **15 December 2025**
 <br />Updated information on Belarus-Poland and Belarus-Lithuania borders ('Safety and security' page).
@@ -33,6 +39,8 @@ FCDO advises against all travel to Belarus.
 
 **16 January 2025**
 <br />Information added about mutual visa recognition between Belarus and Russia and extended visa free entry for British nationals until 31 December 2025 (‘Entry requirements’ and ‘Safety and security’ pages). 
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (4 updates)</summary>

@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 March 2026*
+*Last reviewed by FCDO: 19 March 2026*
 
 [View current FCDO travel advice for Solomon Islands](https://www.gov.uk/foreign-travel-advice/solomon-islands)
 
 ## Change History
 
 ### 2026
+
+**19 March 2026**
+<br />Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
 
 **10 March 2026**
 <br />Removal of information that you must have a certificate to prove you’ve had a measles vaccination if you’re travelling from Australia, New Zealand, American Samoa, Samoa, Fiji, Tonga, Kiribati, Papua New Guinea or the Philippines ('Entry requirements' page). 

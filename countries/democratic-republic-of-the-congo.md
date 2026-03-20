@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Democratic Republic of the Congo.
 
 FCDO advises against all but essential travel to parts of Democratic Republic of the Congo.
 
-*Last reviewed by FCDO: 25 February 2026*
+*Last reviewed by FCDO: 19 March 2026*
 
 [View current FCDO travel advice for Democratic Republic of the Congo](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo)
 
 ## Change History
 
 ### 2026
+
+**19 March 2026**
+<br />Removal of information that the Kavimvira border crossing between DRC and Burundi remains closed ('Warnings and insurance' page).
 
 **25 February 2026**
 <br />FCDO now advises against all but essential travel to Bangoka International Airport in Kisangani. FDCO no longer advises against all but essential travel to the district of Kasa Vubu in Kinshasa city bordered by the N1 Triumphal Road (Stadium), Barumbu District, Lingwala district and south of the Botanical Garden ('Warnings and insurance' page). 

@@ -2,13 +2,18 @@
 
 FCDO advises against all travel to parts of India.
 
-*Last reviewed by FCDO: 2 March 2026*
+*Last reviewed by FCDO: 19 March 2026*
 
 [View current FCDO travel advice for India](https://www.gov.uk/foreign-travel-advice/india)
 
 ## Change History
 
 ### 2026
+
+**19 March 2026**
+<br />Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
+
+
 
 **2 March 2026**
 <br />New information about travel disruption ('Warnings and insurance' page).

@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 17 March 2026*
+*Last reviewed by FCDO: 19 March 2026*
 
 [View current FCDO travel advice for Sri Lanka](https://www.gov.uk/foreign-travel-advice/sri-lanka)
 
 ## Change History
 
 ### 2026
+
+**19 March 2026**
+<br />Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
 
 **17 March 2026**
 <br />Additional information about fuel restrictions in Sri Lanka due to escalation in the Middle East ('Warnings and insurance' page).
