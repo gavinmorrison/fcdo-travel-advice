@@ -2,13 +2,19 @@
 
 FCDO advises against all travel to parts of Mauritania.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 24 March 2026*
 
 [View current FCDO travel advice for Mauritania](https://www.gov.uk/foreign-travel-advice/mauritania)
 
 ## Change History
 
-### 2025
+### 2026
+
+**24 March 2026**
+<br />New information about protests (‘Warnings and insurance’ page). 
+
+<details>
+<summary><strong>2025</strong> (6 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -29,6 +35,8 @@ FCDO advises against all travel to parts of Mauritania.
 
 **3 January 2025**
 <br />New information about the introduction of e-visas to enter Mauritania from 5 January 2025 (‘Entry requirements’ page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (4 updates)</summary>

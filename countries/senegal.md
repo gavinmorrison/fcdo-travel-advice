@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 24 March 2026*
 
 [View current FCDO travel advice for Senegal](https://www.gov.uk/foreign-travel-advice/senegal)
 
 ## Change History
 
-### 2025
+### 2026
+
+**24 March 2026**
+<br /> New information for LGBT+ travellers (see ‘LGBT+ travellers’ on the ‘Safety and security page’).
+
+<details>
+<summary><strong>2025</strong> (4 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -21,6 +27,8 @@ No specific FCDO travel advisories are currently active.
 
 **30 April 2025**
 <br />Information added about protecting yourself and your belongings (See 'Crime' on the 'Safety and security' page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (1 update)</summary>

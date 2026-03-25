@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Palestine.
 
-*Last reviewed by FCDO: 18 March 2026*
+*Last reviewed by FCDO: 24 March 2026*
 
 [View current FCDO travel advice for Palestine](https://www.gov.uk/foreign-travel-advice/palestine)
 
 ## Change History
 
 ### 2026
+
+**24 March 2026**
+<br />Updated information that Ben Gurion Airport is operating a limited schedule of outbound flights (see 'Leaving Israel and Palestine' on the 'Warnings and insurance' page).
 
 **18 March 2026**
 <br />Updated information on entry to Egypt ('Warnings and insurance' and 'Entry requirements' pages).
