@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Bolivia.
 
-*Last reviewed by FCDO: 20 March 2026*
+*Last reviewed by FCDO: 26 March 2026*
 
 [View current FCDO travel advice for Bolivia](https://www.gov.uk/foreign-travel-advice/bolivia)
 
 ## Change History
 
 ### 2026
+
+**26 March 2026**
+<br />New information about indefinite strike affecting public transport across the city and department of La Paz (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 **20 March 2026**
 <br />Addition of information about Local Elections on Sunday 22 March with transport restrictions and temporary ban on drinking alcohol until midnight on Sunday 22 March  (‘Warnings and insurance’ Page)
