@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Kenya.
 
 FCDO advises against all but essential travel to parts of Kenya.
 
-*Last reviewed by FCDO: 19 February 2026*
+*Last reviewed by FCDO: 27 March 2026*
 
 [View current FCDO travel advice for Kenya](https://www.gov.uk/foreign-travel-advice/kenya)
 
 ## Change History
 
 ### 2026
+
+**27 March 2026**
+<br />Information on security operation in Laikipia, Meru, and Isiolo counties (‘Regional risks’ page).
 
 **19 February 2026**
 <br />Removal of information on travel disruption at Jomo Kenyatta International airport.

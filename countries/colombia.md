@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Colombia.
 
-*Last reviewed by FCDO: 9 March 2026*
+*Last reviewed by FCDO: 27 March 2026*
 
 [View current FCDO travel advice for Colombia](https://www.gov.uk/foreign-travel-advice/colombia)
 
 ## Change History
 
 ### 2026
+
+**27 March 2026**
+<br />Updated information about yellow fever (See 'Vaccine recommendations and health risks' on the 'Health' page).
 
 **9 March 2026**
 <br />Removal of information about Colombian Elections on 8 March.

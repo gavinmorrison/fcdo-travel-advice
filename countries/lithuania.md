@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 18 February 2026*
+*Last reviewed by FCDO: 27 March 2026*
 
 [View current FCDO travel advice for Lithuania](https://www.gov.uk/foreign-travel-advice/lithuania)
 
 ## Change History
 
 ### 2026
+
+**27 March 2026**
+<br />New information about drones entering Lithuanian airspace linked to Russia’s invasion of Ukraine (‘Safety and security’ page).
 
 **18 February 2026**
 <br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
