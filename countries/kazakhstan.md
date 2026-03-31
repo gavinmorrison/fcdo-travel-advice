@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 6 January 2026*
+*Last reviewed by FCDO: 30 March 2026*
 
 [View current FCDO travel advice for Kazakhstan](https://www.gov.uk/foreign-travel-advice/kazakhstan)
 
 ## Change History
 
 ### 2026
+
+**30 March 2026**
+<br />New information about using a local SIM card (IMEI registration) ('Entry requirements' page).
 
 **6 January 2026**
 <br />Updated information for LGBT+ travellers ('Safety and security' page).

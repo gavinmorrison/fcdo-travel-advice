@@ -56,7 +56,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Brunei](countries/brunei.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Bulgaria](countries/bulgaria.md) | No specific FCDO travel advisories are currently active. |
 | 🔴 | [Burkina Faso](countries/burkina-faso.md) | FCDO advises against all travel to Burkina Faso. |
-| ⚠️ | [Burundi](countries/burundi.md) | FCDO advises against all travel to parts of Burundi.<br />FCDO advises against all but essential travel to parts of Burundi. |
+| ⚠️ | [Burundi](countries/burundi.md) | FCDO advises against all travel to parts of Burundi. |
 | 🟡 | [Cambodia](countries/cambodia.md) | FCDO advises against all but essential travel to parts of Cambodia. |
 | ⚠️ | [Cameroon](countries/cameroon.md) | FCDO advises against all travel to parts of Cameroon.<br />FCDO advises against all but essential travel to parts of Cameroon. |
 | 🟢 | [Canada](countries/canada.md) | No specific FCDO travel advisories are currently active. |
@@ -251,7 +251,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-03-30 03:15 UTC*
+*Last updated: 2026-03-31 03:15 UTC*
 
 ## Usage
 

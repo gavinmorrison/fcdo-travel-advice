@@ -2,15 +2,21 @@
 
 FCDO advises against all travel to parts of Burundi.
 
-FCDO advises against all but essential travel to parts of Burundi.
-
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 30 March 2026*
 
 [View current FCDO travel advice for Burundi](https://www.gov.uk/foreign-travel-advice/burundi)
 
 ## Change History
 
-### 2025
+### 2026
+
+**30 March 2026**
+<br /> FCDO no longer advises against all but essential travel to the city of Bujumbura and parts of Bujumbura province. FCDO continues to advise against all travel to other parts of Burundi (‘Warnings and insurance’ page). Changes to Burundi’s provincial structure added.  
+
+ 
+
+<details>
+<summary><strong>2025</strong> (13 updates)</summary>
 
 **10 December 2025**
 <br />FCDO now advises against all but essential travel to the former Bujumbura Mairie Province, including the city of Bujumbura, and to the area of the former Bujumbura Rural Province east of the Rusizi river. FCDO continues to advise against all travel to parts of Burundi ('Warnings and insurance' page). New information also added about dual nationals returning to the UK ('Entry requirements' page).
@@ -52,6 +58,8 @@ FCDO advises against all but essential travel to parts of Burundi.
 
 **19 February 2025**
 <br />New information on risks associated with the ongoing conflict in eastern DRC ('Warnings and insurance' page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (8 updates)</summary>
