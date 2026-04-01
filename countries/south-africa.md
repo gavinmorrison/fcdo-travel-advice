@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 18 March 2026*
+*Last reviewed by FCDO: 31 March 2026*
 
 [View current FCDO travel advice for South Africa](https://www.gov.uk/foreign-travel-advice/south-africa)
 
 ## Change History
 
 ### 2026
+
+**31 March 2026**
+<br />Updated information about road attacks to and from Cape Town airport and illegal drugs and cannabis laws (‘Safety and security’ page). 
 
 **18 March 2026**
 <br />Updated information on fraud and scams, nightlife and dating, driving rules and pedestrian safety and Table Mountain National Park (‘Safety and security’ page).
