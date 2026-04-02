@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Nigeria.
 
-*Last reviewed by FCDO: 23 February 2026*
+*Last reviewed by FCDO: 1 April 2026*
 
 [View current FCDO travel advice for Nigeria](https://www.gov.uk/foreign-travel-advice/nigeria)
 
 ## Change History
 
 ### 2026
+
+**1 April 2026**
+<br />Updated information about risks from kidnapping for ransom and terrorist kidnap ('Safety and security' page). 
 
 **23 February 2026**
 <br />Removal of  information on potential travel disruption during elections taking place in the Federal Capital Territory (including Abuja) on 21 February.

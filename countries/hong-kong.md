@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 11 December 2025*
+*Last reviewed by FCDO: 1 April 2026*
 
 [View current FCDO travel advice for Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-kong)
 
 ## Change History
 
-### 2025
+### 2026
+
+**1 April 2026**
+<br />Updated information on dual Chinese-British nationality, E-cigarettes and illegal drugs including CBD (cannabidiol) (‘Warnings and insurance’, ‘Entry requirements’ and ‘Safety and security’ pages). 
+
+<details>
+<summary><strong>2025</strong> (5 updates)</summary>
 
 **11 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -24,6 +30,8 @@ No specific FCDO travel advisories are currently active.
 
 **6 June 2025**
 <br />Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (2 updates)</summary>

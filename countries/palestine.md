@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Palestine.
 
-*Last reviewed by FCDO: 28 March 2026*
+*Last reviewed by FCDO: 1 April 2026*
 
 [View current FCDO travel advice for Palestine](https://www.gov.uk/foreign-travel-advice/palestine)
 
 ## Change History
 
 ### 2026
+
+**1 April 2026**
+<br />Updated information about regional escalation (‘Warnings and insurance’ page).
 
 **28 March 2026**
 <br />Updated information about border crossing charges ('Warnings and insurance' and 'Entry requirements')

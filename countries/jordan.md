@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Jordan.
 
 FCDO advises against all but essential travel to parts of Jordan.
 
-*Last reviewed by FCDO: 10 March 2026*
+*Last reviewed by FCDO: 1 April 2026*
 
 [View current FCDO travel advice for Jordan](https://www.gov.uk/foreign-travel-advice/jordan)
 
 ## Change History
 
 ### 2026
+
+**1 April 2026**
+<br />Updated information about regional escalation (‘Warnings and insurance’ page).
 
 **10 March 2026**
 <br />New information about the land border crossings with Saudi Arabia, Israel, Palestine, Syria and Iraq and sea crossing with Egypt (‘Entry requirements’ page).

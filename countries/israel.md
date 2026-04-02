@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Israel.
 
-*Last reviewed by FCDO: 28 March 2026*
+*Last reviewed by FCDO: 1 April 2026*
 
 [View current FCDO travel advice for Israel](https://www.gov.uk/foreign-travel-advice/israel)
 
 ## Change History
 
 ### 2026
+
+**1 April 2026**
+<br />Updated information about regional escalation (‘Warnings and insurance’ page).
 
 **28 March 2026**
 <br />Updated information about border crossing charges ('Warnings and insurance' and 'Entry requirements')
