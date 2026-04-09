@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Ecuador.
 
-*Last reviewed by FCDO: 11 March 2026*
+*Last reviewed by FCDO: 8 April 2026*
 
 [View current FCDO travel advice for Ecuador](https://www.gov.uk/foreign-travel-advice/ecuador)
 
 ## Change History
 
 ### 2026
+
+**8 April 2026**
+<br />Updated information that the State of Emergency has been renewed for 60 days ('Warnings and insurance' page).
 
 **11 March 2026**
 <br />Removal of information on closure of the Colombia-Ecuador land border ('Warnings and insurance' page).
