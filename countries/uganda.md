@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 19 January 2026*
+*Last reviewed by FCDO: 9 April 2026*
 
 [View current FCDO travel advice for Uganda](https://www.gov.uk/foreign-travel-advice/uganda)
 
 ## Change History
 
 ### 2026
+
+**9 April 2026**
+<br />Removal of information about Presidential, Parliamentary and local elections ('Warnings and insurance' page).
 
 **19 January 2026**
 <br />Updated information about internet access and ongoing elections following Uganda’s Presidential election (‘Warnings and insurance’).
