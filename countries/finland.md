@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 18 February 2026*
+*Last reviewed by FCDO: 10 April 2026*
 
 [View current FCDO travel advice for Finland](https://www.gov.uk/foreign-travel-advice/finland)
 
 ## Change History
 
 ### 2026
+
+**10 April 2026**
+<br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 **18 February 2026**
 <br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).

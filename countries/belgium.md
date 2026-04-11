@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 7 April 2026*
+*Last reviewed by FCDO: 10 April 2026*
 
 [View current FCDO travel advice for Belgium](https://www.gov.uk/foreign-travel-advice/belgium)
 
 ## Change History
 
 ### 2026
+
+**10 April 2026**
+<br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+
+
+
 
 **7 April 2026**
 <br />Updated information about general strike action ('Warnings and insurance' page).

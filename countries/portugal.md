@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 20 March 2026*
+*Last reviewed by FCDO: 10 April 2026*
 
 [View current FCDO travel advice for Portugal](https://www.gov.uk/foreign-travel-advice/portugal)
 
 ## Change History
 
 ### 2026
+
+**10 April 2026**
+<br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+
+
 
 **20 March 2026**
 <br />Updated information on staying in Portugal for longer than 90 days in exceptional circumstances (‘Entry requirements’ page). 

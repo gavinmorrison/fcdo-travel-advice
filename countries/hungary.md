@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 8 April 2026*
+*Last reviewed by FCDO: 10 April 2026*
 
 [View current FCDO travel advice for Hungary](https://www.gov.uk/foreign-travel-advice/hungary)
 
 ## Change History
 
 ### 2026
+
+**10 April 2026**
+<br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 **8 April 2026**
 <br />Addition of information that national elections will be held on 12 April 2026 (see ‘Political situation’ on ‘Safety and security’ page).
