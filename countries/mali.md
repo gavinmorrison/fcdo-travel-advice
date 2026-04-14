@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Mali.
 
-*Last reviewed by FCDO: 19 March 2026*
+*Last reviewed by FCDO: 13 April 2026*
 
 [View current FCDO travel advice for Mali](https://www.gov.uk/foreign-travel-advice/mali)
 
 ## Change History
 
 ### 2026
+
+**13 April 2026**
+<br />Removal of information about risks of terrorism (‘Warning and insurance’ page).
 
 **19 March 2026**
 <br />Information about risks of terrorism (‘Warning and insurance’ page).  
