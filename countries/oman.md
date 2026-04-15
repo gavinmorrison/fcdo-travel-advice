@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 1 April 2026*
+*Last reviewed by FCDO: 14 April 2026*
 
 [View current FCDO travel advice for Oman](https://www.gov.uk/foreign-travel-advice/oman)
 
 ## Change History
 
 ### 2026
+
+**14 April 2026**
+<br />Update to information regarding regional escalation (‘Warnings and insurance’ page).
 
 **1 April 2026**
 <br />Updated information about regional escalation (‘Warnings and insurance’ page).

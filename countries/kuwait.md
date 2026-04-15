@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to Kuwait.
 
-*Last reviewed by FCDO: 8 April 2026*
+*Last reviewed by FCDO: 14 April 2026*
 
 [View current FCDO travel advice for Kuwait](https://www.gov.uk/foreign-travel-advice/kuwait)
 
 ## Change History
 
 ### 2026
+
+**14 April 2026**
+<br />Update to information regarding regional escalation (‘Warnings and insurance’ page).
 
 **8 April 2026**
 <br />Addition of information about crossing the Saudi-Kuwait border ('Warnings and insurance' page).
