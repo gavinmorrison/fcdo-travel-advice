@@ -4,13 +4,18 @@ FCDO advises against all travel to parts of Pakistan.
 
 FCDO advises against all but essential travel to parts of Pakistan.
 
-*Last reviewed by FCDO: 14 March 2026*
+*Last reviewed by FCDO: 15 April 2026*
 
 [View current FCDO travel advice for Pakistan](https://www.gov.uk/foreign-travel-advice/pakistan)
 
 ## Change History
 
 ### 2026
+
+**15 April 2026**
+<br />FCDO no longer advises against all but essential travel to Gilgit-Baltistan. Updated information about regional tensions and upcoming elections in Gilgit-Baltistan region ('Warnings and insurance' and ‘Regional risks’ pages).
+
+
 
 **14 March 2026**
 <br />Updated information about regional escalation, including  possible fuel shortages and transport disruption ('Warnings and insurance' page).
