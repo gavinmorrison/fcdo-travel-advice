@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Guatemala.
 
-*Last reviewed by FCDO: 17 February 2026*
+*Last reviewed by FCDO: 16 April 2026*
 
 [View current FCDO travel advice for Guatemala](https://www.gov.uk/foreign-travel-advice/guatemala)
 
 ## Change History
 
 ### 2026
+
+**16 April 2026**
+<br />Updated information on the ‘State of Prevention' currently in effect in Guatemala ('Warnings and insurance' page). 
 
 **17 February 2026**
 <br />New information on the ‘State of Prevention' currently in effect in Guatemala ('Warnings and insurance' page). 
