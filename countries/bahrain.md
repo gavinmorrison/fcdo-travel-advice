@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to Bahrain.
 
-*Last reviewed by FCDO: 14 April 2026*
+*Last reviewed by FCDO: 17 April 2026*
 
 [View current FCDO travel advice for Bahrain](https://www.gov.uk/foreign-travel-advice/bahrain)
 
 ## Change History
 
 ### 2026
+
+**17 April 2026**
+<br />Updated information about shelter in place ('Warnings and insurance' page).
 
 **14 April 2026**
 <br />Update to information regarding regional escalation (‘Warnings and insurance’ page).
