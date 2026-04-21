@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Mexico.
 
-*Last reviewed by FCDO: 13 March 2026*
+*Last reviewed by FCDO: 20 April 2026*
 
 [View current FCDO travel advice for Mexico](https://www.gov.uk/foreign-travel-advice/mexico)
 
 ## Change History
 
 ### 2026
+
+**20 April 2026**
+<br />Update following an incident at the Teotihuacán pyramids in Estado de México ('Warnings and Insurance' page)
 
 **13 March 2026**
 <br />Removal of information about possible Mexico City airport disruption and Jalisco security incident ('Warnings and insurance' page).

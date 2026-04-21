@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Bolivia.
 
-*Last reviewed by FCDO: 17 April 2026*
+*Last reviewed by FCDO: 20 April 2026*
 
 [View current FCDO travel advice for Bolivia](https://www.gov.uk/foreign-travel-advice/bolivia)
 
 ## Change History
 
 ### 2026
+
+**20 April 2026**
+<br />Removal of information about local elections.
 
 **17 April 2026**
 <br />Addition of information about local elections being held on 19 April ('Warnings and insurance' page).
