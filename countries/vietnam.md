@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 19 March 2026*
+*Last reviewed by FCDO: 21 April 2026*
 
 [View current FCDO travel advice for Vietnam](https://www.gov.uk/foreign-travel-advice/vietnam)
 
 ## Change History
 
 ### 2026
+
+**21 April 2026**
+<br />Addition of information about digital arrival card and updated information about road travel ('Entry requirements' and 'Safety and security' pages).
 
 **19 March 2026**
 <br />Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
