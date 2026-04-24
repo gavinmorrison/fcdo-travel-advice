@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 6 March 2026*
+*Last reviewed by FCDO: 23 April 2026*
 
 [View current FCDO travel advice for China](https://www.gov.uk/foreign-travel-advice/china)
 
 ## Change History
 
 ### 2026
+
+**23 April 2026**
+<br />Updated information about visa requirements (‘Entry requirements’ page).
 
 **6 March 2026**
 <br />Updated information on crime and scams ('Safety and security' page).

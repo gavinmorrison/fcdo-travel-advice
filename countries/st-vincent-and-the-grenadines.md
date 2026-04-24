@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 23 April 2026*
 
 [View current FCDO travel advice for St Vincent and the Grenadines](https://www.gov.uk/foreign-travel-advice/st-vincent-and-the-grenadines)
 
 ## Change History
 
-### 2025
+### 2026
+
+**23 April 2026**
+<br />New information about risks of crime, including in public areas (see ‘Crime’ on the ‘Safety and security’ page).
+
+<details>
+<summary><strong>2025</strong> (3 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -18,6 +24,8 @@ No specific FCDO travel advisories are currently active.
 
 **8 January 2025**
 <br />This travel advice was reviewed for accuracy and reissued with information on the continued effects from Hurricane Beryl from July 2024 (‘Safety and security’ page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (7 updates)</summary>
