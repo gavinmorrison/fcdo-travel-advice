@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Eritrea.
 
-*Last reviewed by FCDO: 27 January 2026*
+*Last reviewed by FCDO: 27 April 2026*
 
 [View current FCDO travel advice for Eritrea](https://www.gov.uk/foreign-travel-advice/eritrea)
 
 ## Change History
 
 ### 2026
+
+**27 April 2026**
+<br />Updated information on local security measures (‘Safety and security’ page).
 
 **27 January 2026**
 <br />Updated information about getting in touch with the British Embassy in Asmara if you need urgent help (‘Warnings and insurance’ page).

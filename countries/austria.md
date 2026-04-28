@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 April 2026*
+*Last reviewed by FCDO: 27 April 2026*
 
 [View current FCDO travel advice for Austria](https://www.gov.uk/foreign-travel-advice/austria)
 
 ## Change History
 
 ### 2026
+
+**27 April 2026**
+<br />New information about Eurovision song contest 2026 (‘Warnings and insurance’ page).
 
 **10 April 2026**
 <br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
