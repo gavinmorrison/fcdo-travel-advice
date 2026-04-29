@@ -2,13 +2,19 @@
 
 FCDO advises against all travel to parts of Chad.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 28 April 2026*
 
 [View current FCDO travel advice for Chad](https://www.gov.uk/foreign-travel-advice/chad)
 
 ## Change History
 
-### 2025
+### 2026
+
+**28 April 2026**
+<br />New information on planned protests that are due to take place on 2 May in N’Djamena and updated information on the political situation (‘Warnings and insurance’ and ‘Safety and security’ pages).
+
+<details>
+<summary><strong>2025</strong> (3 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -18,6 +24,8 @@ FCDO advises against all travel to parts of Chad.
 
 **16 July 2025**
 <br />Updated information about limited UK government support available (‘Warnings and insurance' page).  
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (6 updates)</summary>

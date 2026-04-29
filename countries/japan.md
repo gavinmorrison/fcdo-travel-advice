@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 21 April 2026*
+*Last reviewed by FCDO: 28 April 2026*
 
 [View current FCDO travel advice for Japan](https://www.gov.uk/foreign-travel-advice/japan)
 
 ## Change History
 
 ### 2026
+
+**28 April 2026**
+<br />Updated information on drink spiking and custody disputes ('Safety and security' page).
 
 **21 April 2026**
 <br />Updated information about 7.7 magnitude earthquake ('Warnings and insurance' page)

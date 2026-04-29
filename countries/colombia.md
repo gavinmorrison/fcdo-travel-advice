@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Colombia.
 
-*Last reviewed by FCDO: 7 April 2026*
+*Last reviewed by FCDO: 28 April 2026*
 
 [View current FCDO travel advice for Colombia](https://www.gov.uk/foreign-travel-advice/colombia)
 
 ## Change History
 
 ### 2026
+
+**28 April 2026**
+<br />New information following explosive attacks in Cauca, Valle de Cauca and Nariño departments between 24 - 27 April ('Warnings and insurance' page). 
 
 **7 April 2026**
 <br />FCDO now advises against all but essential travel to the municipality of Jamundí, Valle del Cauca. FCDO continues to advise against all but essential travel to other parts of Colombia ('Warnings and insurance' page). 

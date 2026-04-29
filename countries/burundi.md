@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Burundi.
 
-*Last reviewed by FCDO: 30 March 2026*
+*Last reviewed by FCDO: 28 April 2026*
 
 [View current FCDO travel advice for Burundi](https://www.gov.uk/foreign-travel-advice/burundi)
 
 ## Change History
 
 ### 2026
+
+**28 April 2026**
+<br />Updated information that the only international airport in Burundi is the Melchior Ndadaye International Airport ('Warnings and insurance' page).
 
 **30 March 2026**
 <br /> FCDO no longer advises against all but essential travel to the city of Bujumbura and parts of Bujumbura province. FCDO continues to advise against all travel to other parts of Burundi (‘Warnings and insurance’ page). Changes to Burundi’s provincial structure added.  
