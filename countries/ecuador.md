@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Ecuador.
 
-*Last reviewed by FCDO: 8 April 2026*
+*Last reviewed by FCDO: 29 April 2026*
 
 [View current FCDO travel advice for Ecuador](https://www.gov.uk/foreign-travel-advice/ecuador)
 
 ## Change History
 
 ### 2026
+
+**29 April 2026**
+<br />Addition of information that a curfew will be in place across a number of provinces from 3 to 18 May ('Warnings and insurance' page).
 
 **8 April 2026**
 <br />Updated information that the State of Emergency has been renewed for 60 days ('Warnings and insurance' page).

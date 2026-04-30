@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Mexico.
 
-*Last reviewed by FCDO: 28 April 2026*
+*Last reviewed by FCDO: 29 April 2026*
 
 [View current FCDO travel advice for Mexico](https://www.gov.uk/foreign-travel-advice/mexico)
 
 ## Change History
 
 ### 2026
+
+**29 April 2026**
+<br />Removal of information about disruption in the North of Nayarit state, following operations against organised crime (‘Warnings and insurance’ page).
 
 **28 April 2026**
 <br />New information about disruption in the North of Nayarit state, following operations against organised crime (‘Warnings and insurance’ page).
