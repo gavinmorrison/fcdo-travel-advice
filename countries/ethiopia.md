@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Ethiopia.
 
 FCDO advises against all but essential travel to parts of Ethiopia.
 
-*Last reviewed by FCDO: 7 April 2026*
+*Last reviewed by FCDO: 1 May 2026*
 
 [View current FCDO travel advice for Ethiopia](https://www.gov.uk/foreign-travel-advice/ethiopia)
 
 ## Change History
 
 ### 2026
+
+**1 May 2026**
+<br />Updated information about applying for a visa and addition of information about a nationwide general election being held on 1 June ('Entry requirements' and 'Safety and security' page).
 
 **7 April 2026**
 <br />Addition of information about fuel shortages ('Safety and security' page).

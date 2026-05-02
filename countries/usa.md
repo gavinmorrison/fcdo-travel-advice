@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 13 March 2026*
+*Last reviewed by FCDO: 1 May 2026*
 
 [View current FCDO travel advice for USA](https://www.gov.uk/foreign-travel-advice/usa)
 
 ## Change History
 
 ### 2026
+
+**1 May 2026**
+<br />Removal of information on possible travel disruption ('Warnings and insurance' page).
 
 **13 March 2026**
 <br />Additional information about existing entry requirements and new information on possible travel disruption ('Warnings and insurance' and 'Entry requirements' pages).
