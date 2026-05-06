@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Russia.
 
-*Last reviewed by FCDO: 13 April 2026*
+*Last reviewed by FCDO: 5 May 2026*
 
 [View current FCDO travel advice for Russia](https://www.gov.uk/foreign-travel-advice/russia)
 
 ## Change History
 
 ### 2026
+
+**5 May 2026**
+<br />Updated information on security situation ('Safety and security' page).
 
 **13 April 2026**
 <br />Additional information for dual British-Russian nationals ('Warnings and insurance' page).
