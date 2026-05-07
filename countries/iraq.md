@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Iraq.
 
-*Last reviewed by FCDO: 1 April 2026*
+*Last reviewed by FCDO: 6 May 2026*
 
 [View current FCDO travel advice for Iraq](https://www.gov.uk/foreign-travel-advice/iraq)
 
 ## Change History
 
 ### 2026
+
+**6 May 2026**
+<br />Updated information about risks from terrorist kidnap (‘Safety and security’ page).
 
 **1 April 2026**
 <br />Updated information about regional escalation (‘Warnings and insurance’ page).

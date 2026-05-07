@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 6 May 2026*
 
 [View current FCDO travel advice for Jamaica](https://www.gov.uk/foreign-travel-advice/jamaica)
 
 ## Change History
 
-### 2025
+### 2026
+
+**6 May 2026**
+<br />New information on incidents of sexual assault in tourist areas and advice on personal safety measures ('Safety and security' page).
+
+<details>
+<summary><strong>2025</strong> (17 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -62,6 +68,8 @@ No specific FCDO travel advisories are currently active.
 <br />Addition of information about Zones of Special Operation and updated information on crime ('Safety and security' page). 
 
 
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (9 updates)</summary>
