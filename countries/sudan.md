@@ -2,13 +2,19 @@
 
 FCDO advises against all travel to parts of Sudan.
 
-*Last reviewed by FCDO: 26 February 2026*
+*Last reviewed by FCDO: 7 May 2026*
 
 [View current FCDO travel advice for Sudan](https://www.gov.uk/foreign-travel-advice/sudan)
 
 ## Change History
 
 ### 2026
+
+**7 May 2026**
+<br />Updated information on operations in Sudanese airports ('Safety and security' page).
+
+
+
 
 **26 February 2026**
 <br />Updated information about operations in Sudanese airports (‘Warnings and insurance’ and ‘Safety and security’ pages).

@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Bolivia.
 
-*Last reviewed by FCDO: 6 May 2026*
+*Last reviewed by FCDO: 7 May 2026*
 
 [View current FCDO travel advice for Bolivia](https://www.gov.uk/foreign-travel-advice/bolivia)
 
 ## Change History
 
 ### 2026
+
+**7 May 2026**
+<br />New information on transport strikes (See ‘Warnings and insurance’ page)
 
 **6 May 2026**
 <br />New information about the announcement of an indefinite transport strike from 6 May 2026 ('Warnings and insurance' page).  

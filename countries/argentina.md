@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 7 May 2026*
 
 [View current FCDO travel advice for Argentina](https://www.gov.uk/foreign-travel-advice/argentina)
 
 ## Change History
 
-### 2025
+### 2026
+
+**7 May 2026**
+<br />New information about Hantavirus in Argentina (‘Health’ page).
+
+<details>
+<summary><strong>2025</strong> (3 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -18,6 +24,8 @@ No specific FCDO travel advisories are currently active.
 
 **19 March 2025**
 <br />Removal of visa requirement to enter Argentina on an Emergency Travel Document and addition of number to contact 911 (Emergencies) in Buenos Aires from outside Argentina ('Getting help' page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (6 updates)</summary>
