@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Turkey.
 
-*Last reviewed by FCDO: 1 March 2026*
+*Last reviewed by FCDO: 8 May 2026*
 
 [View current FCDO travel advice for Turkey](https://www.gov.uk/foreign-travel-advice/turkey)
 
 ## Change History
 
 ### 2026
+
+**8 May 2026**
+<br />Updated information on Ramadan, terrorism and children and accommodation (‘Safety and security’ page).
 
 **1 March 2026**
 <br />New information about entering Turkey across the land border from Iran (‘Entry requirements’ page)
