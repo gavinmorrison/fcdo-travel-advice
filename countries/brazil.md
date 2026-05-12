@@ -2,13 +2,19 @@
 
 FCDO advises against all but essential travel to parts of Brazil.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 11 May 2026*
 
 [View current FCDO travel advice for Brazil](https://www.gov.uk/foreign-travel-advice/brazil)
 
 ## Change History
 
-### 2025
+### 2026
+
+**11 May 2026**
+<br />New information on scams, taxi travel and regional risks ('Safety and security' and 'Regional risks' pages). 
+
+<details>
+<summary><strong>2025</strong> (5 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -24,6 +30,8 @@ FCDO advises against all but essential travel to parts of Brazil.
 
 **7 January 2025**
 <br />Information added that terrorists are likely to try to carry out attacks in Brazil ( ‘Safety and security’ page). 
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (9 updates)</summary>
