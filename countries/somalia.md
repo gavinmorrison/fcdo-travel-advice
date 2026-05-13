@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Somalia.
 
-*Last reviewed by FCDO: 26 January 2026*
+*Last reviewed by FCDO: 12 May 2026*
 
 [View current FCDO travel advice for Somalia](https://www.gov.uk/foreign-travel-advice/somalia)
 
 ## Change History
 
 ### 2026
+
+**12 May 2026**
+<br />New information about the Somaliland Re-recognition Day (‘Warnings and insurance’ page).
 
 **26 January 2026**
 <br />Removal of information about risks from large gatherings and celebratory gunfire.

@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Pakistan.
 
 FCDO advises against all but essential travel to parts of Pakistan.
 
-*Last reviewed by FCDO: 17 April 2026*
+*Last reviewed by FCDO: 12 May 2026*
 
 [View current FCDO travel advice for Pakistan](https://www.gov.uk/foreign-travel-advice/pakistan)
 
 ## Change History
 
 ### 2026
+
+**12 May 2026**
+<br />Removal of information about the security situation in Islamabad ('Warnings and insurance' page).
 
 **17 April 2026**
 <br />New information about the security situation in Islamabad ('Warnings and insurance' page).
