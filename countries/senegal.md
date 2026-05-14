@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 24 March 2026*
+*Last reviewed by FCDO: 13 May 2026*
 
 [View current FCDO travel advice for Senegal](https://www.gov.uk/foreign-travel-advice/senegal)
 
 ## Change History
 
 ### 2026
+
+**13 May 2026**
+<br />Updated information for LGBT+ travellers due to legislation being amended around same-sex relations (‘Safety and security' page).
 
 **24 March 2026**
 <br /> New information for LGBT+ travellers (see ‘LGBT+ travellers’ on the ‘Safety and security page’).
