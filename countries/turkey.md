@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Turkey.
 
-*Last reviewed by FCDO: 8 May 2026*
+*Last reviewed by FCDO: 14 May 2026*
 
 [View current FCDO travel advice for Turkey](https://www.gov.uk/foreign-travel-advice/turkey)
 
 ## Change History
 
 ### 2026
+
+**14 May 2026**
+<br />New information about the upcoming UEFA Europa League Final on 20 May ('Warnings and insurance' page).
 
 **8 May 2026**
 <br />Updated information on Ramadan, terrorism and children and accommodation (‘Safety and security’ page).
