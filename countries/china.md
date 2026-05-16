@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 23 April 2026*
+*Last reviewed by FCDO: 15 May 2026*
 
 [View current FCDO travel advice for China](https://www.gov.uk/foreign-travel-advice/china)
 
 ## Change History
 
 ### 2026
+
+**15 May 2026**
+<br />New information on drone regulations in China ('Safety and security' page).
 
 **23 April 2026**
 <br />Updated information about visa requirements (‘Entry requirements’ page).

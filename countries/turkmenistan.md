@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 20 March 2026*
+*Last reviewed by FCDO: 15 May 2026*
 
 [View current FCDO travel advice for Turkmenistan](https://www.gov.uk/foreign-travel-advice/turkmenistan)
 
 ## Change History
 
 ### 2026
+
+**15 May 2026**
+<br />Updated information about bringing medication into the country ('Health' page).
+
+**15 May 2026**
+<br />Updated information about brining medication into Turkmenistan ('Health' page). 
 
 **20 March 2026**
 <br />Addition of information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
