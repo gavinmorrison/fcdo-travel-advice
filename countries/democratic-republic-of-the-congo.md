@@ -4,13 +4,19 @@ FCDO advises against all travel to parts of Democratic Republic of the Congo.
 
 FCDO advises against all but essential travel to parts of Democratic Republic of the Congo.
 
-*Last reviewed by FCDO: 19 March 2026*
+*Last reviewed by FCDO: 16 May 2026*
 
 [View current FCDO travel advice for Democratic Republic of the Congo](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo)
 
 ## Change History
 
 ### 2026
+
+**16 May 2026**
+<br />FCDO no longer advises against all travel to the province of Kasaï Oriental and no longer advises against all but essential travel to the provinces of Kasaï and Kasaï Central, FCDO continues to advise against all travel and all but essential travel to other parts of DRC ('Warnings and insurance' page). Addition of information about Ebola (‘Health’ page).
+
+**16 May 2026**
+<br />FCDO no longer advises again all travel to the province of Kasaï Oriental and no longer advises again all but essential travel to the provinces of Kasaï and Kasaï Central, FCDO continues to advise against all travel and all but essential travel to other parts of DRC ('Warnings and insurance' page). Addition of information about Ebola  (‘Health’ page).  
 
 **19 March 2026**
 <br />Removal of information that the Kavimvira border crossing between DRC and Burundi remains closed ('Warnings and insurance' page).
