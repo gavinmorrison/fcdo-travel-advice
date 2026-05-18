@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Democratic Republic of the Congo.
 
 FCDO advises against all but essential travel to parts of Democratic Republic of the Congo.
 
-*Last reviewed by FCDO: 16 May 2026*
+*Last reviewed by FCDO: 17 May 2026*
 
 [View current FCDO travel advice for Democratic Republic of the Congo](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo)
 
 ## Change History
 
 ### 2026
+
+**17 May 2026**
+<br />Addition of information following a declaration of an Ebola outbreak on 15 May (‘Health’ page)
 
 **16 May 2026**
 <br />FCDO no longer advises against all travel to the province of Kasaï Oriental and no longer advises against all but essential travel to the provinces of Kasaï and Kasaï Central, FCDO continues to advise against all travel and all but essential travel to other parts of DRC ('Warnings and insurance' page). Addition of information about Ebola (‘Health’ page).

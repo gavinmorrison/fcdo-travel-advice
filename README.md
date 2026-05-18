@@ -37,7 +37,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Austria](countries/austria.md) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Azerbaijan](countries/azerbaijan.md) | FCDO advises against all travel to parts of Azerbaijan.<br />FCDO advises against all but essential travel to parts of Azerbaijan. |
 | 🟢 | [Bahamas](countries/bahamas.md) | No specific FCDO travel advisories are currently active. |
-| 🟡 | [Bahrain](countries/bahrain.md) | FCDO advises against all but essential travel to Bahrain. |
+| ❓ | [Bahrain](countries/bahrain.md) | Error: Failed to fetch API data |
 | 🟡 | [Bangladesh](countries/bangladesh.md) | FCDO advises against all but essential travel to parts of Bangladesh. |
 | 🟢 | [Barbados](countries/barbados.md) | No specific FCDO travel advisories are currently active. |
 | 🔴 | [Belarus](countries/belarus.md) | FCDO advises against all travel to Belarus. |
@@ -251,7 +251,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-05-17 03:18 UTC*
+*Last updated: 2026-05-18 03:22 UTC*
 
 ## Usage
 
