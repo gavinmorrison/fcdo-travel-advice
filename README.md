@@ -37,7 +37,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Austria](countries/austria.md) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Azerbaijan](countries/azerbaijan.md) | FCDO advises against all travel to parts of Azerbaijan.<br />FCDO advises against all but essential travel to parts of Azerbaijan. |
 | 🟢 | [Bahamas](countries/bahamas.md) | No specific FCDO travel advisories are currently active. |
-| ❓ | [Bahrain](countries/bahrain.md) | Error: Failed to fetch API data |
+| 🟡 | [Bahrain](countries/bahrain.md) | FCDO advises against all but essential travel to Bahrain. |
 | 🟡 | [Bangladesh](countries/bangladesh.md) | FCDO advises against all but essential travel to parts of Bangladesh. |
 | 🟢 | [Barbados](countries/barbados.md) | No specific FCDO travel advisories are currently active. |
 | 🔴 | [Belarus](countries/belarus.md) | FCDO advises against all travel to Belarus. |
@@ -46,7 +46,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | ⚠️ | [Benin](countries/benin.md) | FCDO advises against all travel to parts of Benin.<br />FCDO advises against all but essential travel to parts of Benin. |
 | 🟢 | [Bermuda](countries/bermuda.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Bhutan](countries/bhutan.md) | No specific FCDO travel advisories are currently active. |
-| 🟡 | [Bolivia](countries/bolivia.md) | FCDO advises against all but essential travel to parts of Bolivia. |
+| ⚠️ | [Bolivia](countries/bolivia.md) | FCDO advises against all travel to parts of Bolivia.<br />FCDO advises against all but essential travel to parts of Bolivia. |
 | 🟢 | [Bonaire/St Eustatius/Saba](countries/bonaire-st-eustatius-saba.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Bosnia and Herzegovina](countries/bosnia-and-herzegovina.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Botswana](countries/botswana.md) | No specific FCDO travel advisories are currently active. |
@@ -251,7 +251,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-05-18 03:22 UTC*
+*Last updated: 2026-05-19 03:19 UTC*
 
 ## Usage
 
