@@ -2,13 +2,21 @@
 
 FCDO advises against all but essential travel to parts of Tanzania.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 19 May 2026*
 
 [View current FCDO travel advice for Tanzania](https://www.gov.uk/foreign-travel-advice/tanzania)
 
 ## Change History
 
-### 2025
+### 2026
+
+**19 May 2026**
+<br />Addition of  information about heightened health screening measures for those entering Tanzania from Uganda and the Democratic Republic of Congo ('Entry requirements' page).
+
+
+
+<details>
+<summary><strong>2025</strong> (30 updates)</summary>
 
 **10 December 2025**
 <br />Updated information on the political situation following the October 29 elections (‘Safety and security’ page). New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -103,6 +111,8 @@ FCDO advises against all but essential travel to parts of Tanzania.
 
 **17 January 2025**
 <br />Information on suspected outbreak of Marburg Virus disease in Kagera region (‘Health’ page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (9 updates)</summary>

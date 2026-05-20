@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 April 2026*
+*Last reviewed by FCDO: 19 May 2026*
 
 [View current FCDO travel advice for Croatia](https://www.gov.uk/foreign-travel-advice/croatia)
 
 ## Change History
 
 ### 2026
+
+**19 May 2026**
+<br />Addition of information about travel disruption at the Gradiška border crossing ('Warnings and insurance' page).
 
 **10 April 2026**
 <br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).

@@ -2,13 +2,20 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 19 May 2026*
 
 [View current FCDO travel advice for Costa Rica](https://www.gov.uk/foreign-travel-advice/costa-rica)
 
 ## Change History
 
-### 2025
+### 2026
+
+**19 May 2026**
+<br />Updated information on customs rules; gang-related violence; fines for unauthorised entry into restricted conservation areas and earthquakes and recent volcanic activity ('Entry requirements' and 'Safety and security' pages). 
+
+
+<details>
+<summary><strong>2025</strong> (6 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -27,6 +34,8 @@ No specific FCDO travel advisories are currently active.
 
 **25 April 2025**
 <br />Update on recent volcanic activity
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (4 updates)</summary>

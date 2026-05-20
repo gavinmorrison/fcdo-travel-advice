@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 19 May 2026*
 
 [View current FCDO travel advice for Canada](https://www.gov.uk/foreign-travel-advice/canada)
 
 ## Change History
 
-### 2025
+### 2026
+
+**19 May 2026**
+<br />Updated information for fans travelling to the World Cup 2026 (‘World Cup 2026’ page). 
+
+<details>
+<summary><strong>2025</strong> (9 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -50,6 +56,8 @@ $CTA
 
 **17 February 2025**
 <br />Details of plane crash at Toronto Pearson Airport ('Warnings and insurance' page)
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (8 updates)</summary>

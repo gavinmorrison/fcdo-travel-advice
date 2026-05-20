@@ -2,13 +2,20 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 17 May 2026*
+*Last reviewed by FCDO: 19 May 2026*
 
 [View current FCDO travel advice for Uganda](https://www.gov.uk/foreign-travel-advice/uganda)
 
 ## Change History
 
 ### 2026
+
+**19 May 2026**
+<br />Updated information on Ebola ('Health' page).
+
+
+**19 May 2026**
+<br />Updated information about Uganda’s declaration of an Ebola outbreak ('Health' page).
 
 **17 May 2026**
 <br />Addition of Ebola as a health risk you may face whilst in Uganda (‘Health’ Page)
