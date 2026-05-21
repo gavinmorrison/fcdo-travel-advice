@@ -2,13 +2,19 @@
 
 FCDO advises against all but essential travel to parts of Ecuador.
 
-*Last reviewed by FCDO: 29 April 2026*
+*Last reviewed by FCDO: 20 May 2026*
 
 [View current FCDO travel advice for Ecuador](https://www.gov.uk/foreign-travel-advice/ecuador)
 
 ## Change History
 
 ### 2026
+
+**20 May 2026**
+<br />Addition of information about Colombia-Ecuador border closure and updated information on healthcare in Ecuador and the Galapagos Islands ('Warnings and insurance' and 'Health' pages).
+
+
+
 
 **29 April 2026**
 <br />Addition of information that a curfew will be in place across a number of provinces from 3 to 18 May ('Warnings and insurance' page).

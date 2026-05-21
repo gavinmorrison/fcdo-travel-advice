@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Peru.
 
-*Last reviewed by FCDO: 7 March 2026*
+*Last reviewed by FCDO: 20 May 2026*
 
 [View current FCDO travel advice for Peru](https://www.gov.uk/foreign-travel-advice/peru)
 
 ## Change History
 
 ### 2026
+
+**20 May 2026**
+<br />Removal of information about emergency measures affecting Lima and Callao regions which was declared by Peruvian Government in response to natural gas shortage.
 
 **7 March 2026**
 <br />Emergency measures affecting Lima and Callao regions declared by Peruvian Government in response to natural gas shortage (See ’Warnings and insurance’ page).

@@ -2,13 +2,19 @@
 
 FCDO advises against all but essential travel to parts of Rwanda.
 
-*Last reviewed by FCDO: 18 December 2025*
+*Last reviewed by FCDO: 20 May 2026*
 
 [View current FCDO travel advice for Rwanda](https://www.gov.uk/foreign-travel-advice/rwanda)
 
 ## Change History
 
-### 2025
+### 2026
+
+**20 May 2026**
+<br />Updated information to border crossings between Rwanda and DRC and addition of information about a declaration of an Ebola outbreak in DRC on 15 May ('Warnings and insurance' and ‘Health’ pages). 
+
+<details>
+<summary><strong>2025</strong> (15 updates)</summary>
 
 **18 December 2025**
 <br />FCDO no longer advises against all but essential travel to parts of Rubavu District. FCDO continues to advise against all but essential travel to parts of Rusizi District which are within 10km of the border with the Democratic Republic of Congo (‘Warnings and insurance’ page).
@@ -56,6 +62,8 @@ FCDO advises against all but essential travel to parts of Rwanda.
 
 **2 January 2025**
 <br />Updated information about the end of the Marburg virus disease outbreak in Rwanda (‘Health’ page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (9 updates)</summary>
