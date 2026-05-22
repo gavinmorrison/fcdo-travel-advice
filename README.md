@@ -46,7 +46,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | ⚠️ | [Benin](countries/benin.md) | FCDO advises against all travel to parts of Benin.<br />FCDO advises against all but essential travel to parts of Benin. |
 | 🟢 | [Bermuda](countries/bermuda.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Bhutan](countries/bhutan.md) | No specific FCDO travel advisories are currently active. |
-| ⚠️ | [Bolivia](countries/bolivia.md) | FCDO advises against all travel to parts of Bolivia.<br />FCDO advises against all but essential travel to parts of Bolivia. |
+| 🟡 | [Bolivia](countries/bolivia.md) | FCDO advises against all but essential travel to parts of Bolivia. |
 | 🟢 | [Bonaire/St Eustatius/Saba](countries/bonaire-st-eustatius-saba.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Bosnia and Herzegovina](countries/bosnia-and-herzegovina.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Botswana](countries/botswana.md) | No specific FCDO travel advisories are currently active. |
@@ -251,7 +251,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-05-21 03:20 UTC*
+*Last updated: 2026-05-22 03:20 UTC*
 
 ## Usage
 

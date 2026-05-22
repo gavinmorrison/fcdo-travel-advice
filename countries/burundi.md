@@ -2,13 +2,18 @@
 
 FCDO advises against all travel to parts of Burundi.
 
-*Last reviewed by FCDO: 28 April 2026*
+*Last reviewed by FCDO: 21 May 2026*
 
 [View current FCDO travel advice for Burundi](https://www.gov.uk/foreign-travel-advice/burundi)
 
 ## Change History
 
 ### 2026
+
+**21 May 2026**
+<br />Addition of information about a declaration of an Ebola outbreak in DRC on 15 May (‘Health page’).
+
+
 
 **28 April 2026**
 <br />Updated information that the only international airport in Burundi is the Melchior Ndadaye International Airport ('Warnings and insurance' page).
