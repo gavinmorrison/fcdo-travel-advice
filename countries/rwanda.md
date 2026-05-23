@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Rwanda.
 
-*Last reviewed by FCDO: 20 May 2026*
+*Last reviewed by FCDO: 22 May 2026*
 
 [View current FCDO travel advice for Rwanda](https://www.gov.uk/foreign-travel-advice/rwanda)
 
 ## Change History
 
 ### 2026
+
+**22 May 2026**
+<br />Addition of information about new border measures announced by the Government of Rwanda in response to the Ebola outbreak (‘Entry requirements’ page).
 
 **20 May 2026**
 <br />Updated information to border crossings between Rwanda and DRC and addition of information about a declaration of an Ebola outbreak in DRC on 15 May ('Warnings and insurance' and ‘Health’ pages). 
