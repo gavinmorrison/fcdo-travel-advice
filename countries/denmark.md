@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 April 2026*
+*Last reviewed by FCDO: 24 May 2026*
 
 [View current FCDO travel advice for Denmark](https://www.gov.uk/foreign-travel-advice/denmark)
 
 ## Change History
 
 ### 2026
+
+**24 May 2026**
+<br />Information on delays at passport control for passengers flying to and from Copenhagen airport. ("Safety and Security" page)
 
 **10 April 2026**
 <br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
