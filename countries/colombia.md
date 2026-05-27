@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Colombia.
 
-*Last reviewed by FCDO: 19 May 2026*
+*Last reviewed by FCDO: 26 May 2026*
 
 [View current FCDO travel advice for Colombia](https://www.gov.uk/foreign-travel-advice/colombia)
 
 ## Change History
 
 ### 2026
+
+**26 May 2026**
+<br />New information about Colombian Presidential Elections ('Warnings and insurance' page).
 
 **19 May 2026**
 <br />FCDO now advises against all but essential travel to the department capitals of Arauca and Puerto Carreno. FCDO now also advises against all but essential travel to the whole of Cauca department, except for the department capital Popayan ('Warnings and insurance' page).

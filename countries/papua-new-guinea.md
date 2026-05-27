@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Papua New Guinea.
 
-*Last reviewed by FCDO: 5 April 2026*
+*Last reviewed by FCDO: 26 May 2026*
 
 [View current FCDO travel advice for Papua New Guinea](https://www.gov.uk/foreign-travel-advice/papua-new-guinea)
 
 ## Change History
 
 ### 2026
+
+**26 May 2026**
+<br />Removal of information about Tropical Cyclone Maila (‘Warnings and Insurance’ page).
 
 **5 April 2026**
 <br />Updated information about Tropical Cyclone Maila, affecting parts of the Solomon Islands, moving towards Papua New Guinea (‘Warnings and Insurance’ page)

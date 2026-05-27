@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 19 March 2026*
+*Last reviewed by FCDO: 26 May 2026*
 
 [View current FCDO travel advice for Sri Lanka](https://www.gov.uk/foreign-travel-advice/sri-lanka)
 
 ## Change History
 
 ### 2026
+
+**26 May 2026**
+<br />New information about Electronic Travel Authorization (ETA) which will now be issued free of charge as of 25 May 2026 ('Entry requirements' page).
 
 **19 March 2026**
 <br />Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
