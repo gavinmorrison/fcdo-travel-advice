@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 13 February 2026*
+*Last reviewed by FCDO: 27 May 2026*
 
 [View current FCDO travel advice for Liberia](https://www.gov.uk/foreign-travel-advice/liberia)
 
 ## Change History
 
 ### 2026
+
+**27 May 2026**
+<br />Addition of information about heightened health screening measures for travellers arriving into Liberia (‘Entry requirements’ page).
+
+
 
 **13 February 2026**
 <br />Updated information about applying for a visa, using cash in country and health risks (‘Entry requirements’, ‘Safety and security’ and ‘Health’ pages).

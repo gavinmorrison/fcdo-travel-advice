@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 6 February 2026*
+*Last reviewed by FCDO: 27 May 2026*
 
 [View current FCDO travel advice for Cape Verde](https://www.gov.uk/foreign-travel-advice/cape-verde)
 
 ## Change History
 
 ### 2026
+
+**27 May 2026**
+<br />Updated information about the traveller entry form and updated information about health risks you may face in Cape Verde ('Entry requirements' and 'Health' pages).
 
 **6 February 2026**
 <br />Updated information on health risks you may face in Cape Verde (‘Warnings and insurance’ and ‘Health’ pages).

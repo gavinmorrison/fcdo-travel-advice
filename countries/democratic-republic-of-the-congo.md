@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Democratic Republic of the Congo.
 
 FCDO advises against all but essential travel to parts of Democratic Republic of the Congo.
 
-*Last reviewed by FCDO: 23 May 2026*
+*Last reviewed by FCDO: 27 May 2026*
 
 [View current FCDO travel advice for Democratic Republic of the Congo](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo)
 
 ## Change History
 
 ### 2026
+
+**27 May 2026**
+<br />New information about multiple drone attacks in the area of Kisangani airport (‘Warnings and insurance’ page).
 
 **23 May 2026**
 <br />Updated information advising against all but essential travel to Upemba National Park (Warnings and Insurance page)
