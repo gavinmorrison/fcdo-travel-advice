@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 28 May 2026*
 
 [View current FCDO travel advice for Bahamas](https://www.gov.uk/foreign-travel-advice/bahamas)
 
 ## Change History
 
-### 2025
+### 2026
+
+**28 May 2026**
+<br />New information about Ebola screening when arriving in country ('Entry requirements' page). 
+
+<details>
+<summary><strong>2025</strong> (5 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -24,6 +30,8 @@ No specific FCDO travel advisories are currently active.
 
 **28 September 2025**
 <br />Addition of information on hurricane season (‘Warnings and insurance’ page and ‘Safety and security’ page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (3 updates)</summary>

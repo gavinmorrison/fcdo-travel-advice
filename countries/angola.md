@@ -2,13 +2,19 @@
 
 FCDO advises against all but essential travel to parts of Angola.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 28 May 2026*
 
 [View current FCDO travel advice for Angola](https://www.gov.uk/foreign-travel-advice/angola)
 
 ## Change History
 
-### 2025
+### 2026
+
+**28 May 2026**
+<br />Addition of information about a declaration of an Ebola outbreak in DRC on 15 May and updated information about road travel ('Safety and security' and 'Health' pages).
+
+<details>
+<summary><strong>2025</strong> (5 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -27,6 +33,8 @@ FCDO advises against all but essential travel to parts of Angola.
 
 **1 July 2025**
 <br />Updated information of what health risks you’ll face in Angola (‘Health’ page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (1 update)</summary>

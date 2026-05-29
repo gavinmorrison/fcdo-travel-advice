@@ -2,18 +2,26 @@
 
 FCDO advises against all travel to parts of Central African Republic.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 28 May 2026*
 
 [View current FCDO travel advice for Central African Republic](https://www.gov.uk/foreign-travel-advice/central-african-republic)
 
 ## Change History
 
-### 2025
+### 2026
+
+**28 May 2026**
+<br />Addition of information about a declaration of an Ebola outbreak in DRC on 15 May (‘Health page’).
+
+<details>
+<summary><strong>2025</strong> (1 update)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
  
 
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (3 updates)</summary>
