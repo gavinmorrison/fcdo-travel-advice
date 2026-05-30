@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Ukraine.
 
 FCDO advises against all but essential travel to parts of Ukraine.
 
-*Last reviewed by FCDO: 27 May 2026*
+*Last reviewed by FCDO: 29 May 2026*
 
 [View current FCDO travel advice for Ukraine](https://www.gov.uk/foreign-travel-advice/ukraine)
 
 ## Change History
 
 ### 2026
+
+**29 May 2026**
+<br />Updated information about dual nationals ('Warnings and insurance' page).
 
 **27 May 2026**
 <br />Updated information on drone and missile strikes ('Warnings and insurance' page).

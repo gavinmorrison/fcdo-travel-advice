@@ -4,13 +4,18 @@ FCDO advises against all travel to parts of Democratic Republic of the Congo.
 
 FCDO advises against all but essential travel to parts of Democratic Republic of the Congo.
 
-*Last reviewed by FCDO: 27 May 2026*
+*Last reviewed by FCDO: 29 May 2026*
 
 [View current FCDO travel advice for Democratic Republic of the Congo](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo)
 
 ## Change History
 
 ### 2026
+
+**29 May 2026**
+<br />FCDO now advises against all but essential travel to Bangoka International Airport, Kisangani. FCDO continues to advise against all travel and all but essential travel to other parts of DRC (‘Warnings and insurance’ page).
+
+
 
 **27 May 2026**
 <br />New information about multiple drone attacks in the area of Kisangani airport (‘Warnings and insurance’ page).
