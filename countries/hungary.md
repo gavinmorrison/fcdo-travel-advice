@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 22 May 2026*
+*Last reviewed by FCDO: 1 June 2026*
 
 [View current FCDO travel advice for Hungary](https://www.gov.uk/foreign-travel-advice/hungary)
 
 ## Change History
 
 ### 2026
+
+**1 June 2026**
+<br />Removal of information about the upcoming UEFA Champions League Final on 30 May (‘Warnings and insurance’ page).
 
 **22 May 2026**
 <br />New information about the upcoming UEFA Champions League Final on 30 May (‘Warnings and insurance’ page).

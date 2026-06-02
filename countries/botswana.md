@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 18 March 2026*
+*Last reviewed by FCDO: 1 June 2026*
 
 [View current FCDO travel advice for Botswana](https://www.gov.uk/foreign-travel-advice/botswana)
 
 ## Change History
 
 ### 2026
+
+**1 June 2026**
+<br />New information about entry requirements for those entering from Ebola-affected regions ('Entry requirements' page). 
 
 **18 March 2026**
 <br />Updated information on flooding ('Safety and security' page).

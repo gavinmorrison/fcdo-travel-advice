@@ -2,19 +2,27 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 1 June 2026*
 
 [View current FCDO travel advice for Zambia](https://www.gov.uk/foreign-travel-advice/zambia)
 
 ## Change History
 
-### 2025
+### 2026
+
+**1 June 2026**
+<br />New information about entry requirements for those entering from Ebola-affected regions ('Entry requirements' page).
+
+<details>
+<summary><strong>2025</strong> (2 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 **19 August 2025**
 <br />New information on the potential health risks from heavy metals in water (‘Health’ page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (4 updates)</summary>
