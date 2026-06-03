@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 19 May 2026*
+*Last reviewed by FCDO: 2 June 2026*
 
 [View current FCDO travel advice for USA](https://www.gov.uk/foreign-travel-advice/usa)
 
 ## Change History
 
 ### 2026
+
+**2 June 2026**
+<br />Addition of  information about entry requirements for those entering from Ebola-affected regions ('Entry requirements' page). 
 
 **19 May 2026**
 <br />Updated information for fans travelling to the World Cup 2026 (‘World Cup 2026’ page).

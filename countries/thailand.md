@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Thailand.
 
-*Last reviewed by FCDO: 2 April 2026*
+*Last reviewed by FCDO: 2 June 2026*
 
 [View current FCDO travel advice for Thailand](https://www.gov.uk/foreign-travel-advice/thailand)
 
 ## Change History
 
 ### 2026
+
+**2 June 2026**
+<br />Addition of information about heightened health screening measures for those entering Thailand from Ebola-affected regions ('Entry requirements' page).
 
 **2 April 2026**
 <br />Updated information about insurance for car and motorcycle hire (‘Safety and security’ page).

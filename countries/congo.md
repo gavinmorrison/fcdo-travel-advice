@@ -2,19 +2,27 @@
 
 FCDO advises against all travel to parts of Congo.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 2 June 2026*
 
 [View current FCDO travel advice for Congo](https://www.gov.uk/foreign-travel-advice/congo)
 
 ## Change History
 
-### 2025
+### 2026
+
+**2 June 2026**
+<br />New information about Ebola screening when arriving in country (‘Entry requirements’ page).
+
+<details>
+<summary><strong>2025</strong> (2 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 **20 January 2025**
 <br />FCDO no longer advises against all but essential travel to some districts in Pool Region and Mouyondzi District in the Bouenza Region ('Warnings and insurance' page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (1 update)</summary>
