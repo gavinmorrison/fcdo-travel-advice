@@ -119,11 +119,11 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🔴 | [Iran](countries/iran.md) | FCDO advises against all travel to Iran. |
 | 🔴 | [Iraq](countries/iraq.md) | FCDO advises against all travel to Iraq. |
 | 🟢 | [Ireland](countries/ireland.md) | No specific FCDO travel advisories are currently active. |
-| 🔴 | [Israel](countries/israel.md) | FCDO advises against all travel to Israel. |
+| ⚠️ | [Israel](countries/israel.md) | FCDO advises against all travel to parts of Israel.<br />FCDO advises against all but essential travel to parts of Israel. |
 | 🟢 | [Italy](countries/italy.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Jamaica](countries/jamaica.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Japan](countries/japan.md) | No specific FCDO travel advisories are currently active. |
-| ⚠️ | [Jordan](countries/jordan.md) | FCDO advises against all travel to parts of Jordan.<br />FCDO advises against all but essential travel to parts of Jordan. |
+| ⚠️ | [Jordan](countries/jordan.md) | FCDO advises against all travel to parts of Jordan. |
 | 🟢 | [Kazakhstan](countries/kazakhstan.md) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Kenya](countries/kenya.md) | FCDO advises against all travel to parts of Kenya.<br />FCDO advises against all but essential travel to parts of Kenya. |
 | 🟢 | [Kiribati](countries/kiribati.md) | No specific FCDO travel advisories are currently active. |
@@ -175,7 +175,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Oman](countries/oman.md) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Pakistan](countries/pakistan.md) | FCDO advises against all travel to parts of Pakistan.<br />FCDO advises against all but essential travel to parts of Pakistan. |
 | 🟢 | [Palau](countries/palau.md) | No specific FCDO travel advisories are currently active. |
-| 🔴 | [Palestine](countries/palestine.md) | FCDO advises against all travel to Palestine. |
+| ⚠️ | [Palestine](countries/palestine.md) | FCDO advises against all travel to parts of Palestine.<br />FCDO advises against all but essential travel to parts of Palestine. |
 | 🟢 | [Panama](countries/panama.md) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Papua New Guinea](countries/papua-new-guinea.md) | FCDO advises against all but essential travel to parts of Papua New Guinea. |
 | 🟢 | [Paraguay](countries/paraguay.md) | No specific FCDO travel advisories are currently active. |
@@ -251,7 +251,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-06-03 03:23 UTC*
+*Last updated: 2026-06-04 03:22 UTC*
 
 ## Usage
 

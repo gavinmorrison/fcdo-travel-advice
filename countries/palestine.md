@@ -1,14 +1,19 @@
-# Palestine 🔴
+# Palestine ⚠️
 
-FCDO advises against all travel to Palestine.
+FCDO advises against all travel to parts of Palestine.
 
-*Last reviewed by FCDO: 14 April 2026*
+FCDO advises against all but essential travel to parts of Palestine.
+
+*Last reviewed by FCDO: 3 June 2026*
 
 [View current FCDO travel advice for Palestine](https://www.gov.uk/foreign-travel-advice/palestine)
 
 ## Change History
 
 ### 2026
+
+**3 June 2026**
+<br />FCDO no longer advises against all travel to Israel and Palestine but continues to advise against all travel to Gaza, parts of the West Bank and parts of northern Israel and the occupied Golan Heights. FCDO advises against all but essential travel to other parts of the West Bank (‘Warnings and insurance’ page). 
 
 **14 April 2026**
 <br />Updated information that, as a precautionary measure, the dependants of UK staff have been temporarily withdrawn from Tel Aviv, and update to information regarding regional escalation (‘Warnings and insurance’ page).

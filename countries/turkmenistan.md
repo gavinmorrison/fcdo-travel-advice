@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 15 May 2026*
+*Last reviewed by FCDO: 3 June 2026*
 
 [View current FCDO travel advice for Turkmenistan](https://www.gov.uk/foreign-travel-advice/turkmenistan)
 
 ## Change History
 
 ### 2026
+
+**3 June 2026**
+<br />Updated information about COVID-19 testing upon arrival at Ashgabat airport ('Entry requirements' page). 
 
 **15 May 2026**
 <br />Updated information about bringing medication into the country ('Health' page).
