@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of India.
 
-*Last reviewed by FCDO: 9 April 2026*
+*Last reviewed by FCDO: 4 June 2026*
 
 [View current FCDO travel advice for India](https://www.gov.uk/foreign-travel-advice/india)
 
 ## Change History
 
 ### 2026
+
+**4 June 2026**
+<br />Addition of  information about entry requirements for those entering from Ebola-affected regions ('Entry requirements' page). 
 
 **9 April 2026**
 <br />Removal of information about paper forms being available for the e-arrival card ('Entry requirements' page).

@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 3 June 2026*
+*Last reviewed by FCDO: 4 June 2026*
 
 [View current FCDO travel advice for Japan](https://www.gov.uk/foreign-travel-advice/japan)
 
 ## Change History
 
 ### 2026
+
+**4 June 2026**
+<br />New information on the legal system in Japan (See ‘Legal system in Japan’ on the ‘Safety and security’ page).  
 
 **3 June 2026**
 <br />Warning on disruption and flooding due to Typhoon No. 6 Jangmi (Warnings and insurance page).

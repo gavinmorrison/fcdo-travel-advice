@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 4 February 2026*
+*Last reviewed by FCDO: 4 June 2026*
 
 [View current FCDO travel advice for Montenegro](https://www.gov.uk/foreign-travel-advice/montenegro)
 
 ## Change History
 
 ### 2026
+
+**4 June 2026**
+<br />New information on travel disruption due to large number of international events taking place over the summer and beyond (‘Warnings and insurance’ page).
 
 **4 February 2026**
 <br />Removal of information around travel disruption at land border crossings.
