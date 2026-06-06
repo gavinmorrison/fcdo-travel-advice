@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to Bahrain.
 
-*Last reviewed by FCDO: 29 May 2026*
+*Last reviewed by FCDO: 5 June 2026*
 
 [View current FCDO travel advice for Bahrain](https://www.gov.uk/foreign-travel-advice/bahrain)
 
 ## Change History
 
 ### 2026
+
+**5 June 2026**
+<br />New information about non-Bahraini passengers who have visited countries affected by the Ebola outbreak within the past 30 days ('Entry requirements' page).
 
 **29 May 2026**
 <br />Addition of information about entry restrictions for those entering Bahrain from Ebola-affected regions ('Entry requirements' page). 
