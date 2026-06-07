@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Pakistan.
 
 FCDO advises against all but essential travel to parts of Pakistan.
 
-*Last reviewed by FCDO: 5 June 2026*
+*Last reviewed by FCDO: 6 June 2026*
 
 [View current FCDO travel advice for Pakistan](https://www.gov.uk/foreign-travel-advice/pakistan)
 
 ## Change History
 
 ### 2026
+
+**6 June 2026**
+<br />FCDO advises against all but essential travel to Azad Jammu and Kashmir (AJK) (See "Warnings and Insurance" page)
 
 **5 June 2026**
 <br />New information regarding planned demonstrations in areas of Pakistan-administered Kashmir (See ‘Demonstrations in Pakistan-administered Kashmir’ on the ‘Warnings and insurance’ page) 
