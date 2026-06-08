@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Philippines.
 
-*Last reviewed by FCDO: 1 April 2026*
+*Last reviewed by FCDO: 8 June 2026*
 
 [View current FCDO travel advice for Philippines](https://www.gov.uk/foreign-travel-advice/philippines)
 
 ## Change History
 
 ### 2026
+
+**8 June 2026**
+<br />Information on the 7.0 magnitude earthquake in Mindanao and associated tsunami risk.
 
 **1 April 2026**
 <br />Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page). 
