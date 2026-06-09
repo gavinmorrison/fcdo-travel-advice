@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Israel.
 
 FCDO advises against all but essential travel to parts of Israel.
 
-*Last reviewed by FCDO: 3 June 2026*
+*Last reviewed by FCDO: 8 June 2026*
 
 [View current FCDO travel advice for Israel](https://www.gov.uk/foreign-travel-advice/israel)
 
 ## Change History
 
 ### 2026
+
+**8 June 2026**
+<br />Updated information about regional escalation following Iranian missile strikes ('Warnings and insurance’ page).
 
 **3 June 2026**
 <br />FCDO no longer advises against all travel to Israel and Palestine but continues to advise against all travel to Gaza, parts of the West Bank and parts of northern Israel and the occupied Golan Heights. FCDO advises against all but essential travel to other parts of the West Bank (‘Warnings and insurance’ page). 

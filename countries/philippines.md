@@ -11,6 +11,9 @@ FCDO advises against all travel to parts of Philippines.
 ### 2026
 
 **8 June 2026**
+<br />Information on the 7.8 magnitude earthquake in Mindanao and associated tsunami risk ('Warnings and insurance' page).
+
+**8 June 2026**
 <br />Information on the 7.0 magnitude earthquake in Mindanao and associated tsunami risk.
 
 **1 April 2026**

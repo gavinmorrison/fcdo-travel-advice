@@ -11,6 +11,9 @@ No specific FCDO travel advisories are currently active.
 ### 2026
 
 **8 June 2026**
+<br />Removal of information about Tsunami advisory following earthquake in the Philippines ('Warning and insurance' page).
+
+**8 June 2026**
 <br />Tsunami advisory following earthquake in the Philippines ('Warning and insurance' page).
 
 **4 June 2026**
