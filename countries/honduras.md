@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 9 June 2026*
 
 [View current FCDO travel advice for Honduras](https://www.gov.uk/foreign-travel-advice/honduras)
 
 ## Change History
 
-### 2025
+### 2026
+
+**9 June 2026**
+<br />Addition of information about Tropical Storm Cristina ('Warnings and insurance' page).
+
+<details>
+<summary><strong>2025</strong> (4 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -21,6 +27,8 @@ No specific FCDO travel advisories are currently active.
 
 **6 May 2025**
 <br />Latest Update: information on US embassy advisory issued regarding potential mass shooting events in Tegucigalpa (‘Warnings and insurance’ page)
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (8 updates)</summary>
