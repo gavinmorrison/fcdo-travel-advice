@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 April 2026*
+*Last reviewed by FCDO: 10 June 2026*
 
 [View current FCDO travel advice for Switzerland](https://www.gov.uk/foreign-travel-advice/switzerland)
 
 ## Change History
 
 ### 2026
+
+**10 June 2026**
+<br />Addition of information about G7 Summit and related disruption ('Warnings and insurance' page).
+
+
 
 **10 April 2026**
 <br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).

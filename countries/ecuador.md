@@ -2,13 +2,20 @@
 
 FCDO advises against all but essential travel to parts of Ecuador.
 
-*Last reviewed by FCDO: 20 May 2026*
+*Last reviewed by FCDO: 10 June 2026*
 
 [View current FCDO travel advice for Ecuador](https://www.gov.uk/foreign-travel-advice/ecuador)
 
 ## Change History
 
 ### 2026
+
+**10 June 2026**
+<br />Removal of information about state of emergency and border closure with Colombia ('Warnings and insurance' page).
+
+
+
+
 
 **20 May 2026**
 <br />Addition of information about Colombia-Ecuador border closure and updated information on healthcare in Ecuador and the Galapagos Islands ('Warnings and insurance' and 'Health' pages).

@@ -127,7 +127,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Kazakhstan](countries/kazakhstan.md) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Kenya](countries/kenya.md) | FCDO advises against all travel to parts of Kenya.<br />FCDO advises against all but essential travel to parts of Kenya. |
 | 🟢 | [Kiribati](countries/kiribati.md) | No specific FCDO travel advisories are currently active. |
-| 🟡 | [Kosovo](countries/kosovo.md) | FCDO advises against all but essential travel to parts of Kosovo. |
+| 🟢 | [Kosovo](countries/kosovo.md) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Kuwait](countries/kuwait.md) | FCDO advises against all but essential travel to Kuwait. |
 | 🟢 | [Kyrgyzstan](countries/kyrgyzstan.md) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Laos](countries/laos.md) | FCDO advises against all but essential travel to parts of Laos. |
@@ -251,7 +251,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-06-10 03:20 UTC*
+*Last updated: 2026-06-11 03:18 UTC*
 
 ## Usage
 

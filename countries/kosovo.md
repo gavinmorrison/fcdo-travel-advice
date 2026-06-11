@@ -1,14 +1,20 @@
-# Kosovo 🟡
+# Kosovo 🟢
 
-FCDO advises against all but essential travel to parts of Kosovo.
+No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 19 December 2025*
+*Last reviewed by FCDO: 10 June 2026*
 
 [View current FCDO travel advice for Kosovo](https://www.gov.uk/foreign-travel-advice/kosovo)
 
 ## Change History
 
-### 2025
+### 2026
+
+**10 June 2026**
+<br />FCDO no longer advises against all but essential travel to the municipalities of Zvečan, Zubin Potok and Leposavic, and areas of Mitrovica north of the river Ibar. New information about northern Kosovo (‘Warnings and insurance’ and ‘Regional risks’ pages).
+
+<details>
+<summary><strong>2025</strong> (6 updates)</summary>
 
 **19 December 2025**
 <br />Updated with information about the risks from terrorism (‘Safety and security’ page’). 
@@ -27,6 +33,8 @@ FCDO advises against all but essential travel to parts of Kosovo.
 
 **4 June 2025**
 <br />Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (3 updates)</summary>

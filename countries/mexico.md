@@ -2,13 +2,18 @@
 
 FCDO advises against all but essential travel to parts of Mexico.
 
-*Last reviewed by FCDO: 9 June 2026*
+*Last reviewed by FCDO: 10 June 2026*
 
 [View current FCDO travel advice for Mexico](https://www.gov.uk/foreign-travel-advice/mexico)
 
 ## Change History
 
 ### 2026
+
+**10 June 2026**
+<br />Addition of information about protests at Mexico City International Airport (AICM) on 10 June ('Warnings and insurance' page).
+
+
 
 **9 June 2026**
 <br />Addition of information about political situation ('World Cup 2026').

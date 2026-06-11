@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Peru.
 
-*Last reviewed by FCDO: 5 June 2026*
+*Last reviewed by FCDO: 10 June 2026*
 
 [View current FCDO travel advice for Peru](https://www.gov.uk/foreign-travel-advice/peru)
 
 ## Change History
 
 ### 2026
+
+**10 June 2026**
+<br />Removal of information about national election on 7 June ('Warnings and insurance' page).
 
 **5 June 2026**
 <br />New information on national election on 7 June ('Warnings and insurance' page). 
