@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 11 May 2026*
+*Last reviewed by FCDO: 11 June 2026*
 
 [View current FCDO travel advice for South Africa](https://www.gov.uk/foreign-travel-advice/south-africa)
 
 ## Change History
 
 ### 2026
+
+**11 June 2026**
+<br />New information about e-hailing and taxis and updated information about political situation, crime locations and Kruger National Park ('Safety and security' page).
 
 **11 May 2026**
 <br />Addition of information about Western Cape travel disruption ('Warnings and insurance' page).
