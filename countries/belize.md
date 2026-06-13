@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 15 May 2026*
+*Last reviewed by FCDO: 12 June 2026*
 
 [View current FCDO travel advice for Belize](https://www.gov.uk/foreign-travel-advice/belize)
 
 ## Change History
 
 ### 2026
+
+**12 June 2026**
+<br />Removal of information about the State of Emergency, which has now ended ('Warnings and insurance' page).
 
 **15 May 2026**
 <br />Updated information about the ongoing State of Emergency covering specific regions within Belize City and the Belize District ('Warnings and insurance' page). 

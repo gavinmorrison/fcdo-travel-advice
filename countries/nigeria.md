@@ -2,13 +2,18 @@
 
 FCDO advises against all travel to parts of Nigeria.
 
-*Last reviewed by FCDO: 5 June 2026*
+*Last reviewed by FCDO: 12 June 2026*
 
 [View current FCDO travel advice for Nigeria](https://www.gov.uk/foreign-travel-advice/nigeria)
 
 ## Change History
 
 ### 2026
+
+**12 June 2026**
+<br />New information about Ebola screening ('Entry requirements' page).
+
+
 
 **5 June 2026**
 <br />New information on travelling at night in North Central Nigeria (See ‘Road travel’ on the ‘Safety and security’ page).
