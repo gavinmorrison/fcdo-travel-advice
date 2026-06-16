@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 15 June 2026*
 
 [View current FCDO travel advice for Mauritius](https://www.gov.uk/foreign-travel-advice/mauritius)
 
 ## Change History
 
-### 2025
+### 2026
+
+**15 June 2026**
+<br />Updated information on Ebola (‘Entry requirements page’).
+
+<details>
+<summary><strong>2025</strong> (8 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -33,6 +39,8 @@ No specific FCDO travel advisories are currently active.
 
 **3 February 2025**
 <br />This travel advice was reviewed for accuracy and reissued without any significant updates.
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (13 updates)</summary>

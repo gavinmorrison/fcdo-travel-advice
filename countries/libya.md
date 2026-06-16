@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Libya.
 
 FCDO advises against all but essential travel to parts of Libya.
 
-*Last reviewed by FCDO: 14 January 2026*
+*Last reviewed by FCDO: 15 June 2026*
 
 [View current FCDO travel advice for Libya](https://www.gov.uk/foreign-travel-advice/libya)
 
 ## Change History
 
 ### 2026
+
+**15 June 2026**
+<br />FCDO now advises against all but essential travel to all areas within the city limits of Tripoli. FCDO continues to advise against all but essential travel to the cities of Benghazi and Misrata ('Warnings and insurance' and 'Regional risks' pages).
 
 **14 January 2026**
 <br />There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).

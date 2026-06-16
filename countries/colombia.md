@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Colombia.
 
-*Last reviewed by FCDO: 3 June 2026*
+*Last reviewed by FCDO: 15 June 2026*
 
 [View current FCDO travel advice for Colombia](https://www.gov.uk/foreign-travel-advice/colombia)
 
 ## Change History
 
 ### 2026
+
+**15 June 2026**
+<br />New information about presidential elections on Sunday 21 June (‘Warnings and insurance’ page). 
 
 **3 June 2026**
 <br />Removal of information about Colombian Presidential Elections ('Warnings and insurance' page).
