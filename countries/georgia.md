@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Georgia.
 
-*Last reviewed by FCDO: 9 June 2026*
+*Last reviewed by FCDO: 16 June 2026*
 
 [View current FCDO travel advice for Georgia](https://www.gov.uk/foreign-travel-advice/georgia)
 
 ## Change History
 
 ### 2026
+
+**16 June 2026**
+<br />Updated information about bringing medicines into Georgia ('Entry requirements' page). 
 
 **9 June 2026**
 <br />Updated information about bringing medicines into Georgia and rail travel ('Entry requirements' and 'Safety and security' pages).
