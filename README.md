@@ -37,7 +37,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Austria](countries/austria.md) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Azerbaijan](countries/azerbaijan.md) | FCDO advises against all travel to parts of Azerbaijan.<br />FCDO advises against all but essential travel to parts of Azerbaijan. |
 | 🟢 | [Bahamas](countries/bahamas.md) | No specific FCDO travel advisories are currently active. |
-| 🟡 | [Bahrain](countries/bahrain.md) | FCDO advises against all but essential travel to Bahrain. |
+| 🟢 | [Bahrain](countries/bahrain.md) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Bangladesh](countries/bangladesh.md) | FCDO advises against all but essential travel to parts of Bangladesh. |
 | 🟢 | [Barbados](countries/barbados.md) | No specific FCDO travel advisories are currently active. |
 | 🔴 | [Belarus](countries/belarus.md) | FCDO advises against all travel to Belarus. |
@@ -128,7 +128,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | ⚠️ | [Kenya](countries/kenya.md) | FCDO advises against all travel to parts of Kenya.<br />FCDO advises against all but essential travel to parts of Kenya. |
 | 🟢 | [Kiribati](countries/kiribati.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Kosovo](countries/kosovo.md) | No specific FCDO travel advisories are currently active. |
-| 🟡 | [Kuwait](countries/kuwait.md) | FCDO advises against all but essential travel to Kuwait. |
+| 🟢 | [Kuwait](countries/kuwait.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Kyrgyzstan](countries/kyrgyzstan.md) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Laos](countries/laos.md) | FCDO advises against all but essential travel to parts of Laos. |
 | 🟢 | [Latvia](countries/latvia.md) | No specific FCDO travel advisories are currently active. |
@@ -184,7 +184,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Pitcairn Island](countries/pitcairn-island.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Poland](countries/poland.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Portugal](countries/portugal.md) | No specific FCDO travel advisories are currently active. |
-| 🟡 | [Qatar](countries/qatar.md) | FCDO advises against all but essential travel to Qatar. |
+| 🟢 | [Qatar](countries/qatar.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Romania](countries/romania.md) | No specific FCDO travel advisories are currently active. |
 | 🔴 | [Russia](countries/russia.md) | FCDO advises against all travel to Russia. |
 | 🟡 | [Rwanda](countries/rwanda.md) | FCDO advises against all but essential travel to parts of Rwanda. |
@@ -237,7 +237,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [USA](countries/usa.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Uganda](countries/uganda.md) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Ukraine](countries/ukraine.md) | FCDO advises against all travel to parts of Ukraine.<br />FCDO advises against all but essential travel to parts of Ukraine. |
-| 🟡 | [United Arab Emirates](countries/united-arab-emirates.md) | FCDO advises against all but essential travel to United Arab Emirates. |
+| 🟢 | [United Arab Emirates](countries/united-arab-emirates.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Uruguay](countries/uruguay.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Uzbekistan](countries/uzbekistan.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Vanuatu](countries/vanuatu.md) | No specific FCDO travel advisories are currently active. |
@@ -251,7 +251,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-06-18 03:20 UTC*
+*Last updated: 2026-06-19 03:23 UTC*
 
 ## Usage
 

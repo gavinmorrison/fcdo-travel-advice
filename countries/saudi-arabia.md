@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Saudi Arabia.
 
 FCDO advises against all but essential travel to parts of Saudi Arabia.
 
-*Last reviewed by FCDO: 27 May 2026*
+*Last reviewed by FCDO: 18 June 2026*
 
 [View current FCDO travel advice for Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia)
 
 ## Change History
 
 ### 2026
+
+**18 June 2026**
+<br />FCDO no longer advises against all but essential travel to Eastern Province and to Riyadh Province. FCDO continues to advise against all travel to within 10km of the border with Yemen, and all but essential travel to areas between 10km and 80km from the border with Yemen. Updated information about regional tensions (‘Warnings and insurance’ page).
 
 **27 May 2026**
 <br />Updated information about e-visas, which includes health insurance for your visit ('Entry requirements' page). 

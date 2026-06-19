@@ -1,14 +1,17 @@
-# Qatar 🟡
+# Qatar 🟢
 
-FCDO advises against all but essential travel to Qatar.
+No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 14 April 2026*
+*Last reviewed by FCDO: 18 June 2026*
 
 [View current FCDO travel advice for Qatar](https://www.gov.uk/foreign-travel-advice/qatar)
 
 ## Change History
 
 ### 2026
+
+**18 June 2026**
+<br />FCDO no longer advises against all but essential travel to Qatar. Updated information about regional tensions (‘Warnings and insurance’ page).
 
 **14 April 2026**
 <br />Update to information regarding regional escalation (‘Warnings and insurance’ page).

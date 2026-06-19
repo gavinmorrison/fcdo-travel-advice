@@ -1,14 +1,17 @@
-# United Arab Emirates 🟡
+# United Arab Emirates 🟢
 
-FCDO advises against all but essential travel to United Arab Emirates.
+No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 14 April 2026*
+*Last reviewed by FCDO: 18 June 2026*
 
 [View current FCDO travel advice for United Arab Emirates](https://www.gov.uk/foreign-travel-advice/united-arab-emirates)
 
 ## Change History
 
 ### 2026
+
+**18 June 2026**
+<br />FCDO no longer advises against all but essential travel to UAE. Updated information about regional tensions (‘Warnings and insurance’ page).
 
 **14 April 2026**
 <br />Update to information regarding regional escalation (‘Warnings and insurance’ page).

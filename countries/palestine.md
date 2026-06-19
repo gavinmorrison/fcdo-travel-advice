@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Palestine.
 
 FCDO advises against all but essential travel to parts of Palestine.
 
-*Last reviewed by FCDO: 8 June 2026*
+*Last reviewed by FCDO: 18 June 2026*
 
 [View current FCDO travel advice for Palestine](https://www.gov.uk/foreign-travel-advice/palestine)
 
 ## Change History
 
 ### 2026
+
+**18 June 2026**
+<br />Updated information about regional tensions and conflict affecting Palestine (‘Warnings and insurance’ page).
 
 **8 June 2026**
 <br />Updated information about regional escalation following Iranian missile strikes ('Warnings and insurance’ page).
