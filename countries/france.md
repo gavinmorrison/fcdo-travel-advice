@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 16 June 2026*
+*Last reviewed by FCDO: 19 June 2026*
 
 [View current FCDO travel advice for France](https://www.gov.uk/foreign-travel-advice/france)
 
 ## Change History
 
 ### 2026
+
+**19 June 2026**
+<br />Removal of information about G7 Summit and related disruption ('Warnings and insurance' page).
 
 **16 June 2026**
 <br />Addition of information about G7 Summit and related disruption ('Warnings and insurance' page).

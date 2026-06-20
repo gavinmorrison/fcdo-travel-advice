@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 27 February 2026*
+*Last reviewed by FCDO: 19 June 2026*
 
 [View current FCDO travel advice for Kyrgyzstan](https://www.gov.uk/foreign-travel-advice/kyrgyzstan)
 
 ## Change History
 
 ### 2026
+
+**19 June 2026**
+<br />New information about unexploded ordinance along the Kyrgyzstan-Tajikistan border (‘Regional risks’ page).
 
 **27 February 2026**
 <br />Updated with information about the risks from terrorism (‘Safety and security’ page’).

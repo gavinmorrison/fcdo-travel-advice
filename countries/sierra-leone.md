@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 2 June 2026*
+*Last reviewed by FCDO: 19 June 2026*
 
 [View current FCDO travel advice for Sierra Leone](https://www.gov.uk/foreign-travel-advice/sierra-leone)
 
 ## Change History
 
 ### 2026
+
+**19 June 2026**
+<br />New information about completing a health travel declaration (‘Entry Requirements’ page.)
+
+
 
 **2 June 2026**
 <br />New information about Ebola screening when arriving in country and new information about incidents of violent crime ('Entry requirements' and ‘Safety and security’ pages).
