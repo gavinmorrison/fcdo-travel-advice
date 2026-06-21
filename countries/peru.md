@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Peru.
 
-*Last reviewed by FCDO: 19 June 2026*
+*Last reviewed by FCDO: 20 June 2026*
 
 [View current FCDO travel advice for Peru](https://www.gov.uk/foreign-travel-advice/peru)
 
 ## Change History
 
 ### 2026
+
+**20 June 2026**
+<br />Colombia’s temporary border closures for the period of presidential elections will now run from 6am Saturday 20 June to 6am Monday 22 June, and will include the Peru-Colombia river border (‘Warnings and insurance’ page)
 
 **19 June 2026**
 <br />New information about the temporary closure of the Peru-Colombia river border crossing (See ‘Before you travel on the ‘Warnings and insurance’ page)
