@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Turkey.
 
-*Last reviewed by FCDO: 18 June 2026*
+*Last reviewed by FCDO: 22 June 2026*
 
 [View current FCDO travel advice for Turkey](https://www.gov.uk/foreign-travel-advice/turkey)
 
 ## Change History
 
 ### 2026
+
+**22 June 2026**
+<br />New information about travel disruption due to the NATO Summit being held in Ankara 7-8 July (‘Warnings and insurance’ page).
 
 **18 June 2026**
 <br />Updated information about regional tensions and conflict affecting Turkey (‘Warnings and insurance’ page).

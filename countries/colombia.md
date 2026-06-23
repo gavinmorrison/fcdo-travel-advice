@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Colombia.
 
-*Last reviewed by FCDO: 20 June 2026*
+*Last reviewed by FCDO: 22 June 2026*
 
 [View current FCDO travel advice for Colombia](https://www.gov.uk/foreign-travel-advice/colombia)
 
 ## Change History
 
 ### 2026
+
+**22 June 2026**
+<br />Removal of information about the Colombian Presidential Elections and border closures. 
 
 **20 June 2026**
 <br />Colombia’s temporary border closures for the period of presidential elections will now run from 6am Saturday 20 June to 6am Monday 22 June, and includes river borders (‘Warnings and insurance’ page)
