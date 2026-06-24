@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Democratic Republic of the Congo.
 
 FCDO advises against all but essential travel to parts of Democratic Republic of the Congo.
 
-*Last reviewed by FCDO: 10 June 2026*
+*Last reviewed by FCDO: 23 June 2026*
 
 [View current FCDO travel advice for Democratic Republic of the Congo](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo)
 
 ## Change History
 
 ### 2026
+
+**23 June 2026**
+<br />Additional information on Ebola (‘Entry requirements’ and ‘Health’ pages).
 
 **10 June 2026**
 <br />Addition of information about travel between Rwanda and DRC for humanitarian missions and essential travel ('Regional risks’ page).

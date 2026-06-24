@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Azerbaijan.
 
 FCDO advises against all but essential travel to parts of Azerbaijan.
 
-*Last reviewed by FCDO: 8 May 2026*
+*Last reviewed by FCDO: 23 June 2026*
 
 [View current FCDO travel advice for Azerbaijan](https://www.gov.uk/foreign-travel-advice/azerbaijan)
 
 ## Change History
 
 ### 2026
+
+**23 June 2026**
+<br />Removal of visa requirements for visitors travelling to Azerbaijan in connection with the World Urban Forum (WUF13).
 
 **8 May 2026**
 <br />Updated  information on visa procedures for visitors travelling to Azerbaijan in connection with World Urban Forum (WUF13) (‘Entry requirements’ page).

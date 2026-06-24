@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 27 April 2026*
+*Last reviewed by FCDO: 23 June 2026*
 
 [View current FCDO travel advice for Portugal](https://www.gov.uk/foreign-travel-advice/portugal)
 
 ## Change History
 
 ### 2026
+
+**23 June 2026**
+<br />New information about extreme temperatures (‘Safety and security’ page).
 
 **27 April 2026**
 <br />Additional information on European Entry-Exit System (EES) (‘Entry requirements’ page). 
