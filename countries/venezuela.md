@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Venezuela.
 
 FCDO advises against all but essential travel to parts of Venezuela.
 
-*Last reviewed by FCDO: 10 March 2026*
+*Last reviewed by FCDO: 25 June 2026*
 
 [View current FCDO travel advice for Venezuela](https://www.gov.uk/foreign-travel-advice/venezuela)
 
 ## Change History
 
 ### 2026
+
+**25 June 2026**
+<br />information that 7.1 and 7.5 magnitude earthquakes were reported near Caracas, on 24 June. ('Warnings and insurance' page)
 
 **10 March 2026**
 <br />Removal of information about Colombia-Venezuela border closure ('Warnings and insurance' page).

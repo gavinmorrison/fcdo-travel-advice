@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 11 June 2026*
+*Last reviewed by FCDO: 24 June 2026*
 
 [View current FCDO travel advice for South Africa](https://www.gov.uk/foreign-travel-advice/south-africa)
 
 ## Change History
 
 ### 2026
+
+**24 June 2026**
+<br />New information about increased risk of protests and possible travel disruptions on and around 30 June 2026 (see ‘Political situation’ on 'Safety and security' page).
+
+
 
 **11 June 2026**
 <br />New information about e-hailing and taxis and updated information about political situation, crime locations and Kruger National Park ('Safety and security' page).

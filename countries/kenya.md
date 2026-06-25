@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Kenya.
 
 FCDO advises against all but essential travel to parts of Kenya.
 
-*Last reviewed by FCDO: 22 May 2026*
+*Last reviewed by FCDO: 24 June 2026*
 
 [View current FCDO travel advice for Kenya](https://www.gov.uk/foreign-travel-advice/kenya)
 
 ## Change History
 
 ### 2026
+
+**24 June 2026**
+<br />Updated information about key dates for potential protests in June and July (see 'Political situation' on ‘Safety and security page’).
 
 **22 May 2026**
 <br />New information about Ebola screening when arriving in country (‘Entry requirements’ page).
