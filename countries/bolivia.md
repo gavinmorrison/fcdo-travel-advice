@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Bolivia.
 
-*Last reviewed by FCDO: 21 June 2026*
+*Last reviewed by FCDO: 25 June 2026*
 
 [View current FCDO travel advice for Bolivia](https://www.gov.uk/foreign-travel-advice/bolivia)
 
 ## Change History
 
 ### 2026
+
+**25 June 2026**
+<br />Updated information about State of Emergency in Bolivia (‘Warnings and insurance’ page).
 
 **21 June 2026**
 <br />A State of Emergency has been declared in Bolivia to restrict roadblocks and protests. (‘Warning and insurance’ and ‘Safety and security’ pages)

@@ -13,6 +13,9 @@ FCDO advises against all but essential travel to parts of Venezuela.
 ### 2026
 
 **25 June 2026**
+<br />International airports in Venezuela are temporarily closed following the earthquakes on 24 June ('Warnings and insurance' page)
+
+**25 June 2026**
 <br />information that 7.1 and 7.5 magnitude earthquakes were reported near Caracas, on 24 June. ('Warnings and insurance' page)
 
 **10 March 2026**
