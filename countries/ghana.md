@@ -2,13 +2,19 @@
 
 FCDO advises against all but essential travel to parts of Ghana.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 29 June 2026*
 
 [View current FCDO travel advice for Ghana](https://www.gov.uk/foreign-travel-advice/ghana)
 
 ## Change History
 
-### 2025
+### 2026
+
+**29 June 2026**
+<br />New information about flooding in parts of Ghana, including Accra and surrounding areas (‘Warnings and insurance’ and ‘Flooding’ on the ‘Safety and security’ pages).
+
+<details>
+<summary><strong>2025</strong> (7 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -30,6 +36,8 @@ FCDO advises against all but essential travel to parts of Ghana.
 
 **17 February 2025**
 <br />New information regarding curfew covering Walewale and its surrounding areas ( 'Regional risks' page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (8 updates)</summary>

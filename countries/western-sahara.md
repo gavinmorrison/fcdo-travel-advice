@@ -2,16 +2,24 @@
 
 FCDO advises against all travel to parts of Western Sahara.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 29 June 2026*
 
 [View current FCDO travel advice for Western Sahara](https://www.gov.uk/foreign-travel-advice/western-sahara)
 
 ## Change History
 
-### 2025
+### 2026
+
+**29 June 2026**
+<br />FCDO now advises against all travel to areas in Western Sahara within 40km North and West of 'the Berm' boundary line, including the city of Es Semara ('Warnings and insurance' page). 
+
+<details>
+<summary><strong>2025</strong> (1 update)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (1 update)</summary>
