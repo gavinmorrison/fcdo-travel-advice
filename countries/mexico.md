@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Mexico.
 
-*Last reviewed by FCDO: 19 June 2026*
+*Last reviewed by FCDO: 1 July 2026*
 
 [View current FCDO travel advice for Mexico](https://www.gov.uk/foreign-travel-advice/mexico)
 
 ## Change History
 
 ### 2026
+
+**1 July 2026**
+<br />New information relevant to the upcoming match between England and Mexico which will be played at the Estadio Cuidad de Mexico (Mexico City Stadium) (‘Warnings and insurance’ page).
 
 **19 June 2026**
 <br />New information about protests blocking vehicle access to Oaxaca airport (‘Safety and security’ page). 

@@ -168,7 +168,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [New Zealand](countries/new-zealand.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Nicaragua](countries/nicaragua.md) | No specific FCDO travel advisories are currently active. |
 | 🔴 | [Niger](countries/niger.md) | FCDO advises against all travel to Niger. |
-| ⚠️ | [Nigeria](countries/nigeria.md) | FCDO advises against all travel to parts of Nigeria. |
+| ⚠️ | [Nigeria](countries/nigeria.md) | FCDO advises against all travel to parts of Nigeria.<br />FCDO advises against all but essential travel to parts of Nigeria. |
 | 🟡 | [North Korea](countries/north-korea.md) | FCDO advises against all but essential travel to North Korea. |
 | 🟢 | [North Macedonia](countries/north-macedonia.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Norway](countries/norway.md) | No specific FCDO travel advisories are currently active. |
@@ -251,7 +251,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-07-01 03:21 UTC*
+*Last updated: 2026-07-02 03:18 UTC*
 
 ## Usage
 
