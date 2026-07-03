@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 20 April 2026*
+*Last reviewed by FCDO: 2 July 2026*
 
 [View current FCDO travel advice for Greece](https://www.gov.uk/foreign-travel-advice/greece)
 
 ## Change History
 
 ### 2026
+
+**2 July 2026**
+<br />New information about recent attacks (‘Safety and security’ page). 
+
+**2 July 2026**
+<br />Information about wildfires ('Warnings and insurance' page).
 
 **20 April 2026**
 <br />Updated information about Greek implementation of European Entry-Exit System (EES) (‘Entry requirements’ page).
