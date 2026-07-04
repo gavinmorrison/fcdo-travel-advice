@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Bolivia.
 
-*Last reviewed by FCDO: 25 June 2026*
+*Last reviewed by FCDO: 3 July 2026*
 
 [View current FCDO travel advice for Bolivia](https://www.gov.uk/foreign-travel-advice/bolivia)
 
 ## Change History
 
 ### 2026
+
+**3 July 2026**
+<br />FCDO no longer advises against all but essential travel to the department of La Paz, including the city of La Paz ('Warnings and insurance' page). 
 
 **25 June 2026**
 <br />Updated information about State of Emergency in Bolivia (‘Warnings and insurance’ page).

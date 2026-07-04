@@ -2,16 +2,24 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 3 April 2024*
+*Last reviewed by FCDO: 3 July 2026*
 
 [View current FCDO travel advice for Montserrat](https://www.gov.uk/foreign-travel-advice/montserrat)
 
 ## Change History
 
-### 2024
+### 2026
+
+**3 July 2026**
+<br />Updated information about travel to and from Montserrat including new information about completing an online immigration and customs form. New information about applying for a temporary visitors driving licence and updated information about healthcare in Montserrat ('Entry requirements', 'Safety and security' and 'Health' pages). 
+
+<details>
+<summary><strong>2024</strong> (1 update)</summary>
 
 **3 April 2024**
 <br />This travel advice has been rewritten to make it easier to read and understand. 
+
+</details>
 
 <details>
 <summary><strong>2023</strong> (4 updates)</summary>

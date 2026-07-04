@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 30 June 2026*
+*Last reviewed by FCDO: 3 July 2026*
 
 [View current FCDO travel advice for Netherlands](https://www.gov.uk/foreign-travel-advice/netherlands)
 
 ## Change History
 
 ### 2026
+
+**3 July 2026**
+<br />Updated information about disruption to Eurostar services ('Warnings and insurance' page).
 
 **30 June 2026**
 <br />New information about disruption to Eurostar services ('Warnings and insurance' page).

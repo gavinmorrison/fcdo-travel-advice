@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 5 January 2026*
+*Last reviewed by FCDO: 3 July 2026*
 
 [View current FCDO travel advice for Malawi](https://www.gov.uk/foreign-travel-advice/malawi)
 
 ## Change History
 
 ### 2026
+
+**3 July 2026**
+<br />New information about Traveller Health Check form ('Entry requirements' page).
 
 **5 January 2026**
 <br />New information about visa requirements when visiting Malawi (‘Entry requirements’ page). 
