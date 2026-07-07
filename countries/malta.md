@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 2 June 2026*
+*Last reviewed by FCDO: 6 July 2026*
 
 [View current FCDO travel advice for Malta](https://www.gov.uk/foreign-travel-advice/malta)
 
 ## Change History
 
 ### 2026
+
+**6 July 2026**
+<br />Updated information about swimming safety ('Safety and security' page).
 
 **2 June 2026**
 <br />Removal of information following an explosion at a fireworks manufacturing facility in the Magħtab/Mosta area ('Warnings and insurance' page).

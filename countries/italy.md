@@ -2,13 +2,17 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 April 2026*
+*Last reviewed by FCDO: 6 July 2026*
 
 [View current FCDO travel advice for Italy](https://www.gov.uk/foreign-travel-advice/italy)
 
 ## Change History
 
 ### 2026
+
+**6 July 2026**
+<br />Addition of information about swimming safety ('Safety and security' page).
+
 
 **10 April 2026**
 <br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).

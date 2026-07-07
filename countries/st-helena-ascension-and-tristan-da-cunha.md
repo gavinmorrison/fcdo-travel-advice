@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 6 May 2026*
+*Last reviewed by FCDO: 6 July 2026*
 
 [View current FCDO travel advice for St Helena, Ascension and Tristan da Cunha](https://www.gov.uk/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha)
 
 ## Change History
 
 ### 2026
+
+**6 July 2026**
+<br />Updated information about payment methods in Tristan de Cunha (see ‘Money’ on ‘Safety and security’ page).
 
 **6 May 2026**
 <br />New information following an outbreak of Hantavirus ('Warnings and insurance' page). 
