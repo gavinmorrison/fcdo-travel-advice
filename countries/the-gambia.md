@@ -2,16 +2,24 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 7 July 2026*
 
 [View current FCDO travel advice for The Gambia](https://www.gov.uk/foreign-travel-advice/the-gambia)
 
 ## Change History
 
-### 2025
+### 2026
+
+**7 July 2026**
+<br />Updated information about flooding and addition of information about power shortages and preparing for power cuts ('Safety and security' page).
+
+<details>
+<summary><strong>2025</strong> (1 update)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (5 updates)</summary>

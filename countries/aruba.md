@@ -2,16 +2,24 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 7 July 2026*
 
 [View current FCDO travel advice for Aruba](https://www.gov.uk/foreign-travel-advice/aruba)
 
 ## Change History
 
-### 2025
+### 2026
+
+**7 July 2026**
+<br />This travel advice was reviewed for accuracy and there are no significant updates.
+
+<details>
+<summary><strong>2025</strong> (1 update)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (1 update)</summary>
