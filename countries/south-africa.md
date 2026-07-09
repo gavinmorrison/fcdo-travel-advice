@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 24 June 2026*
+*Last reviewed by FCDO: 8 July 2026*
 
 [View current FCDO travel advice for South Africa](https://www.gov.uk/foreign-travel-advice/south-africa)
 
 ## Change History
 
 ### 2026
+
+**8 July 2026**
+<br />New information about submitting an online traveller declaration before travelling and information about taking money into South Africa ('Entry requirements' page).
 
 **24 June 2026**
 <br />New information about increased risk of protests and possible travel disruptions on and around 30 June 2026 (see ‘Political situation’ on 'Safety and security' page).

@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 6 March 2026*
+*Last reviewed by FCDO: 8 July 2026*
 
 [View current FCDO travel advice for Trinidad and Tobago](https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago)
 
 ## Change History
 
 ### 2026
+
+**8 July 2026**
+<br />New information about recent cases of drug-assisted robbery and sexual assault (see ‘Drug assisted robbery and sexual assault’ on the ‘Safety and security’ page).
+
+
 
 **6 March 2026**
 <br />Addition of information about State of Emergency and updated with information about the risks from terrorism ('Warnings and security' and ‘Safety and security’ pages).

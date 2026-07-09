@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 23 December 2025*
+*Last reviewed by FCDO: 8 July 2026*
 
 [View current FCDO travel advice for Taiwan](https://www.gov.uk/foreign-travel-advice/taiwan)
 
 ## Change History
 
-### 2025
+### 2026
+
+**8 July 2026**
+<br />New information about Typhoon Bavi ('Warnings and insurance' page).
+
+<details>
+<summary><strong>2025</strong> (17 updates)</summary>
 
 **23 December 2025**
 <br />New information about crime in Taiwan (‘Safety and security’ page). 
@@ -60,6 +66,8 @@ No specific FCDO travel advisories are currently active.
 
 **6 June 2025**
 <br />Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (15 updates)</summary>
