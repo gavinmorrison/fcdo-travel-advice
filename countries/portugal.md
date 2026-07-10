@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 3 July 2026*
+*Last reviewed by FCDO: 9 July 2026*
 
 [View current FCDO travel advice for Portugal](https://www.gov.uk/foreign-travel-advice/portugal)
 
 ## Change History
 
 ### 2026
+
+**9 July 2026**
+<br />New information about attending festivals and concerts and using swimming pools and updated information about protecting yourself and your belongings, and beach safety (‘Safety and security’ page).
 
 **3 July 2026**
 <br />Information about wildfires ('Warnings and insurance' page).

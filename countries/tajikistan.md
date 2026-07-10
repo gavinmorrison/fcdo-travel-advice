@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 19 March 2026*
+*Last reviewed by FCDO: 9 July 2026*
 
 [View current FCDO travel advice for Tajikistan](https://www.gov.uk/foreign-travel-advice/tajikistan)
 
 ## Change History
 
 ### 2026
+
+**9 July 2026**
+<br />Updated information about visa extension (see ‘Visa requirements’ on the ‘Entry requirements’ page).
+
+
 
 **19 March 2026**
 <br />Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
