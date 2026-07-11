@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 26 June 2026*
+*Last reviewed by FCDO: 10 July 2026*
 
 [View current FCDO travel advice for Spain](https://www.gov.uk/foreign-travel-advice/spain)
 
 ## Change History
 
 ### 2026
+
+**10 July 2026**
+<br />Updated information on the Almeria wildfire, including emergency numbers and family support helpline ('Warnings and insurance' page).
 
 **26 June 2026**
 <br />Updated information on swimming safety for children in swimming pools and the sea ('Safety and security' page). 
