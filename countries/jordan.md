@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Jordan.
 
-*Last reviewed by FCDO: 26 June 2026*
+*Last reviewed by FCDO: 12 July 2026*
 
 [View current FCDO travel advice for Jordan](https://www.gov.uk/foreign-travel-advice/jordan)
 
 ## Change History
 
 ### 2026
+
+**12 July 2026**
+<br />New information about regional tensions in Jordan (Warnings and insurance page).
 
 **26 June 2026**
 <br />New information about the risks of mass gatherings following a stampede at a public screening of a football match on 23 June 2026 ('Safety and security' page).
