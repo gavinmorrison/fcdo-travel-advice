@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 8 July 2026*
+*Last reviewed by FCDO: 13 July 2026*
 
 [View current FCDO travel advice for Taiwan](https://www.gov.uk/foreign-travel-advice/taiwan)
 
 ## Change History
 
 ### 2026
+
+**13 July 2026**
+<br />Removal of information about Typhoon Bavi ('Warnings and insurance' page).
 
 **8 July 2026**
 <br />New information about Typhoon Bavi ('Warnings and insurance' page).

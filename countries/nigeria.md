@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Nigeria.
 
 FCDO advises against all but essential travel to parts of Nigeria.
 
-*Last reviewed by FCDO: 1 July 2026*
+*Last reviewed by FCDO: 13 July 2026*
 
 [View current FCDO travel advice for Nigeria](https://www.gov.uk/foreign-travel-advice/nigeria)
 
 ## Change History
 
 ### 2026
+
+**13 July 2026**
+<br />Updated information that all passengers need to complete online Health Declaration Form before entering Nigeria (see ‘Health screening’ on the ‘Entry requirements’ page).
 
 **1 July 2026**
 <br />FCDO now advises against all but essential travel to Kwara State and Benue State. FCDO continues to advise against all travel and all but essential travel to other parts of Nigeria (‘Warnings and insurance’ page).

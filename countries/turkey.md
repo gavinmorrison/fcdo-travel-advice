@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Turkey.
 
-*Last reviewed by FCDO: 10 July 2026*
+*Last reviewed by FCDO: 13 July 2026*
 
 [View current FCDO travel advice for Turkey](https://www.gov.uk/foreign-travel-advice/turkey)
 
 ## Change History
 
 ### 2026
+
+**13 July 2026**
+<br />Information about wildfires ('Warnings and insurance' page).
 
 **10 July 2026**
 <br />Removal of information about restriction of commercial air travel at Ankara Esenboga Airport.

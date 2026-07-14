@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 18 June 2026*
+*Last reviewed by FCDO: 13 July 2026*
 
 [View current FCDO travel advice for Cyprus](https://www.gov.uk/foreign-travel-advice/cyprus)
 
 ## Change History
 
 ### 2026
+
+**13 July 2026**
+<br />Information about wildfires ('Warnings and insurance' page).
 
 **18 June 2026**
 <br />Updated information about regional tensions ('Warnings and insurance' page).
