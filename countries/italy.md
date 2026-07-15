@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 6 July 2026*
+*Last reviewed by FCDO: 14 July 2026*
 
 [View current FCDO travel advice for Italy](https://www.gov.uk/foreign-travel-advice/italy)
 
 ## Change History
 
 ### 2026
+
+**14 July 2026**
+<br />Information about wildfires ('Warnings and insurance' page).
 
 **6 July 2026**
 <br />Addition of information about swimming safety ('Safety and security' page).

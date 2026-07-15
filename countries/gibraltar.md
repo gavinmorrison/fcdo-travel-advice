@@ -2,13 +2,21 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 30 May 2024*
+*Last reviewed by FCDO: 14 July 2026*
 
 [View current FCDO travel advice for Gibraltar](https://www.gov.uk/foreign-travel-advice/gibraltar)
 
 ## Change History
 
-### 2024
+### 2026
+
+**14 July 2026**
+<br />New information that, from 15 July 2026, the UK-EU Agreement in respect of Gibraltar will provisionally apply, including new information about entry requirements for people travelling on a full British citizen passport ('Entry requirements' page).
+
+
+
+<details>
+<summary><strong>2024</strong> (3 updates)</summary>
 
 **30 May 2024**
 <br />This travel advice was reviewed for style and accuracy. 
@@ -18,6 +26,8 @@ No specific FCDO travel advisories are currently active.
 
 **18 January 2024**
 <br />Information that may be required to enter Spain from Gibraltar ('Entry requirements' page).
+
+</details>
 
 <details>
 <summary><strong>2023</strong> (4 updates)</summary>

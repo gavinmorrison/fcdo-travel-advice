@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 2 July 2026*
+*Last reviewed by FCDO: 14 July 2026*
 
 [View current FCDO travel advice for Greece](https://www.gov.uk/foreign-travel-advice/greece)
 
 ## Change History
 
 ### 2026
+
+**14 July 2026**
+<br />New information about alcohol laws and underage drinking and updated information about swimming and water sport safety, quad biking and mopeds, wildfires and medication ('Safety and security' and 'Health' pages).  
 
 **2 July 2026**
 <br />New information about recent attacks (‘Safety and security’ page). 
