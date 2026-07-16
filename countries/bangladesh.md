@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Bangladesh.
 
-*Last reviewed by FCDO: 30 April 2026*
+*Last reviewed by FCDO: 15 July 2026*
 
 [View current FCDO travel advice for Bangladesh](https://www.gov.uk/foreign-travel-advice/bangladesh)
 
 ## Change History
 
 ### 2026
+
+**15 July 2026**
+<br />Addition of information about flooding ('Warnings and insurance' page).
 
 **30 April 2026**
 <br />New information on seasonal flash floodings (‘Warnings and insurance’ page).

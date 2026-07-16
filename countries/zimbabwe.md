@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 20 January 2026*
+*Last reviewed by FCDO: 15 July 2026*
 
 [View current FCDO travel advice for Zimbabwe](https://www.gov.uk/foreign-travel-advice/zimbabwe)
 
 ## Change History
 
 ### 2026
+
+**15 July 2026**
+<br />Addition of  information about direct flights between London and Harare ('Safety and security' page).
 
 **20 January 2026**
 <br />Addition of information about flooding in Zimbabwe ('Safety and security' page).
