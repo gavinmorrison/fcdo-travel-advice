@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Mexico.
 
-*Last reviewed by FCDO: 3 July 2026*
+*Last reviewed by FCDO: 16 July 2026*
 
 [View current FCDO travel advice for Mexico](https://www.gov.uk/foreign-travel-advice/mexico)
 
 ## Change History
 
 ### 2026
+
+**16 July 2026**
+<br />Removal of information on the match between England and Mexico on 5 July, 2026. 
 
 **3 July 2026**
 <br />Updated information for fans travelling to the World Cup, including information for those attending the upcoming match between England and Mexico on 5 July 2026, altitude sickness and the risks from large crowds and mass gatherings (‘World Cup 2026’ page).

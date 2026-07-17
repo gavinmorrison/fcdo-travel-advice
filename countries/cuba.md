@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to Cuba.
 
-*Last reviewed by FCDO: 5 June 2026*
+*Last reviewed by FCDO: 16 July 2026*
 
 [View current FCDO travel advice for Cuba](https://www.gov.uk/foreign-travel-advice/cuba)
 
 ## Change History
 
 ### 2026
+
+**16 July 2026**
+<br />New information on levels of crime and updated information about power outages ('Warnings and insurance' and 'Safety and security' pages).
 
 **5 June 2026**
 <br />New information about the ban on international card transactions ('Warnings and insurance' and 'Safety and security' pages).
