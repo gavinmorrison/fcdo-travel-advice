@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Pakistan.
 
 FCDO advises against all but essential travel to parts of Pakistan.
 
-*Last reviewed by FCDO: 15 July 2026*
+*Last reviewed by FCDO: 17 July 2026*
 
 [View current FCDO travel advice for Pakistan](https://www.gov.uk/foreign-travel-advice/pakistan)
 
 ## Change History
 
 ### 2026
+
+**17 July 2026**
+<br />Updated information about the situation in Pakistan-administered Kashmir, wider regional tensions, and attending the Wagah border ceremony. New information about property disputes ('Warnings and insurance' and ‘Safety and security’ pages).
 
 **15 July 2026**
 <br />Updated information about the situation in Pakistan-administered Kashmir, wider regional tensions, and attending the Wagah border ceremony ('Warnings and insurance' page). 

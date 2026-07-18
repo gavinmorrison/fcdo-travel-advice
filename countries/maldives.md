@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 12 May 2026*
+*Last reviewed by FCDO: 17 July 2026*
 
 [View current FCDO travel advice for Maldives](https://www.gov.uk/foreign-travel-advice/maldives)
 
 ## Change History
 
 ### 2026
+
+**17 July 2026**
+<br />Updated information about the health risks you’ll face in Maldives ('Health' page).
 
 **12 May 2026**
 <br />Addition of information about diving safaris ('Safety and security' page).
