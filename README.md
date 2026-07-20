@@ -123,7 +123,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Italy](countries/italy.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Jamaica](countries/jamaica.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Japan](countries/japan.md) | No specific FCDO travel advisories are currently active. |
-| ⚠️ | [Jordan](countries/jordan.md) | FCDO advises against all travel to parts of Jordan. |
+| ⚠️ | [Jordan](countries/jordan.md) | FCDO advises against all travel to parts of Jordan.<br />FCDO advises against all but essential travel to parts of Jordan. |
 | 🟢 | [Kazakhstan](countries/kazakhstan.md) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Kenya](countries/kenya.md) | FCDO advises against all travel to parts of Kenya.<br />FCDO advises against all but essential travel to parts of Kenya. |
 | 🟢 | [Kiribati](countries/kiribati.md) | No specific FCDO travel advisories are currently active. |
@@ -251,7 +251,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-07-19 05:29 UTC*
+*Last updated: 2026-07-20 05:48 UTC*
 
 ## Usage
 
