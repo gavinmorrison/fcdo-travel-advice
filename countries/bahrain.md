@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 9 July 2026*
+*Last reviewed by FCDO: 20 July 2026*
 
 [View current FCDO travel advice for Bahrain](https://www.gov.uk/foreign-travel-advice/bahrain)
 
 ## Change History
 
 ### 2026
+
+**20 July 2026**
+<br />Updated with information that Iran may seek to target unspecified locations in central Manama ('Warnings and insurance’ page).
 
 **9 July 2026**
 <br />Updated information about regional tensions ('Warnings and insurance' page). 

@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 13 July 2026*
+*Last reviewed by FCDO: 20 July 2026*
 
 [View current FCDO travel advice for France](https://www.gov.uk/foreign-travel-advice/france)
 
 ## Change History
 
 ### 2026
+
+**20 July 2026**
+<br />Removal of information about French National Day traffic restrictions and metro closures in Paris ('Warnings and insurance' page).
 
 **13 July 2026**
 <br />Information about French National Day traffic restrictions and metro closures in Paris ('Warnings and insurance' page).
