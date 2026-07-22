@@ -4,13 +4,18 @@ FCDO advises against all travel to parts of Libya.
 
 FCDO advises against all but essential travel to parts of Libya.
 
-*Last reviewed by FCDO: 15 June 2026*
+*Last reviewed by FCDO: 21 July 2026*
 
 [View current FCDO travel advice for Libya](https://www.gov.uk/foreign-travel-advice/libya)
 
 ## Change History
 
 ### 2026
+
+**21 July 2026**
+<br />FCDO now advises against all but essential travel to the cities of  Tripoli, Benghazi, Al-Bayda and Derna, and the surrounding area knows as Jebel Akhdar, either side of the coastal and desert roads between and including the towns of Al-Maqrun and Al-Tamimi, Misrata ('Warnings and insurance' and 'Regional risks' pages).
+
+
 
 **15 June 2026**
 <br />FCDO now advises against all but essential travel to all areas within the city limits of Tripoli. FCDO continues to advise against all but essential travel to the cities of Benghazi and Misrata ('Warnings and insurance' and 'Regional risks' pages).
