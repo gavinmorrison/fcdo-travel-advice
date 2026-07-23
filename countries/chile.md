@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 27 January 2026*
+*Last reviewed by FCDO: 22 July 2026*
 
 [View current FCDO travel advice for Chile](https://www.gov.uk/foreign-travel-advice/chile)
 
 ## Change History
 
 ### 2026
+
+**22 July 2026**
+<br />Removal of information about wildfires in the southern regions of Chile ('Warnings and insurance' page).
+
+ 
 
 **27 January 2026**
 <br />Removal of information about the Jama Pass Border closure and an updated assessment that terrorists are likely to try to carry out attacks in Chile (‘Safety and security’ page).

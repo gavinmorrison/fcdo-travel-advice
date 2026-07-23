@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 17 July 2026*
+*Last reviewed by FCDO: 22 July 2026*
 
 [View current FCDO travel advice for Kuwait](https://www.gov.uk/foreign-travel-advice/kuwait)
 
 ## Change History
 
 ### 2026
+
+**22 July 2026**
+<br />Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).
+
+
 
 **17 July 2026**
 <br />Updated information about the risks from terrorism (‘Safety and security’ page).

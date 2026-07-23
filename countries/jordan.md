@@ -4,13 +4,18 @@ FCDO advises against all travel to parts of Jordan.
 
 FCDO advises against all but essential travel to parts of Jordan.
 
-*Last reviewed by FCDO: 19 July 2026*
+*Last reviewed by FCDO: 22 July 2026*
 
 [View current FCDO travel advice for Jordan](https://www.gov.uk/foreign-travel-advice/jordan)
 
 ## Change History
 
 ### 2026
+
+**22 July 2026**
+<br />Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).
+
+
 
 **19 July 2026**
 <br />The FCDO advises against all but essential travel to Aqaba international airport and seaport. (Warnings and insurance page). 

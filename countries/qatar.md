@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 13 July 2026*
+*Last reviewed by FCDO: 22 July 2026*
 
 [View current FCDO travel advice for Qatar](https://www.gov.uk/foreign-travel-advice/qatar)
 
 ## Change History
 
 ### 2026
+
+**22 July 2026**
+<br />Updated information about regional tensions, including information about recent strikes and retaliatory attacks by Iran ('Warnings insurance') page.
 
 **13 July 2026**
 <br />Updated information about regional tensions ('Warnings and insurance' page).

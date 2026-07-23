@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Syria.
 
-*Last reviewed by FCDO: 18 June 2026*
+*Last reviewed by FCDO: 22 July 2026*
 
 [View current FCDO travel advice for Syria](https://www.gov.uk/foreign-travel-advice/syria)
 
 ## Change History
 
 ### 2026
+
+**22 July 2026**
+<br />Updated information about regional tensions, including information about recent strikes and retaliatory attacks by Iran ('Warnings insurance') page. 
 
 **18 June 2026**
 <br />Updated information about regional tensions and conflict affecting Syria (‘Warnings and insurance’ page).

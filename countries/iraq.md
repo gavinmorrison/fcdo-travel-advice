@@ -4,13 +4,18 @@ FCDO advises against all travel to parts of Iraq.
 
 FCDO advises against all but essential travel to parts of Iraq.
 
-*Last reviewed by FCDO: 19 June 2026*
+*Last reviewed by FCDO: 22 July 2026*
 
 [View current FCDO travel advice for Iraq](https://www.gov.uk/foreign-travel-advice/iraq)
 
 ## Change History
 
 ### 2026
+
+**22 July 2026**
+<br />Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).
+
+
 
 **19 June 2026**
 <br />FCDO no longer advises against all travel to Federal Iraq and the Kurdistan Region of Iraq but continues to advise against all travel to parts of Federal Iraq and against all but essential travel to other parts of Federal Iraq and the Kurdistan Region of Iraq. Updated information about regional tensions. Updated information about risks from Iranian strikes on Iranian-Kurdish opposition camps and new information about travel disruption in the Kurdistan Region of Iraq ('Warnings and insurance' , 'Safety and security'  and 'Regional risks' pages).
