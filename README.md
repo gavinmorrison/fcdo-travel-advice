@@ -37,7 +37,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Austria](countries/austria.md) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Azerbaijan](countries/azerbaijan.md) | FCDO advises against all travel to parts of Azerbaijan.<br />FCDO advises against all but essential travel to parts of Azerbaijan. |
 | 🟢 | [Bahamas](countries/bahamas.md) | No specific FCDO travel advisories are currently active. |
-| 🟢 | [Bahrain](countries/bahrain.md) | No specific FCDO travel advisories are currently active. |
+| 🟡 | [Bahrain](countries/bahrain.md) | FCDO advises against all but essential travel to Bahrain. |
 | 🟡 | [Bangladesh](countries/bangladesh.md) | FCDO advises against all but essential travel to parts of Bangladesh. |
 | 🟢 | [Barbados](countries/barbados.md) | No specific FCDO travel advisories are currently active. |
 | 🔴 | [Belarus](countries/belarus.md) | FCDO advises against all travel to Belarus. |
@@ -128,7 +128,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | ⚠️ | [Kenya](countries/kenya.md) | FCDO advises against all travel to parts of Kenya.<br />FCDO advises against all but essential travel to parts of Kenya. |
 | 🟢 | [Kiribati](countries/kiribati.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Kosovo](countries/kosovo.md) | No specific FCDO travel advisories are currently active. |
-| 🟢 | [Kuwait](countries/kuwait.md) | No specific FCDO travel advisories are currently active. |
+| 🟡 | [Kuwait](countries/kuwait.md) | FCDO advises against all but essential travel to Kuwait. |
 | 🟢 | [Kyrgyzstan](countries/kyrgyzstan.md) | No specific FCDO travel advisories are currently active. |
 | 🟡 | [Laos](countries/laos.md) | FCDO advises against all but essential travel to parts of Laos. |
 | 🟢 | [Latvia](countries/latvia.md) | No specific FCDO travel advisories are currently active. |
@@ -251,7 +251,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-07-23 05:31 UTC*
+*Last updated: 2026-07-24 05:28 UTC*
 
 ## Usage
 
