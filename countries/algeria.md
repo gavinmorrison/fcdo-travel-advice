@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Algeria.
 
-*Last reviewed by FCDO: 15 April 2026*
+*Last reviewed by FCDO: 24 July 2026*
 
 [View current FCDO travel advice for Algeria](https://www.gov.uk/foreign-travel-advice/algeria)
 
 ## Change History
 
 ### 2026
+
+**24 July 2026**
+<br />Updated information on wildfires ('Safety and security' page).
 
 **15 April 2026**
 <br />Removal of information following reports of an explosion in the town of Blida (‘Warnings and insurance’ page).

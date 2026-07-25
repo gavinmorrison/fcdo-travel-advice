@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Tunisia.
 
-*Last reviewed by FCDO: 23 February 2026*
+*Last reviewed by FCDO: 24 July 2026*
 
 [View current FCDO travel advice for Tunisia](https://www.gov.uk/foreign-travel-advice/tunisia)
 
 ## Change History
 
 ### 2026
+
+**24 July 2026**
+<br />This travel advice has been reviewed for accuracy with changes made throughout, including visa requirements, taking money into and out of Tunisia, electronic devices, drugs and illegal substances and power supply in summer months ('Entry requirements' and 'Safety and security') pages.
 
 **23 February 2026**
 <br />Removal of information about temporary safety measures following severe storm.
