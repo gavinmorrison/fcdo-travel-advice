@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 24 July 2026*
+*Last reviewed by FCDO: 26 July 2026*
 
 [View current FCDO travel advice for France](https://www.gov.uk/foreign-travel-advice/france)
 
 ## Change History
 
 ### 2026
+
+**26 July 2026**
+<br />Further information about wildfires affecting parts of France (‘Warning and insurance’ page) 
 
 **24 July 2026**
 <br />New information about wildfires in south-west France ('Warnings and insurance' page).
