@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 26 July 2026*
+*Last reviewed by FCDO: 27 July 2026*
 
 [View current FCDO travel advice for Germany](https://www.gov.uk/foreign-travel-advice/germany)
 
 ## Change History
 
 ### 2026
+
+**27 July 2026**
+<br />Updated information regarding the vehicle related incident in Berlin on 25 July ('Warnings and insurance' page). 
 
 **26 July 2026**
 <br />Further information regarding the vehicle related incident in Berlin on 25 July (‘Warnings and insurance’ page)

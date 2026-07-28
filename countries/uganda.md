@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 1 July 2026*
+*Last reviewed by FCDO: 27 July 2026*
 
 [View current FCDO travel advice for Uganda](https://www.gov.uk/foreign-travel-advice/uganda)
 
 ## Change History
 
 ### 2026
+
+**27 July 2026**
+<br />Updated information about a new monthly curfew (See 'National cleaning day' on the 'Safety and security' page).
 
 **1 July 2026**
 <br />Updated information about health risks ('Health' page).

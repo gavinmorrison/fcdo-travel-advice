@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Djibouti.
 
-*Last reviewed by FCDO: 17 June 2026*
+*Last reviewed by FCDO: 27 July 2026*
 
 [View current FCDO travel advice for Djibouti](https://www.gov.uk/foreign-travel-advice/djibouti)
 
 ## Change History
 
 ### 2026
+
+**27 July 2026**
+<br />New information about military activity in the Red Sea area ('Regional risks’ page). 
 
 **17 June 2026**
 <br />Removal of  information about presidential elections taking place on 10 April ('Warnings and insurance' page).
