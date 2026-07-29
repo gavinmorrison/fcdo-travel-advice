@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 9 July 2026*
+*Last reviewed by FCDO: 28 July 2026*
 
 [View current FCDO travel advice for Japan](https://www.gov.uk/foreign-travel-advice/japan)
 
 ## Change History
 
 ### 2026
+
+**28 July 2026**
+<br />Addition of information about a large earthquake which struck Kumamoto prefecture on 28 July 2026 ('Warnings and insurance' page).
 
 **9 July 2026**
 <br />Addition of information about extreme heat (see ‘Extreme weather and natural disasters' on the ‘Safety and security' page). 
