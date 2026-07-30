@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Guatemala.
 
-*Last reviewed by FCDO: 17 June 2026*
+*Last reviewed by FCDO: 29 July 2026*
 
 [View current FCDO travel advice for Guatemala](https://www.gov.uk/foreign-travel-advice/guatemala)
 
 ## Change History
 
 ### 2026
+
+**29 July 2026**
+<br />This travel advice has been reviewed for accuracy with minor updates made throughout, including updated information about crime, buses and coaches, alcohol laws and bans and driving rules and safety ('Safety and security' page).
 
 **17 June 2026**
 <br />Removal of information about Tropical Storm Cristina.

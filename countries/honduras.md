@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 17 June 2026*
+*Last reviewed by FCDO: 29 July 2026*
 
 [View current FCDO travel advice for Honduras](https://www.gov.uk/foreign-travel-advice/honduras)
 
 ## Change History
 
 ### 2026
+
+**29 July 2026**
+<br />This travel advice has been reviewed for accuracy with minor updates made throughout, including updated information on airport tax, crime and violent attacks against vehicles ('Safety and security' page). 
 
 **17 June 2026**
 <br />Removal of information about Tropical Storm Cristina.
