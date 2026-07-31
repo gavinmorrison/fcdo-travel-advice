@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Afghanistan.
 
-*Last reviewed by FCDO: 27 February 2026*
+*Last reviewed by FCDO: 30 July 2026*
 
 [View current FCDO travel advice for Afghanistan](https://www.gov.uk/foreign-travel-advice/afghanistan)
 
 ## Change History
 
 ### 2026
+
+**30 July 2026**
+<br />Addition of information about UK Government support (see ‘Do not travel to Afghanistan’ on the ‘Warnings and insurance’ page). 
 
 **27 February 2026**
 <br />New information about heightened tension between Afghanistan and Pakistan (‘Warnings and insurance’ page).
