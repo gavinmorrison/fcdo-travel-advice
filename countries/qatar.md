@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 22 July 2026*
+*Last reviewed by FCDO: 3 August 2026*
 
 [View current FCDO travel advice for Qatar](https://www.gov.uk/foreign-travel-advice/qatar)
 
 ## Change History
 
 ### 2026
+
+**3 August 2026**
+<br />New information on drone use, including permit requirements and penalties for non-compliance (See ‘Using cameras, binoculars and drones’ on the ‘Safety and security’ page).
 
 **22 July 2026**
 <br />Updated information about regional tensions, including information about recent strikes and retaliatory attacks by Iran ('Warnings insurance') page.
