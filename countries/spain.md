@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 24 July 2026*
+*Last reviewed by FCDO: 4 August 2026*
 
 [View current FCDO travel advice for Spain](https://www.gov.uk/foreign-travel-advice/spain)
 
 ## Change History
 
 ### 2026
+
+**4 August 2026**
+<br />Removal of information about wildfires in parts of Madrid and Ávila.
 
 **24 July 2026**
 <br />New information about wildfires in parts of Madrid and Ávila, including updated safety advice and the emergency number for travellers ('Warnings and insurance' page).

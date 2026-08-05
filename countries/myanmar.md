@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Myanmar (Burma).
 
 FCDO advises against all but essential travel to parts of Myanmar (Burma).
 
-*Last reviewed by FCDO: 28 January 2026*
+*Last reviewed by FCDO: 4 August 2026*
 
 [View current FCDO travel advice for Myanmar (Burma)](https://www.gov.uk/foreign-travel-advice/myanmar)
 
 ## Change History
 
 ### 2026
+
+**4 August 2026**
+<br />New information about mobile device registration and drone use (‘Safety and security’ page).
 
 **28 January 2026**
 <br />Addition of information to reflect end of the military regime’s elections and lifting of city-wide curfew in Yangon ('Safety and security' page).
