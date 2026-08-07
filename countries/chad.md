@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Chad.
 
-*Last reviewed by FCDO: 15 May 2026*
+*Last reviewed by FCDO: 6 August 2026*
 
 [View current FCDO travel advice for Chad](https://www.gov.uk/foreign-travel-advice/chad)
 
 ## Change History
 
 ### 2026
+
+**6 August 2026**
+<br />Updated information about health risks you’ll face in Chad (‘Health’ page).
 
 **15 May 2026**
 <br />New information about border security ('Regional risks' page).

@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 31 July 2026*
+*Last reviewed by FCDO: 6 August 2026*
 
 [View current FCDO travel advice for Nepal](https://www.gov.uk/foreign-travel-advice/nepal)
 
 ## Change History
 
 ### 2026
+
+**6 August 2026**
+<br />Removal of information about local curfews ('Warnings and insurance' page).
 
 **31 July 2026**
 <br />Addition of information about local curfews imposed in Nepal’s southern provinces of Koshi Province and Madhesh Province (‘Warnings and insurance’ page).
