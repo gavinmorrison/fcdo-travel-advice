@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 31 July 2026*
+*Last reviewed by FCDO: 7 August 2026*
 
 [View current FCDO travel advice for Taiwan](https://www.gov.uk/foreign-travel-advice/taiwan)
 
 ## Change History
 
 ### 2026
+
+**7 August 2026**
+<br />New information about Typhoon Dolphin (‘Warnings and insurance’ page).
 
 **31 July 2026**
 <br />Addition of information about Urban Resilience exercises in different parts of the island during August 2026 ('Warnings and insurance' page'). 

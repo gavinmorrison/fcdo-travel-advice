@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 26 June 2026*
+*Last reviewed by FCDO: 7 August 2026*
 
 [View current FCDO travel advice for Mongolia](https://www.gov.uk/foreign-travel-advice/mongolia)
 
 ## Change History
 
 ### 2026
+
+**7 August 2026**
+<br />New information on fuel shortages in Mongolia (‘Warnings and insurance’ page).
 
 **26 June 2026**
 <br />New information on travelling between provinces within Mongolia (See 'Borders within Mongolia' on the ‘Entry requirements’ page).
