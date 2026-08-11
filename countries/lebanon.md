@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Lebanon.
 
 FCDO advises against all but essential travel to parts of Lebanon.
 
-*Last reviewed by FCDO: 21 May 2026*
+*Last reviewed by FCDO: 10 August 2026*
 
 [View current FCDO travel advice for Lebanon](https://www.gov.uk/foreign-travel-advice/lebanon)
 
 ## Change History
 
 ### 2026
+
+**10 August 2026**
+<br />FCDO has changed the areas of Lebanon where it advises against all travel or all but essential travel. FCDO no longer advises against all travel or all but essential travel to some parts of Lebanon. FCDO continues to advise against all travel and all but essential travel to other areas of Lebanon.
 
 **21 May 2026**
 <br />Updated information about regional tensions and conflict affecting Lebanon (‘Warnings and insurance’ page).

@@ -2,13 +2,17 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 13 January 2026*
+*Last reviewed by FCDO: 10 August 2026*
 
 [View current FCDO travel advice for Falkland Islands](https://www.gov.uk/foreign-travel-advice/falkland-islands)
 
 ## Change History
 
 ### 2026
+
+**10 August 2026**
+<br />Addition of information about unauthorised photography at Mount Pleasant and updated information about money, air travel and healthcare in the Falkland Islands ('Safety and security' and 'Health' pages).
+
 
 **13 January 2026**
 <br />This travel advice has been reviewed for accuracy with minor edits made throughout. 

@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 6 April 2026*
+*Last reviewed by FCDO: 10 August 2026*
 
 [View current FCDO travel advice for Fiji](https://www.gov.uk/foreign-travel-advice/fiji)
 
 ## Change History
 
 ### 2026
+
+**10 August 2026**
+<br />Removal of information about Tropical Cyclone Vaianu (‘Warnings and Insurance’ page).
 
 **6 April 2026**
 <br />Updated information about Tropical Cyclone Vaianu affecting parts of Fiji (‘Warnings and Insurance’ page)
