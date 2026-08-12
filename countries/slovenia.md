@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 28 July 2026*
+*Last reviewed by FCDO: 11 August 2026*
 
 [View current FCDO travel advice for Slovenia](https://www.gov.uk/foreign-travel-advice/slovenia)
 
 ## Change History
 
 ### 2026
+
+**11 August 2026**
+<br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page). 
 
 **28 July 2026**
 <br />Updated information about checks at land borders and new information about road safety ('Entry requirements' and ‘Safety and security’ pages).

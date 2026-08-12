@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 7 August 2026*
+*Last reviewed by FCDO: 11 August 2026*
 
 [View current FCDO travel advice for Germany](https://www.gov.uk/foreign-travel-advice/germany)
 
 ## Change History
 
 ### 2026
+
+**11 August 2026**
+<br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).  
 
 **7 August 2026**
 <br />Removal of information regarding the vehicle related incident in Berlin on 25 July, and new information about recent attacks ('Safety and security' page).

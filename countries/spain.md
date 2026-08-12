@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 4 August 2026*
+*Last reviewed by FCDO: 11 August 2026*
 
 [View current FCDO travel advice for Spain](https://www.gov.uk/foreign-travel-advice/spain)
 
 ## Change History
 
 ### 2026
+
+**11 August 2026**
+<br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page). 
 
 **4 August 2026**
 <br />Removal of information about wildfires in parts of Madrid and Ávila.

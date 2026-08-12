@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 6 July 2026*
+*Last reviewed by FCDO: 11 August 2026*
 
 [View current FCDO travel advice for Malta](https://www.gov.uk/foreign-travel-advice/malta)
 
 ## Change History
 
 ### 2026
+
+**11 August 2026**
+<br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page). 
+
+
 
 **6 July 2026**
 <br />Updated information about swimming safety ('Safety and security' page).
