@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 11 August 2026*
+*Last reviewed by FCDO: 12 August 2026*
 
 [View current FCDO travel advice for Spain](https://www.gov.uk/foreign-travel-advice/spain)
 
 ## Change History
 
 ### 2026
+
+**12 August 2026**
+<br />Addition of information about fines for the sale or consumption of nitrous oxide (laughing gas) in some areas of Spain and updated information about travelling between Spain and Gibraltar ('Safety and security' and 'Entry requirements' pages).
 
 **11 August 2026**
 <br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page). 

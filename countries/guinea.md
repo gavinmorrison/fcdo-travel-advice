@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 1 June 2026*
+*Last reviewed by FCDO: 12 August 2026*
 
 [View current FCDO travel advice for Guinea](https://www.gov.uk/foreign-travel-advice/guinea)
 
 ## Change History
 
 ### 2026
+
+**12 August 2026**
+<br />Updated information about health risks you’ll face in Guinea (‘Health’ page).
 
 **1 June 2026**
 <br />Removal of information about Parliamentary and local elections on 31 May ('Warnings and insurance' page).
