@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Laos.
 
-*Last reviewed by FCDO: 22 April 2026*
+*Last reviewed by FCDO: 13 August 2026*
 
 [View current FCDO travel advice for Laos](https://www.gov.uk/foreign-travel-advice/laos)
 
 ## Change History
 
 ### 2026
+
+**13 August 2026**
+<br />Updated information on flooding risks during periods of heavy rain (‘Safety and security’ page).
 
 **22 April 2026**
 <br />Updated information about the Lao Digital Immigration Form (LDIF) ('Entry requirements’ page).

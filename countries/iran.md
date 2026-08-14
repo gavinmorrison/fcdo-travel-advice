@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Iran.
 
-*Last reviewed by FCDO: 22 July 2026*
+*Last reviewed by FCDO: 13 August 2026*
 
 [View current FCDO travel advice for Iran](https://www.gov.uk/foreign-travel-advice/iran)
 
 ## Change History
 
 ### 2026
+
+**13 August 2026**
+<br />Removal of information on temporary withdrawal of UK staff from Iran and the embassy operating remotely (‘Warnings and insurance’ page). 
 
 **22 July 2026**
 <br />Updated information on regional tensions, and due to the security situation, UK staff have been temporarily withdrawn from Iran. Our embassy continues to operate remotely (‘Warnings and insurance’ page).

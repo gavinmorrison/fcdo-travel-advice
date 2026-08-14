@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 29 June 2026*
+*Last reviewed by FCDO: 13 August 2026*
 
 [View current FCDO travel advice for Bosnia and Herzegovina](https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina)
 
 ## Change History
 
 ### 2026
+
+**13 August 2026**
+<br />New information on wait times if travelling to and from the Schengen area from Bosnia and Herzegovina. New information that the border crossing at Gradiška has been relocated to a new facility ('Warnings and insurance' page).
 
 **29 June 2026**
 <br />Updated information about travel disruption along the Bosnian-Croatian border, particularly the Gradiška crossing ('Warnings and insurance' page).

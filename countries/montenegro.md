@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 4 June 2026*
+*Last reviewed by FCDO: 13 August 2026*
 
 [View current FCDO travel advice for Montenegro](https://www.gov.uk/foreign-travel-advice/montenegro)
 
 ## Change History
 
 ### 2026
+
+**13 August 2026**
+<br />New information on wait times if travelling to and from the Schengen area from Montenegro and updated information about road travel and swimming safety ('Warnings and insurance' and ‘Safety and security’ pages).
 
 **4 June 2026**
 <br />New information on travel disruption due to large number of international events taking place over the summer and beyond (‘Warnings and insurance’ page).

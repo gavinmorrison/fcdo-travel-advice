@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 13 August 2026*
 
 [View current FCDO travel advice for Albania](https://www.gov.uk/foreign-travel-advice/albania)
 
 ## Change History
 
-### 2025
+### 2026
+
+**13 August 2026**
+<br />New information on wait times if travelling to and from the Schengen area from Albania ('Warnings and insurance' page).
+
+<details>
+<summary><strong>2025</strong> (5 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -25,6 +31,8 @@ No specific FCDO travel advisories are currently active.
 **4 June 2025**
 <br />Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (2 updates)</summary>

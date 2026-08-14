@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 4 February 2026*
+*Last reviewed by FCDO: 13 August 2026*
 
 [View current FCDO travel advice for North Macedonia](https://www.gov.uk/foreign-travel-advice/north-macedonia)
 
 ## Change History
 
 ### 2026
+
+**13 August 2026**
+<br />New information on wait times if travelling to and from the Schengen area from North Macedonia ('Warnings and insurance' page).
+
+
 
 **4 February 2026**
 <br />Removal of information around travel disruption at land border crossings.
