@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Colombia.
 
-*Last reviewed by FCDO: 11 August 2026*
+*Last reviewed by FCDO: 14 August 2026*
 
 [View current FCDO travel advice for Colombia](https://www.gov.uk/foreign-travel-advice/colombia)
 
 ## Change History
 
 ### 2026
+
+**14 August 2026**
+<br />Updated information about flooding risks during periods of heavy rain ('Warnings and insurance' page). 
 
 **11 August 2026**
 <br />Updated information about the earthquake in Chocó (‘Warnings and insurance’ page). 

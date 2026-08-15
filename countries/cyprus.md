@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 22 July 2026*
+*Last reviewed by FCDO: 14 August 2026*
 
 [View current FCDO travel advice for Cyprus](https://www.gov.uk/foreign-travel-advice/cyprus)
 
 ## Change History
 
 ### 2026
+
+**14 August 2026**
+<br />New information about fertility treatment (‘Safety and security’ page).
 
 **22 July 2026**
 <br />Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).
