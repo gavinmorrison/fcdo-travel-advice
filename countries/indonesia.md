@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Indonesia.
 
-*Last reviewed by FCDO: 10 June 2026*
+*Last reviewed by FCDO: 16 August 2026*
 
 [View current FCDO travel advice for Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia)
 
 ## Change History
 
 ### 2026
+
+**16 August 2026**
+<br />Information about an earthquake in East Nusa Tenggara on 15 August (Warnings and insurance)
 
 **10 June 2026**
 <br />Updated information about 'All Indonesia Declaration Form' and visa scams ('Entry requirements' page).
