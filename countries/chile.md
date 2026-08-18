@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 22 July 2026*
+*Last reviewed by FCDO: 17 August 2026*
 
 [View current FCDO travel advice for Chile](https://www.gov.uk/foreign-travel-advice/chile)
 
 ## Change History
 
 ### 2026
+
+**17 August 2026**
+<br />Addition of information about Hantavirus in Chile ('Health' page).
 
 **22 July 2026**
 <br />Removal of information about wildfires in the southern regions of Chile ('Warnings and insurance' page).

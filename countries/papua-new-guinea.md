@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Papua New Guinea.
 
-*Last reviewed by FCDO: 10 August 2026*
+*Last reviewed by FCDO: 17 August 2026*
 
 [View current FCDO travel advice for Papua New Guinea](https://www.gov.uk/foreign-travel-advice/papua-new-guinea)
 
 ## Change History
 
 ### 2026
+
+**17 August 2026**
+<br />Updated information about interruptions to the supply of water and electricity (‘Warnings and insurance’ page).
 
 **10 August 2026**
 <br />New information about interruptions to the supply of water and electricity (‘Warnings and insurance’ page).
