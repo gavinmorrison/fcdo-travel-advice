@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 17 August 2026*
+*Last reviewed by FCDO: 18 August 2026*
 
 [View current FCDO travel advice for Chile](https://www.gov.uk/foreign-travel-advice/chile)
 
 ## Change History
 
 ### 2026
+
+**18 August 2026**
+<br />Update regarding severe weather and flooding in Tocopilla, northern Chile (See ‘Warnings and insurance’ page).
+
+ 
 
 **17 August 2026**
 <br />Addition of information about Hantavirus in Chile ('Health' page).
