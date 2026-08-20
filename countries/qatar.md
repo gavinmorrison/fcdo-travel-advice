@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 3 August 2026*
+*Last reviewed by FCDO: 19 August 2026*
 
 [View current FCDO travel advice for Qatar](https://www.gov.uk/foreign-travel-advice/qatar)
 
 ## Change History
 
 ### 2026
+
+**19 August 2026**
+<br />Updated information about bringing prescription and controlled medication into Qatar, including the Ministry of Public Health's online permit application system ('Health' page).
+
+
 
 **3 August 2026**
 <br />New information on drone use, including permit requirements and penalties for non-compliance (See ‘Using cameras, binoculars and drones’ on the ‘Safety and security’ page).
