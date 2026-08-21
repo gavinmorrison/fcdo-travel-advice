@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Mozambique.
 
 FCDO advises against all but essential travel to parts of Mozambique.
 
-*Last reviewed by FCDO: 9 July 2026*
+*Last reviewed by FCDO: 20 August 2026*
 
 [View current FCDO travel advice for Mozambique](https://www.gov.uk/foreign-travel-advice/mozambique)
 
 ## Change History
 
 ### 2026
+
+**20 August 2026**
+<br />New information about requirement for Electronic Travel Authorisation (ETA) ('Entry requirements' page).
 
 **9 July 2026**
 <br />New information about document requirements for travellers under 18 ('Entry requirements' page).

@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Nigeria.
 
 FCDO advises against all but essential travel to parts of Nigeria.
 
-*Last reviewed by FCDO: 19 August 2026*
+*Last reviewed by FCDO: 20 August 2026*
 
 [View current FCDO travel advice for Nigeria](https://www.gov.uk/foreign-travel-advice/nigeria)
 
 ## Change History
 
 ### 2026
+
+**20 August 2026**
+<br />Updated information about IVF, fertility treatment scams and overseas adoption ('Safety and security' page).
 
 **19 August 2026**
 <br />Updated information about IVF and fertility treatment scams ('Safety and security' page).

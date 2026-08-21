@@ -1,14 +1,17 @@
-# Kuwait 🟡
+# Kuwait 🟢
 
-FCDO advises against all but essential travel to Kuwait.
+No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 13 August 2026*
+*Last reviewed by FCDO: 20 August 2026*
 
 [View current FCDO travel advice for Kuwait](https://www.gov.uk/foreign-travel-advice/kuwait)
 
 ## Change History
 
 ### 2026
+
+**20 August 2026**
+<br />FCDO no longer advises against all but essential travel to Kuwait (‘Warnings and insurance’ page).
 
 **13 August 2026**
 <br />New information about visa requirements when entering Kuwait ('Entry requirements' page). 
