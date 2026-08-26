@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to South Sudan.
 
-*Last reviewed by FCDO: 26 May 2026*
+*Last reviewed by FCDO: 25 August 2026*
 
 [View current FCDO travel advice for South Sudan](https://www.gov.uk/foreign-travel-advice/south-sudan)
 
 ## Change History
 
 ### 2026
+
+**25 August 2026**
+<br />Updated information about Ebola ('Entry requirements' page).
 
 **26 May 2026**
 <br />New information about Ebola ('Entry requirements' page).

@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 21 August 2026*
+*Last reviewed by FCDO: 25 August 2026*
 
 [View current FCDO travel advice for Norway](https://www.gov.uk/foreign-travel-advice/norway)
 
 ## Change History
 
 ### 2026
+
+**25 August 2026**
+<br />Removal of information about an ongoing air traffic controllers' strike ('Warnings and insurance' page).
 
 **21 August 2026**
 <br />Information about an ongoing air traffic controllers' strike (Warnings and insurance)
