@@ -2,13 +2,21 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 August 2026*
+*Last reviewed by FCDO: 27 August 2026*
 
 [View current FCDO travel advice for China](https://www.gov.uk/foreign-travel-advice/china)
 
 ## Change History
 
 ### 2026
+
+**27 August 2026**
+<br />Updated information about heavy flooding and landslides along the Nepal-China border (‘Warnings and insurance’ page).
+
+**26 August 2026**
+<br />New information about heavy flooding and landslides affecting Gyirong County in Shigatse, Tibet, near the Nepal border (‘Warnings and insurance’ page).
+
+
 
 **10 August 2026**
 <br />Updated information about visa requirements ('Entry requirements' page).

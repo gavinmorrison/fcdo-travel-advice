@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 6 August 2026*
+*Last reviewed by FCDO: 26 August 2026*
 
 [View current FCDO travel advice for Nepal](https://www.gov.uk/foreign-travel-advice/nepal)
 
 ## Change History
 
 ### 2026
+
+**26 August 2026**
+<br />New information about flooding in the Rasuwa district and the Nepal-China border area (‘Warnings and insurance’ page).
+
+
 
 **6 August 2026**
 <br />Removal of information about local curfews ('Warnings and insurance' page).
