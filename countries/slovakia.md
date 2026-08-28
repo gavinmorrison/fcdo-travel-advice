@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 11 August 2026*
+*Last reviewed by FCDO: 28 August 2026*
 
 [View current FCDO travel advice for Slovakia](https://www.gov.uk/foreign-travel-advice/slovakia)
 
 ## Change History
 
 ### 2026
+
+**28 August 2026**
+<br />This travel advice has been updated for accuracy with changes made throughout, including border with Ukraine, political demonstrations, skiing and hiking, taxi’s, and extreme weather and natural disasters (‘Safety and security page’).  
 
 **11 August 2026**
 <br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page). 

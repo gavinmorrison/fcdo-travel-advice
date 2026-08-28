@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 26 August 2026*
+*Last reviewed by FCDO: 28 August 2026*
 
 [View current FCDO travel advice for Taiwan](https://www.gov.uk/foreign-travel-advice/taiwan)
 
 ## Change History
 
 ### 2026
+
+**28 August 2026**
+<br />Updated information of the health risks you’ll face in Taiwan (‘Health’ page). 
 
 **26 August 2026**
 <br />New information about typhoon season ('Warnings and insurance' page).

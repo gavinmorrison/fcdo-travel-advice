@@ -11,6 +11,9 @@ No specific FCDO travel advisories are currently active.
 ### 2026
 
 **27 August 2026**
+<br />"Updated information on Warnings and insurance"
+
+**27 August 2026**
 <br />Updated information about heavy flooding and landslides along the Nepal-China border (‘Warnings and insurance’ page).
 
 **26 August 2026**
