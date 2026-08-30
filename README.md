@@ -251,7 +251,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-08-29 08:55 UTC*
+*Last updated: 2026-08-30 08:10 UTC*
 
 ## Usage
 
