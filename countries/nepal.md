@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 28 August 2026*
+*Last reviewed by FCDO: 30 August 2026*
 
 [View current FCDO travel advice for Nepal](https://www.gov.uk/foreign-travel-advice/nepal)
 
 ## Change History
 
 ### 2026
+
+**30 August 2026**
+<br />Information added that a Family Support Centre has opened at the British Embassy Kathmandu for families and friends of British nationals affected by the recent flooding. Also, recent events in the Rasuwa district and along the Nepal-China border are affecting other areas of Nepal including Gorkha, Nuwakot and Dhading ('Warnings and insurance' page). 
 
 **28 August 2026**
 <br />Updated information about affected areas following flash flooding, including Nuwakot and Dhading ('Warnings and insurance' page).
