@@ -4,13 +4,18 @@ FCDO advises against all travel to parts of Azerbaijan.
 
 FCDO advises against all but essential travel to parts of Azerbaijan.
 
-*Last reviewed by FCDO: 20 July 2026*
+*Last reviewed by FCDO: 2 September 2026*
 
 [View current FCDO travel advice for Azerbaijan](https://www.gov.uk/foreign-travel-advice/azerbaijan)
 
 ## Change History
 
 ### 2026
+
+**2 September 2026**
+<br />Addition of information about visa procedures for visitors travelling to Azerbaijan in connection with the Formula 1 Azerbaijan Grand Prix (‘Entry requirements’ page).
+
+
 
 **20 July 2026**
 <br />This travel advice was reviewed for accuracy and there are no significant updates.

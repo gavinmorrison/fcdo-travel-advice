@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Venezuela.
 
 FCDO advises against all but essential travel to parts of Venezuela.
 
-*Last reviewed by FCDO: 1 July 2026*
+*Last reviewed by FCDO: 2 September 2026*
 
 [View current FCDO travel advice for Venezuela](https://www.gov.uk/foreign-travel-advice/venezuela)
 
 ## Change History
 
 ### 2026
+
+**2 September 2026**
+<br />Updated information on resumption of limited commercial flight operations from Maiquetía Simón Bolivar International Airport from 1 September (‘Warnings and insurance’ page).
 
 **1 July 2026**
 <br />Updated information on limited commercial flight availability (‘Warnings and insurance’ page).
