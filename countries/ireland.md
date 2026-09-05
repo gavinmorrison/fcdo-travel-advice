@@ -2,13 +2,17 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 26 February 2026*
+*Last reviewed by FCDO: 4 September 2026*
 
 [View current FCDO travel advice for Ireland](https://www.gov.uk/foreign-travel-advice/ireland)
 
 ## Change History
 
 ### 2026
+
+**4 September 2026**
+<br />Addition of information about ID requirements for travel between the UK and Ireland under the Common Travel Area (‘Entry requirements’ page).
+
 
 **26 February 2026**
 <br />This travel advice was reviewed for accuracy and there are no significant updates.

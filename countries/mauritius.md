@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 15 June 2026*
+*Last reviewed by FCDO: 4 September 2026*
 
 [View current FCDO travel advice for Mauritius](https://www.gov.uk/foreign-travel-advice/mauritius)
 
 ## Change History
 
 ### 2026
+
+**4 September 2026**
+<br />Updated information on Ebola and travelling from Reunion Island (‘Entry requirements’) and Road travel (‘Safety and security’) 
 
 **15 June 2026**
 <br />Updated information on Ebola (‘Entry requirements page’).
