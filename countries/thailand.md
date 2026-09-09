@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Thailand.
 
-*Last reviewed by FCDO: 30 June 2026*
+*Last reviewed by FCDO: 8 September 2026*
 
 [View current FCDO travel advice for Thailand](https://www.gov.uk/foreign-travel-advice/thailand)
 
 ## Change History
 
 ### 2026
+
+**8 September 2026**
+<br />Updated information about visa requirements and the rainy season in Thailand ('Entry requirements' and 'Safety and security' pages).
 
 **30 June 2026**
 <br />Updated information about cannabis ('Safety and security' page).
