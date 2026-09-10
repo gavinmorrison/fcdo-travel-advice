@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Brazil.
 
-*Last reviewed by FCDO: 11 May 2026*
+*Last reviewed by FCDO: 9 September 2026*
 
 [View current FCDO travel advice for Brazil](https://www.gov.uk/foreign-travel-advice/brazil)
 
 ## Change History
 
 ### 2026
+
+**9 September 2026**
+<br />Updated information about taxi travel ('Safety and security' page).
 
 **11 May 2026**
 <br />New information on scams, taxi travel and regional risks ('Safety and security' and 'Regional risks' pages). 

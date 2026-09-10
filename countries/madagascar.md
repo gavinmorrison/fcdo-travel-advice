@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 26 January 2026*
+*Last reviewed by FCDO: 9 September 2026*
 
 [View current FCDO travel advice for Madagascar](https://www.gov.uk/foreign-travel-advice/madagascar)
 
 ## Change History
 
 ### 2026
+
+**9 September 2026**
+<br />Addition of information on Ebola entry requirements (‘Entry requirements’ page)
 
 **26 January 2026**
 <br />Updated information on health risks in Madagascar ('Health' page).
