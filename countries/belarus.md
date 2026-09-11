@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Belarus.
 
-*Last reviewed by FCDO: 11 May 2026*
+*Last reviewed by FCDO: 10 September 2026*
 
 [View current FCDO travel advice for Belarus](https://www.gov.uk/foreign-travel-advice/belarus)
 
 ## Change History
 
 ### 2026
+
+**10 September 2026**
+<br />Updated information on buying flight tickets if the journey is starting in, or within, Russia ('Safety and security’ page)
 
 **11 May 2026**
 <br />Updated information about the risk of arrest and detention ('Safety and security' page).

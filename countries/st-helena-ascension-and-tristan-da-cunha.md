@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 7 July 2026*
+*Last reviewed by FCDO: 10 September 2026*
 
 [View current FCDO travel advice for St Helena, Ascension and Tristan da Cunha](https://www.gov.uk/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha)
 
 ## Change History
 
 ### 2026
+
+**10 September 2026**
+<br />New information on getting to Ascension Island ('Safety and Security' page)
 
 **7 July 2026**
 <br />CORRECTION: Updated information about payment methods in Tristan da Cunha (see ‘Money’ on ‘Safety and security’ page).

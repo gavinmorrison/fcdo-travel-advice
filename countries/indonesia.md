@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Indonesia.
 
-*Last reviewed by FCDO: 6 September 2026*
+*Last reviewed by FCDO: 10 September 2026*
 
 [View current FCDO travel advice for Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia)
 
 ## Change History
 
 ### 2026
+
+**10 September 2026**
+<br />Removal of information about closure of Jakarta airports due to volcanic ash clouds (‘Warnings and insurance’ page)
 
 **6 September 2026**
 <br />Information about flight disruptions at Soekarno Hatta Airport and Halim Airport in Jakarta due to volcanic ash cloud ('Warnings and insurance' page)
