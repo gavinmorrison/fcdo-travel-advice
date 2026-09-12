@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 June 2026*
+*Last reviewed by FCDO: 11 September 2026*
 
 [View current FCDO travel advice for Kosovo](https://www.gov.uk/foreign-travel-advice/kosovo)
 
 ## Change History
 
 ### 2026
+
+**11 September 2026**
+<br />New information about large public gatherings in Pristina and other urban centres that may cause travel disruption (‘Warnings and insurance’ page).
 
 **10 June 2026**
 <br />FCDO no longer advises against all but essential travel to the municipalities of Zvečan, Zubin Potok and Leposavic, and areas of Mitrovica north of the river Ibar. New information about northern Kosovo (‘Warnings and insurance’ and ‘Regional risks’ pages).
