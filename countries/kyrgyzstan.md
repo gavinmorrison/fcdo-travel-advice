@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 26 August 2026*
+*Last reviewed by FCDO: 14 September 2026*
 
 [View current FCDO travel advice for Kyrgyzstan](https://www.gov.uk/foreign-travel-advice/kyrgyzstan)
 
 ## Change History
 
 ### 2026
+
+**14 September 2026**
+<br />Removal of information about the World Nomad Games ('Warnings and insurance' page).
 
 **26 August 2026**
 <br />New information about the World Nomad Games ('Warnings and insurance' page).

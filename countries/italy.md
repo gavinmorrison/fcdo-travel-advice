@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 7 September 2026*
+*Last reviewed by FCDO: 14 September 2026*
 
 [View current FCDO travel advice for Italy](https://www.gov.uk/foreign-travel-advice/italy)
 
 ## Change History
 
 ### 2026
+
+**14 September 2026**
+<br />Addition of information about Mount Etna eruption and flight disruption ('Warnings and insurance' page).
 
 **7 September 2026**
 <br />Addition of information about hiking and adventure sports (‘Safety and security’ page).
