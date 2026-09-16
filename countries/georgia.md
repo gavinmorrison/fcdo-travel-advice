@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Georgia.
 
-*Last reviewed by FCDO: 27 July 2026*
+*Last reviewed by FCDO: 15 September 2026*
 
 [View current FCDO travel advice for Georgia](https://www.gov.uk/foreign-travel-advice/georgia)
 
 ## Change History
 
 ### 2026
+
+**15 September 2026**
+<br />Updated information about the political situation and driving conditions ('Safety and security' page).
 
 **27 July 2026**
 <br />Updated information on the political situation ('Safety and security' page)
