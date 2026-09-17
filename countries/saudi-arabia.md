@@ -4,13 +4,18 @@ FCDO advises against all travel to parts of Saudi Arabia.
 
 FCDO advises against all but essential travel to parts of Saudi Arabia.
 
-*Last reviewed by FCDO: 25 July 2026*
+*Last reviewed by FCDO: 16 September 2026*
 
 [View current FCDO travel advice for Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia)
 
 ## Change History
 
 ### 2026
+
+**16 September 2026**
+<br />Addition of information about conflict between the Houthi military group and the Governments of Yemen and Saudi Arabia and updated information about regional tensions (‘Regional risks’ and ‘Warnings and insurance’ pages).
+
+
 
 **25 July 2026**
 <br />Latest information on regional risks including the Saudi-Yemen border and threats from the Houthis (‘Warnings and insurance’ and ‘Regional risks’ pages).

@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Democratic Republic of the Congo.
 
 FCDO advises against all but essential travel to parts of Democratic Republic of the Congo.
 
-*Last reviewed by FCDO: 26 August 2026*
+*Last reviewed by FCDO: 16 September 2026*
 
 [View current FCDO travel advice for Democratic Republic of the Congo](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo)
 
 ## Change History
 
 ### 2026
+
+**16 September 2026**
+<br />Removal of information about protests planned in Kinshasa on 15 September 2026 ('Safety and security' page).
 
 **26 August 2026**
 <br />Addition of information that protests are planned in Kinshasa on 15 September 2026 ('Safety and security' page).
