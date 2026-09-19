@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Turkey.
 
-*Last reviewed by FCDO: 22 July 2026*
+*Last reviewed by FCDO: 18 September 2026*
 
 [View current FCDO travel advice for Turkey](https://www.gov.uk/foreign-travel-advice/turkey)
 
 ## Change History
 
 ### 2026
+
+**18 September 2026**
+<br />Updated information around the risks of negatively commenting about the nation and flag ('Safety and security' page).
 
 **22 July 2026**
 <br />Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).

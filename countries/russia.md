@@ -2,13 +2,18 @@
 
 FCDO advises against all travel to Russia.
 
-*Last reviewed by FCDO: 3 July 2026*
+*Last reviewed by FCDO: 18 September 2026*
 
 [View current FCDO travel advice for Russia](https://www.gov.uk/foreign-travel-advice/russia)
 
 ## Change History
 
 ### 2026
+
+**18 September 2026**
+<br />Updated information about drone attacks leading to short-notice restrictions on airspace use and airport operations (‘Warnings and insurance’ and ‘Safety and security’ pages).
+
+
 
 **3 July 2026**
 <br />Addition of information about recent fuel shortages (see 'Road travel' on 'Safety and security' page).

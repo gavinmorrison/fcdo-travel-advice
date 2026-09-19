@@ -1,14 +1,17 @@
-# Indonesia ⚠️
+# Indonesia 🟢
 
-FCDO advises against all travel to parts of Indonesia.
+No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 September 2026*
+*Last reviewed by FCDO: 18 September 2026*
 
 [View current FCDO travel advice for Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia)
 
 ## Change History
 
 ### 2026
+
+**18 September 2026**
+<br />FCDO no longer advises against all travel to volcanoes in Indonesia and will no longer advise against all travel in the event of future volcanic eruptions. FCDO have added new information about volcanoes in Indonesia, including information from the local authorities who enforce exclusion zones on a number of volcanically active sites (See ‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 **10 September 2026**
 <br />Removal of information about closure of Jakarta airports due to volcanic ash clouds (‘Warnings and insurance’ page)

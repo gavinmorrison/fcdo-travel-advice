@@ -115,7 +115,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | 🟢 | [Hungary](countries/hungary.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Iceland](countries/iceland.md) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [India](countries/india.md) | FCDO advises against all travel to parts of India. |
-| ⚠️ | [Indonesia](countries/indonesia.md) | FCDO advises against all travel to parts of Indonesia. |
+| 🟢 | [Indonesia](countries/indonesia.md) | No specific FCDO travel advisories are currently active. |
 | 🔴 | [Iran](countries/iran.md) | FCDO advises against all travel to Iran. |
 | ⚠️ | [Iraq](countries/iraq.md) | FCDO advises against all travel to parts of Iraq.<br />FCDO advises against all but essential travel to parts of Iraq. |
 | 🟢 | [Ireland](countries/ireland.md) | No specific FCDO travel advisories are currently active. |
@@ -251,7 +251,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-09-18 07:18 UTC*
+*Last updated: 2026-09-19 07:14 UTC*
 
 ## Usage
 
