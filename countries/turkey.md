@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Turkey.
 
-*Last reviewed by FCDO: 18 September 2026*
+*Last reviewed by FCDO: 21 September 2026*
 
 [View current FCDO travel advice for Turkey](https://www.gov.uk/foreign-travel-advice/turkey)
 
 ## Change History
 
 ### 2026
+
+**21 September 2026**
+<br />Updated information for LGBT+ travellers ('Safety and security' page). 
 
 **18 September 2026**
 <br />Updated information around the risks of negatively commenting about the nation and flag ('Safety and security' page).

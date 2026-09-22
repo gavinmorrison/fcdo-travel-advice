@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 26 June 2026*
+*Last reviewed by FCDO: 21 September 2026*
 
 [View current FCDO travel advice for Vietnam](https://www.gov.uk/foreign-travel-advice/vietnam)
 
 ## Change History
 
 ### 2026
+
+**21 September 2026**
+<br />Addition of information about tropical storm season ('Warnings and insurance') page
 
 **26 June 2026**
 <br />New information about submitting a health declaration if you are travelling to or transiting through Vietnam ('Entry requirements' page). 
