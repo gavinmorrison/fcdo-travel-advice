@@ -2,13 +2,19 @@
 
 FCDO advises against all but essential travel to parts of Mexico.
 
-*Last reviewed by FCDO: 11 September 2026*
+*Last reviewed by FCDO: 22 September 2026*
 
 [View current FCDO travel advice for Mexico](https://www.gov.uk/foreign-travel-advice/mexico)
 
 ## Change History
 
 ### 2026
+
+**22 September 2026**
+<br />Addition of information about Hurricane Polo ('Warnings and insurance' page).
+
+
+
 
 **11 September 2026**
 <br />Removal of information about Hurricane Marie ('Warnings and insurance' page).
