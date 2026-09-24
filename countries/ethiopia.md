@@ -4,13 +4,20 @@ FCDO advises against all travel to parts of Ethiopia.
 
 FCDO advises against all but essential travel to parts of Ethiopia.
 
-*Last reviewed by FCDO: 29 May 2026*
+*Last reviewed by FCDO: 23 September 2026*
 
 [View current FCDO travel advice for Ethiopia](https://www.gov.uk/foreign-travel-advice/ethiopia)
 
 ## Change History
 
 ### 2026
+
+**23 September 2026**
+<br />FCDO now advises against all travel to the parts of Afar region within 10km of the border with Eritrea and within 20km of the Tigray-Afar border.  FCDO continues to advise against all travel and all but essential travel to other parts of Ethiopia.  (Warnings and insurance)
+
+
+**23 September 2026**
+<br />New information about suspended flights to and from Tigray region and updated information about conflict and violence (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 **29 May 2026**
 <br />Addition of information about nationwide elections on 1 June (‘Warnings and insurance’ page).

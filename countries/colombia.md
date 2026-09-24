@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Colombia.
 
-*Last reviewed by FCDO: 3 September 2026*
+*Last reviewed by FCDO: 23 September 2026*
 
 [View current FCDO travel advice for Colombia](https://www.gov.uk/foreign-travel-advice/colombia)
 
 ## Change History
 
 ### 2026
+
+**23 September 2026**
+<br />Updated information on heightened security measures in Santa Marta ('Warnings and insurance' page).
 
 **3 September 2026**
 <br />Updated information on earthquake response and removal of information about the closure of Matecaña International Airport ('Warnings and insurance' page).

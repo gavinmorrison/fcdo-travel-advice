@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 11 August 2026*
+*Last reviewed by FCDO: 23 September 2026*
 
 [View current FCDO travel advice for Hungary](https://www.gov.uk/foreign-travel-advice/hungary)
 
 ## Change History
 
 ### 2026
+
+**23 September 2026**
+<br />Removal of information about restrictions to LGBT+ marches and events ('Safety and security' page). 
 
 **11 August 2026**
 <br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).  

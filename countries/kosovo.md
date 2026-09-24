@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 17 September 2026*
+*Last reviewed by FCDO: 23 September 2026*
 
 [View current FCDO travel advice for Kosovo](https://www.gov.uk/foreign-travel-advice/kosovo)
 
 ## Change History
 
 ### 2026
+
+**23 September 2026**
+<br />Updated information about large gatherings in Pristina and other urban areas of Kosovo (‘Warnings and insurance’ page). 
 
 **17 September 2026**
 <br />Updated information about large public gatherings in Pristina and other urban centres that may cause travel disruption (‘Warnings and insurance’ page).
