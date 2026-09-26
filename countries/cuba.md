@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to Cuba.
 
-*Last reviewed by FCDO: 16 July 2026*
+*Last reviewed by FCDO: 25 September 2026*
 
 [View current FCDO travel advice for Cuba](https://www.gov.uk/foreign-travel-advice/cuba)
 
 ## Change History
 
 ### 2026
+
+**25 September 2026**
+<br />This travel advice has been reviewed for accuracy with changes made throughout, including protests in Cuba, power outages and fuel and water shortages, travel disruption, international card transactions, travel insurance, visa requirements, travelling to the USA from Cuba, taking money into Cuba, crime, money, taxis, emergency medical numbers and healthcare in Cuba (‘Warnings and insurance’, ‘Entry requirements’, ‘Safety and security’ and ‘Health’ pages).
 
 **16 July 2026**
 <br />New information on levels of crime and updated information about power outages ('Warnings and insurance' and 'Safety and security' pages).

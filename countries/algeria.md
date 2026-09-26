@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Algeria.
 
-*Last reviewed by FCDO: 24 July 2026*
+*Last reviewed by FCDO: 25 September 2026*
 
 [View current FCDO travel advice for Algeria](https://www.gov.uk/foreign-travel-advice/algeria)
 
 ## Change History
 
 ### 2026
+
+**25 September 2026**
+<br />Updated information about customs rules, terrorism in Algeria, political situation and personal ID (‘Entry requirements’ and ‘Safety and security’ pages).
 
 **24 July 2026**
 <br />Updated information on wildfires ('Safety and security' page).
