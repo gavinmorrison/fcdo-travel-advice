@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Mexico.
 
-*Last reviewed by FCDO: 24 September 2026*
+*Last reviewed by FCDO: 26 September 2026*
 
 [View current FCDO travel advice for Mexico](https://www.gov.uk/foreign-travel-advice/mexico)
 
 ## Change History
 
 ### 2026
+
+**26 September 2026**
+<br />Further information about Hurricane Polo, with links to the guidance on emergency planning and shelter locations published by local authorities (Warnings and insurance)
 
 **24 September 2026**
 <br />Updated information about Hurricane Polo ('Warnings and insurance' page).
