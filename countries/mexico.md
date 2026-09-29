@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Mexico.
 
-*Last reviewed by FCDO: 26 September 2026*
+*Last reviewed by FCDO: 28 September 2026*
 
 [View current FCDO travel advice for Mexico](https://www.gov.uk/foreign-travel-advice/mexico)
 
 ## Change History
 
 ### 2026
+
+**28 September 2026**
+<br />Hurricane Polo will impact Baja California Sur on 28 September and is forecast to continue into Sinaloa and Sonora states.
 
 **26 September 2026**
 <br />Further information about Hurricane Polo, with links to the guidance on emergency planning and shelter locations published by local authorities (Warnings and insurance)
