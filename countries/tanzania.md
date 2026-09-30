@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Tanzania.
 
-*Last reviewed by FCDO: 19 May 2026*
+*Last reviewed by FCDO: 29 September 2026*
 
 [View current FCDO travel advice for Tanzania](https://www.gov.uk/foreign-travel-advice/tanzania)
 
 ## Change History
 
 ### 2026
+
+**29 September 2026**
+<br />Updated information that heightened health screening measures are no longer in place for travellers arriving into Tanzania from Uganda, but remain for those arriving from the Democratic Republic of Congo (‘Entry requirements’ page).
 
 **19 May 2026**
 <br />Addition of  information about heightened health screening measures for those entering Tanzania from Uganda and the Democratic Republic of Congo ('Entry requirements' page).

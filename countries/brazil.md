@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Brazil.
 
-*Last reviewed by FCDO: 9 September 2026*
+*Last reviewed by FCDO: 29 September 2026*
 
 [View current FCDO travel advice for Brazil](https://www.gov.uk/foreign-travel-advice/brazil)
 
 ## Change History
 
 ### 2026
+
+**29 September 2026**
+<br />New information about elections taking place on 4 October, and political events ('Warnings and insurance' and 'Safety and security' pages).
 
 **9 September 2026**
 <br />Updated information about taxi travel ('Safety and security' page).
