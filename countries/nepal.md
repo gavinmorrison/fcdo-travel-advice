@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 11 September 2026*
+*Last reviewed by FCDO: 1 October 2026*
 
 [View current FCDO travel advice for Nepal](https://www.gov.uk/foreign-travel-advice/nepal)
 
 ## Change History
 
 ### 2026
+
+**1 October 2026**
+<br />Removal of information about the Family Assistance Centre at the British Embassy Kathmandu (‘Warnings and insurance’ page).
 
 **11 September 2026**
 <br />Updated information about flooding in the Rasuwa district and Nepal-China border area and about the Family Assistance Centre at the British Embassy Kathmandu (‘Warnings and insurance’ page).
