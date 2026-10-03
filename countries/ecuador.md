@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Ecuador.
 
-*Last reviewed by FCDO: 16 September 2026*
+*Last reviewed by FCDO: 2 October 2026*
 
 [View current FCDO travel advice for Ecuador](https://www.gov.uk/foreign-travel-advice/ecuador)
 
 ## Change History
 
 ### 2026
+
+**2 October 2026**
+<br />New information about the 2026–2027 El Niño weather event ('Safety and security' page).
 
 **16 September 2026**
 <br />Updated information about State of Emergency ('Warnings and insurance' page).
