@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Colombia.
 
-*Last reviewed by FCDO: 23 September 2026*
+*Last reviewed by FCDO: 6 October 2026*
 
 [View current FCDO travel advice for Colombia](https://www.gov.uk/foreign-travel-advice/colombia)
 
 ## Change History
 
 ### 2026
+
+**6 October 2026**
+<br />Removal of information about heightened security measures in Santa Marta.
 
 **23 September 2026**
 <br />Updated information on heightened security measures in Santa Marta ('Warnings and insurance' page).
