@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of India.
 
-*Last reviewed by FCDO: 9 July 2026*
+*Last reviewed by FCDO: 7 October 2026*
 
 [View current FCDO travel advice for India](https://www.gov.uk/foreign-travel-advice/india)
 
 ## Change History
 
 ### 2026
+
+**7 October 2026**
+<br />This travel advice has been reviewed for accuracy, with minor amendments made throughout, including updated information on access permits, scams, trekking in India, air and rail travel, India-Pakistan border area and Western India and healthcare in India (‘Entry requirements’,‘Safety and security’ and ‘Health’ pages).
 
 **9 July 2026**
 <br />New information about Electronic Overseas Citizen of India Card (e-OCI) and additional information about Ebola health screening and a  mandatory Self-Declaration Form for all international passengers arriving in India ('Entry requirements' page). 

@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 7 October 2026*
 
 [View current FCDO travel advice for Panama](https://www.gov.uk/foreign-travel-advice/panama)
 
 ## Change History
 
-### 2025
+### 2026
+
+**7 October 2026**
+<br /> Updated information about border control checks and curfews (‘Entry requirements’ and ‘Safety and security’ pages).
+
+<details>
+<summary><strong>2025</strong> (7 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -30,6 +36,8 @@ No specific FCDO travel advisories are currently active.
 
 **10 February 2025**
 <br />Addition of information that you must complete an immigration and customs declaration form when entering Panama. Panamanian authorities recommend completing their digital form ('Entry requirements' page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (4 updates)</summary>
