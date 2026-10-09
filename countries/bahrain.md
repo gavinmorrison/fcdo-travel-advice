@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 20 August 2026*
+*Last reviewed by FCDO: 8 October 2026*
 
 [View current FCDO travel advice for Bahrain](https://www.gov.uk/foreign-travel-advice/bahrain)
 
 ## Change History
 
 ### 2026
+
+**8 October 2026**
+<br />Updated information about Bahraini-UK dual nationality, laws and cultural differences, and air quality in Bahrain ('Entry requirements’, ‘Safety and security’ and 'Health' pages).
 
 **20 August 2026**
 <br />FCDO no longer advises against all but essential travel to Bahrain (‘Warnings and insurance’ page).

@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 18 August 2026*
+*Last reviewed by FCDO: 8 October 2026*
 
 [View current FCDO travel advice for Chile](https://www.gov.uk/foreign-travel-advice/chile)
 
 ## Change History
 
 ### 2026
+
+**8 October 2026**
+<br />Information on heavy rain and severe mudslides in eastern Santiago ('Warnings and insurance’ page).
 
 **18 August 2026**
 <br />Update regarding severe weather and flooding in Tocopilla, northern Chile (See ‘Warnings and insurance’ page).
