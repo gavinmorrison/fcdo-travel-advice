@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Saudi Arabia.
 
 FCDO advises against all but essential travel to parts of Saudi Arabia.
 
-*Last reviewed by FCDO: 8 October 2026*
+*Last reviewed by FCDO: 9 October 2026*
 
 [View current FCDO travel advice for Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia)
 
 ## Change History
 
 ### 2026
+
+**9 October 2026**
+<br />Addition of information about travelling to the airport (see 'Regional tensions' on 'Warnings and insurance' page).
 
 **8 October 2026**
 <br />FCDO now advises against all but essential travel to Aseer province, Riyadh province, Najran province, Jizan province and Taif city and Taif International Airport.  FCDO continues to advise against all travel to within 10km of the border with Yemen.  (Warnings and insurance.)

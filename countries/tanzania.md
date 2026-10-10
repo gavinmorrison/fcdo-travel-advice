@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Tanzania.
 
-*Last reviewed by FCDO: 6 October 2026*
+*Last reviewed by FCDO: 9 October 2026*
 
 [View current FCDO travel advice for Tanzania](https://www.gov.uk/foreign-travel-advice/tanzania)
 
 ## Change History
 
 ### 2026
+
+**9 October 2026**
+<br />Updated information about mandatory travel insurance and wildfires ('Entry requirements' and 'Safety and security' pages).
 
 **6 October 2026**
 <br />New information about wildfires reported in the Kilimanjaro area ('Warnings and insurance' page).

@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 7 October 2026*
+*Last reviewed by FCDO: 9 October 2026*
 
 [View current FCDO travel advice for Panama](https://www.gov.uk/foreign-travel-advice/panama)
 
 ## Change History
 
 ### 2026
+
+**9 October 2026**
+<br />Information about a 7.6 earthquake in Panama (Warnings and insurance)
 
 **7 October 2026**
 <br /> Updated information about border control checks and curfews (‘Entry requirements’ and ‘Safety and security’ pages).

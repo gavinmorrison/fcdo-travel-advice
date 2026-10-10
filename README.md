@@ -86,7 +86,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 | ⚠️ | [Egypt](countries/egypt.md) | FCDO advises against all travel to parts of Egypt.<br />FCDO advises against all but essential travel to parts of Egypt. |
 | 🟢 | [El Salvador](countries/el-salvador.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Equatorial Guinea](countries/equatorial-guinea.md) | No specific FCDO travel advisories are currently active. |
-| ⚠️ | [Eritrea](countries/eritrea.md) | FCDO advises against all travel to parts of Eritrea. |
+| ⚠️ | [Eritrea](countries/eritrea.md) | FCDO advises against all travel to parts of Eritrea.<br />FCDO advises against all but essential travel to parts of Eritrea. |
 | 🟢 | [Estonia](countries/estonia.md) | No specific FCDO travel advisories are currently active. |
 | 🟢 | [Eswatini](countries/eswatini.md) | No specific FCDO travel advisories are currently active. |
 | ⚠️ | [Ethiopia](countries/ethiopia.md) | FCDO advises against all travel to parts of Ethiopia.<br />FCDO advises against all but essential travel to parts of Ethiopia. |
@@ -251,7 +251,7 @@ The table below is automatically updated daily at 2 AM UTC via GitHub Actions:
 
 <!-- FCDO_TABLE_END -->
 
-*Last updated: 2026-10-09 08:49 UTC*
+*Last updated: 2026-10-10 08:20 UTC*
 
 ## Usage
 
