@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Mexico.
 
-*Last reviewed by FCDO: 9 October 2026*
+*Last reviewed by FCDO: 13 October 2026*
 
 [View current FCDO travel advice for Mexico](https://www.gov.uk/foreign-travel-advice/mexico)
 
 ## Change History
 
 ### 2026
+
+**13 October 2026**
+<br />Updated information about Hurricane Simon ('Warnings and insurance' page).
 
 **9 October 2026**
 <br />Latest information on Hurricane Simon (Warnings and insurance)

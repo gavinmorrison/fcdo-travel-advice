@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 26 May 2026*
+*Last reviewed by FCDO: 12 October 2026*
 
 [View current FCDO travel advice for Solomon Islands](https://www.gov.uk/foreign-travel-advice/solomon-islands)
 
 ## Change History
 
 ### 2026
+
+**12 October 2026**
+<br />New information about Solomon Islands’ new electronic visa system (see ‘Visa requirements' on the ‘Entry requirements’ page). 
 
 **26 May 2026**
 <br />Removal of information about Tropical Cyclone Maila (‘Warnings and Insurance’ page).

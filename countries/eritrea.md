@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Eritrea.
 
 FCDO advises against all but essential travel to parts of Eritrea.
 
-*Last reviewed by FCDO: 9 October 2026*
+*Last reviewed by FCDO: 12 October 2026*
 
 [View current FCDO travel advice for Eritrea](https://www.gov.uk/foreign-travel-advice/eritrea)
 
 ## Change History
 
 ### 2026
+
+**12 October 2026**
+<br />Addition of information about the temporary withdrawal of dependants of British Embassy staff from Eritrea (‘Warnings and insurance’ page).
 
 **9 October 2026**
 <br />FCDO now advises against all but essential travel to Eritrea. FCDO continues to advise against all travel to within 25km of all of Eritrea’s land borders (‘Warnings and insurance’ page).
