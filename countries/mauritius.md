@@ -11,6 +11,9 @@ No specific FCDO travel advisories are currently active.
 ### 2026
 
 **13 October 2026**
+<br />Further information about local demonstrations and community unrest (‘Warnings and insurance’ page). 
+
+**13 October 2026**
 <br />Addition of  information about local demonstrations and community unrest (‘Warnings and insurance’ page).
 
 **4 September 2026**
