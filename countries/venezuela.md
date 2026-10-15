@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Venezuela.
 
 FCDO advises against all but essential travel to parts of Venezuela.
 
-*Last reviewed by FCDO: 2 September 2026*
+*Last reviewed by FCDO: 14 October 2026*
 
 [View current FCDO travel advice for Venezuela](https://www.gov.uk/foreign-travel-advice/venezuela)
 
 ## Change History
 
 ### 2026
+
+**14 October 2026**
+<br />FCDO now advises against all travel to Amazonas state and to within 40km (25 miles) of the border with Colombia. FCDO continues to advise against all travel to the Orinoco Mining Arc (‘Arco Minero’) region to the south of the Orinoco river, and within 40km (25 miles) of the border Brazil  and Guyana . FCDO advises against all but essential travel to the remaining areas of Venezuela  including Zulia state, Maracaibo and the eastern shore of Lake Maracaibo ('Warnings and insurance' page). Updated information about political and economic situation ('Safety and Security' page).
 
 **2 September 2026**
 <br />Updated information on resumption of limited commercial flight operations from Maiquetía Simón Bolivar International Airport from 1 September (‘Warnings and insurance’ page).
