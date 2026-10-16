@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 13 August 2026*
+*Last reviewed by FCDO: 15 October 2026*
 
 [View current FCDO travel advice for Albania](https://www.gov.uk/foreign-travel-advice/albania)
 
 ## Change History
 
 ### 2026
+
+**15 October 2026**
+<br />New information about demonstrations in Tirana ('Warnings and insurance' page).
 
 **13 August 2026**
 <br />New information on wait times if travelling to and from the Schengen area from Albania ('Warnings and insurance' page).
