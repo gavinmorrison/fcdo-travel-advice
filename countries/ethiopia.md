@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Ethiopia.
 
 FCDO advises against all but essential travel to parts of Ethiopia.
 
-*Last reviewed by FCDO: 7 October 2026*
+*Last reviewed by FCDO: 16 October 2026*
 
 [View current FCDO travel advice for Ethiopia](https://www.gov.uk/foreign-travel-advice/ethiopia)
 
 ## Change History
 
 ### 2026
+
+**16 October 2026**
+<br />New information about fighting in the Tigray region and updated information about travel from the airport and around Addis Ababa (‘Warnings and insurance’, ‘Safety and security’ and ‘Regional risks’ pages).
 
 **7 October 2026**
 <br />Updated information about conflict and violence (‘Safety and security’ page).
