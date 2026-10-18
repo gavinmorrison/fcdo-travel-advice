@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 13 October 2026*
+*Last reviewed by FCDO: 17 October 2026*
 
 [View current FCDO travel advice for Belgium](https://www.gov.uk/foreign-travel-advice/belgium)
 
 ## Change History
 
 ### 2026
+
+**17 October 2026**
+<br />Additional information on demonstrations and strikes (Safety and security).
 
 **13 October 2026**
 <br />Updated information about national strike action (‘Warnings and insurance’ page).
