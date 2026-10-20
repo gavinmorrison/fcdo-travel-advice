@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Mauritania.
 
-*Last reviewed by FCDO: 24 March 2026*
+*Last reviewed by FCDO: 19 October 2026*
 
 [View current FCDO travel advice for Mauritania](https://www.gov.uk/foreign-travel-advice/mauritania)
 
 ## Change History
 
 ### 2026
+
+**19 October 2026**
+<br />New information on risks of travelling on the iron ore train (‘Safety and security’ page).
 
 **24 March 2026**
 <br />New information about protests (‘Warnings and insurance’ page). 

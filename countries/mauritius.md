@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 16 October 2026*
+*Last reviewed by FCDO: 19 October 2026*
 
 [View current FCDO travel advice for Mauritius](https://www.gov.uk/foreign-travel-advice/mauritius)
 
 ## Change History
 
 ### 2026
+
+**19 October 2026**
+<br />Updated information about local demonstrations and community unrest ('Safety and security' page).
 
 **16 October 2026**
 <br />Updated information about local demonstrations and community unrest (‘Warnings and insurance’ page).
