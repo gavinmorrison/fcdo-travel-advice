@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Mexico.
 
-*Last reviewed by FCDO: 16 October 2026*
+*Last reviewed by FCDO: 20 October 2026*
 
 [View current FCDO travel advice for Mexico](https://www.gov.uk/foreign-travel-advice/mexico)
 
 ## Change History
 
 ### 2026
+
+**20 October 2026**
+<br />Removal of information about Hurricane Trudy ('Warnings and insurance' page).
 
 **16 October 2026**
 <br />New information about Hurricane Trudy, which is affecting Mexico’s pacific coast ('Warnings and insurance' page).

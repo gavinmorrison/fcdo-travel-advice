@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 21 January 2026*
+*Last reviewed by FCDO: 20 October 2026*
 
 [View current FCDO travel advice for Seychelles](https://www.gov.uk/foreign-travel-advice/seychelles)
 
 ## Change History
 
 ### 2026
+
+**20 October 2026**
+<br />New information about how to respond to extreme weather in the Seychelles (‘Safety and security’ page) 
 
 **21 January 2026**
 <br />New information on illegal drugs and prison sentences ('Safety and security' page). 
