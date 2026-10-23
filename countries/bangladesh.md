@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Bangladesh.
 
-*Last reviewed by FCDO: 9 October 2026*
+*Last reviewed by FCDO: 22 October 2026*
 
 [View current FCDO travel advice for Bangladesh](https://www.gov.uk/foreign-travel-advice/bangladesh)
 
 ## Change History
 
 ### 2026
+
+**22 October 2026**
+<br />Removal of information about Hindu festival of Durga Puja (‘Warnings and insurance’ page).
 
 **9 October 2026**
 <br />Addition of information about Hindu festival of Durga Puja, taking place in Bangladesh 16 to 21 October (‘Warnings and insurance’ page).

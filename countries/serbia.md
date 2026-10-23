@@ -2,13 +2,18 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 13 August 2026*
+*Last reviewed by FCDO: 22 October 2026*
 
 [View current FCDO travel advice for Serbia](https://www.gov.uk/foreign-travel-advice/serbia)
 
 ## Change History
 
 ### 2026
+
+**22 October 2026**
+<br />New information about Serbian parliamentary elections taking place on 25 October (‘Warnings and insurance’ and ‘Safety and security’ pages).
+
+
 
 **13 August 2026**
 <br />New information on wait times if travelling to and from the Schengen area from Serbia ('Warnings and insurance' page).

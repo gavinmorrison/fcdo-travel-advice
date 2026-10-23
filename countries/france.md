@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 19 October 2026*
+*Last reviewed by FCDO: 22 October 2026*
 
 [View current FCDO travel advice for France](https://www.gov.uk/foreign-travel-advice/france)
 
 ## Change History
 
 ### 2026
+
+**22 October 2026**
+<br />Updated information about demonstrations (‘Warnings and insurance’ page).
 
 **19 October 2026**
 <br />Updated information on local curfews (‘Warnings and insurance’ page)

@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 22 October 2026*
 
 [View current FCDO travel advice for Réunion](https://www.gov.uk/foreign-travel-advice/reunion)
 
 ## Change History
 
-### 2025
+### 2026
+
+**22 October 2026**
+<br />Updated information about demonstrations (‘Warnings and insurance’ page).
+
+<details>
+<summary><strong>2025</strong> (3 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -18,6 +24,8 @@ No specific FCDO travel advisories are currently active.
 
 **27 February 2025**
 <br />Addition of information about severe tropical Storm Garance ('Warnings and insurance' page). 
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (3 updates)</summary>
