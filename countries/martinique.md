@@ -2,16 +2,24 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 23 October 2026*
 
 [View current FCDO travel advice for Martinique](https://www.gov.uk/foreign-travel-advice/martinique)
 
 ## Change History
 
-### 2025
+### 2026
+
+**23 October 2026**
+<br />Updated information about demonstrations (‘Safety and security’ page).
+
+<details>
+<summary><strong>2025</strong> (1 update)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (3 updates)</summary>

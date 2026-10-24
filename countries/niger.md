@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Niger.
 
-*Last reviewed by FCDO: 29 August 2026*
+*Last reviewed by FCDO: 23 October 2026*
 
 [View current FCDO travel advice for Niger](https://www.gov.uk/foreign-travel-advice/niger)
 
 ## Change History
 
 ### 2026
+
+**23 October 2026**
+<br />Updated information about attacks near the Presidential Palace and Niamey’s Diori International Airport ('Safety and security' page.)
 
 **29 August 2026**
 <br />Information on reports of gunfire early morning on 29 August near Presidential Palace and Diori Hamani International airport (‘Warnings and insurance’ page)

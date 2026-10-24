@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Azerbaijan.
 
 FCDO advises against all but essential travel to parts of Azerbaijan.
 
-*Last reviewed by FCDO: 8 October 2026*
+*Last reviewed by FCDO: 23 October 2026*
 
 [View current FCDO travel advice for Azerbaijan](https://www.gov.uk/foreign-travel-advice/azerbaijan)
 
 ## Change History
 
 ### 2026
+
+**23 October 2026**
+<br />New information about entry requirements for the upcoming FIFA U-15 World Cup and Festival 2026 and travelling on a UK Emergency Travel Document to Azerbaijan. Updated information about visa requirements and entering Azerbaijan across the land border from Iran ('Entry requirements' page).     
 
 **8 October 2026**
 <br />Removal of information about visa procedures for visitors travelling to Azerbaijan in connection with the Formula 1 Azerbaijan Grand Prix (‘Entry requirements’ page).
