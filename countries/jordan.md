@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Jordan.
 
-*Last reviewed by FCDO: 23 October 2026*
+*Last reviewed by FCDO: 25 October 2026*
 
 [View current FCDO travel advice for Jordan](https://www.gov.uk/foreign-travel-advice/jordan)
 
 ## Change History
 
 ### 2026
+
+**25 October 2026**
+<br />Further information about a shooting in Karak on 23 October (Warnings and insurance)
 
 **23 October 2026**
 <br />New information added following reports of a shooting in Karak ('Warnings and insurance' page). 
