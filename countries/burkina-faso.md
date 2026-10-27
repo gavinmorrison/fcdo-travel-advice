@@ -2,13 +2,21 @@
 
 FCDO advises against all travel to Burkina Faso.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 26 October 2026*
 
 [View current FCDO travel advice for Burkina Faso](https://www.gov.uk/foreign-travel-advice/burkina-faso)
 
 ## Change History
 
-### 2025
+### 2026
+
+**26 October 2026**
+<br />New information about the death penalty in Burkina Faso (‘Safety and security’ page).  
+
+ 
+
+<details>
+<summary><strong>2025</strong> (7 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -30,6 +38,8 @@ FCDO advises against all travel to Burkina Faso.
 
 **24 January 2025**
 <br />Updated information on recent terrorist attacks and kidnappings in Burkina Faso ('Safety and security’ page). 
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (1 update)</summary>
