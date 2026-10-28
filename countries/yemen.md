@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Yemen.
 
-*Last reviewed by FCDO: 31 July 2026*
+*Last reviewed by FCDO: 27 October 2026*
 
 [View current FCDO travel advice for Yemen](https://www.gov.uk/foreign-travel-advice/yemen)
 
 ## Change History
 
 ### 2026
+
+**27 October 2026**
+<br />Updated information about regional tensions (‘Warnings and insurance’ page) 
 
 **31 July 2026**
 <br />Latest information about regional risks including the Yemen-Saudi border and threats from the Houthis (see 'Regional tensions' on ‘Warnings and insurance’ page).

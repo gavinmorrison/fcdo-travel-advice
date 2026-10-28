@@ -2,13 +2,18 @@
 
 FCDO advises against all travel to parts of Turkey.
 
-*Last reviewed by FCDO: 19 October 2026*
+*Last reviewed by FCDO: 27 October 2026*
 
 [View current FCDO travel advice for Turkey](https://www.gov.uk/foreign-travel-advice/turkey)
 
 ## Change History
 
 ### 2026
+
+**27 October 2026**
+<br />Updated information about regional tensions (‘Warnings and insurance’ page).
+
+
 
 **19 October 2026**
 <br />Removal of information about heavy rain and flooding in Istanbul ('Warnings and insurance' page).

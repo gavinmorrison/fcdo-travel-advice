@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Saudi Arabia.
 
 FCDO advises against all but essential travel to parts of Saudi Arabia.
 
-*Last reviewed by FCDO: 21 October 2026*
+*Last reviewed by FCDO: 27 October 2026*
 
 [View current FCDO travel advice for Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia)
 
 ## Change History
 
 ### 2026
+
+**27 October 2026**
+<br />Updated information about Regional tensions (‘Warnings and insurance’ page) 
 
 **21 October 2026**
 <br />Updated information about King Khalid Airport which continues to be targeted and ongoing threat from terrorism in Saudi Arabia (‘Warnings and insurance’ and ‘Safety and security’ pages).

@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Congo.
 
-*Last reviewed by FCDO: 2 June 2026*
+*Last reviewed by FCDO: 27 October 2026*
 
 [View current FCDO travel advice for Congo](https://www.gov.uk/foreign-travel-advice/congo)
 
 ## Change History
 
 ### 2026
+
+**27 October 2026**
+<br />Updated information about vaccine requirements for border control (‘Entry requirements’ page).
 
 **2 June 2026**
 <br />New information about Ebola screening when arriving in country (‘Entry requirements’ page).

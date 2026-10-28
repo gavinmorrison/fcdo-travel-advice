@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 17 June 2026*
+*Last reviewed by FCDO: 27 October 2026*
 
 [View current FCDO travel advice for El Salvador](https://www.gov.uk/foreign-travel-advice/el-salvador)
 
 ## Change History
 
 ### 2026
+
+**27 October 2026**
+<br />New information about Ebola-related health measures and quarantine requirements for some travellers (‘Entry requirements’ page).
 
 **17 June 2026**
 <br />Removal of information about Tropical Storm Cristina.
