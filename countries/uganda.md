@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 8 October 2026*
+*Last reviewed by FCDO: 28 October 2026*
 
 [View current FCDO travel advice for Uganda](https://www.gov.uk/foreign-travel-advice/uganda)
 
 ## Change History
 
 ### 2026
+
+**28 October 2026**
+<br />Updated information about precautionary measures around the Ebola outbreak in the region (‘Entry requirements’ and ‘Health’ pages).
 
 **8 October 2026**
 <br />Removal of information about a yellow fever vaccination certificate requirement, as this is no longer mandatory for entry to Uganda ('Entry requirements' page).
