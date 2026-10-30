@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 28 October 2026*
+*Last reviewed by FCDO: 29 October 2026*
 
 [View current FCDO travel advice for Italy](https://www.gov.uk/foreign-travel-advice/italy)
 
 ## Change History
 
 ### 2026
+
+**29 October 2026**
+<br />Updated information about national strike (‘Warnings and insurance’ page).
 
 **28 October 2026**
 <br />New information about Italian arrangements recognising valid UK Blue Badges (‘Safety and security’ page).
