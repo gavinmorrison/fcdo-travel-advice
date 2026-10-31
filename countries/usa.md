@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 18 August 2026*
+*Last reviewed by FCDO: 30 October 2026*
 
 [View current FCDO travel advice for USA](https://www.gov.uk/foreign-travel-advice/usa)
 
 ## Change History
 
 ### 2026
+
+**30 October 2026**
+<br />Updated information about Ebola (‘Entry requirements’ page).
+
+**30 October 2026**
+<br />Updated information about Ebola (‘Entry requirements’ page).
 
 **18 August 2026**
 <br />Updated information about US Hurricane season predictions (‘Safety and security’ page).

@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 13 October 2026*
+*Last reviewed by FCDO: 30 October 2026*
 
 [View current FCDO travel advice for Kazakhstan](https://www.gov.uk/foreign-travel-advice/kazakhstan)
 
 ## Change History
 
 ### 2026
+
+**30 October 2026**
+<br />Updated information about Electronic Travel Authorisation (ETA) ('Entry requirements' page).
 
 **13 October 2026**
 <br />Addition of information about Electronic Travel Authorisation (ETA) (‘Entry requirements’ page).

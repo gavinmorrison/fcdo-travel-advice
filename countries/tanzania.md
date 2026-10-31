@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Tanzania.
 
-*Last reviewed by FCDO: 20 October 2026*
+*Last reviewed by FCDO: 30 October 2026*
 
 [View current FCDO travel advice for Tanzania](https://www.gov.uk/foreign-travel-advice/tanzania)
 
 ## Change History
 
 ### 2026
+
+**30 October 2026**
+<br />Additional information about use of security measures to reduce the risk of burglary in hotels and other accommodation (‘Safety and security’ page). 
 
 **20 October 2026**
 <br />Updated information about Ebola screening measures for all travellers arriving into Tanzania, addition of information about the risk of protests on 29 October and new information about the risks of bringing cannabidiol (CBD) products into Tanzania (‘Entry requirements’ and ‘Safety and security’ pages).
