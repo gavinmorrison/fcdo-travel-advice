@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Ecuador.
 
-*Last reviewed by FCDO: 2 October 2026*
+*Last reviewed by FCDO: 1 November 2026*
 
 [View current FCDO travel advice for Ecuador](https://www.gov.uk/foreign-travel-advice/ecuador)
 
 ## Change History
 
 ### 2026
+
+**1 November 2026**
+<br />Information about heavy rain and flooding on Santa Cruz Island, Galapagos.  (Warnings and insurance)
 
 **2 October 2026**
 <br />New information about the 2026–2027 El Niño weather event ('Safety and security' page).
