@@ -11,6 +11,9 @@ FCDO advises against all but essential travel to parts of Ecuador.
 ### 2026
 
 **1 November 2026**
+<br />Updated information about heavy rain and flooding on Santa Cruz Island, Galapagos. (Warnings and insurance)
+
+**1 November 2026**
 <br />Information about heavy rain and flooding on Santa Cruz Island, Galapagos.  (Warnings and insurance)
 
 **2 October 2026**
