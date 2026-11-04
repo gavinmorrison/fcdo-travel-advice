@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 21 January 2026*
+*Last reviewed by FCDO: 3 November 2026*
 
 [View current FCDO travel advice for Paraguay](https://www.gov.uk/foreign-travel-advice/paraguay)
 
 ## Change History
 
 ### 2026
+
+**3 November 2026**
+<br />Update on possible demonstrations and protests in Paraguay ('Safety and security' page).
 
 **21 January 2026**
 <br />Updated information on travelling with children ('Entry requirements' page). 
