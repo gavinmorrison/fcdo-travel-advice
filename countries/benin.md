@@ -4,13 +4,19 @@ FCDO advises against all travel to parts of Benin.
 
 FCDO advises against all but essential travel to parts of Benin.
 
-*Last reviewed by FCDO: 15 December 2025*
+*Last reviewed by FCDO: 4 November 2026*
 
 [View current FCDO travel advice for Benin](https://www.gov.uk/foreign-travel-advice/benin)
 
 ## Change History
 
-### 2025
+### 2026
+
+**4 November 2026**
+<br />Updated information about applying for a visa (see 'Visa requirements' on the 'Entry requirements' page).
+
+<details>
+<summary><strong>2025</strong> (5 updates)</summary>
 
 **15 December 2025**
 <br />FCDO now advises against all but essential travel to the remaining areas of the Alibori and Atacora departments. FCDO continues to advise against all but essential travel and all travel to other areas in Benin (‘Warnings and insurance’ page).
@@ -26,6 +32,8 @@ FCDO advises against all but essential travel to parts of Benin.
 
 **15 May 2025**
 <br />Updated information about the general risks from terrorism ('Safety and security' page). 
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (1 update)</summary>

@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Chad.
 
-*Last reviewed by FCDO: 6 August 2026*
+*Last reviewed by FCDO: 4 November 2026*
 
 [View current FCDO travel advice for Chad](https://www.gov.uk/foreign-travel-advice/chad)
 
 ## Change History
 
 ### 2026
+
+**4 November 2026**
+<br />This travel advice has been reviewed for accuracy with changes made throughout, including updated information about applying for a visa, terrorism in Chad, terrorist kidnapping, political situation, robbery, protecting yourself and your belongings, Ramadan, driving standards and security, travelling outside N'Djamena, regional risks, health risks you may face in Chad, including Dengue and emergency numbers if your require police, ambulance or fire services ('Entry requirements', 'Safety and security', 'Regional risks', 'Health' and 'Getting help' pages).
 
 **6 August 2026**
 <br />Updated information about health risks you’ll face in Chad (‘Health’ page).

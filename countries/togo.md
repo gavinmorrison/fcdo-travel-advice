@@ -4,13 +4,19 @@ FCDO advises against all travel to parts of Togo.
 
 FCDO advises against all but essential travel to parts of Togo.
 
-*Last reviewed by FCDO: 15 December 2025*
+*Last reviewed by FCDO: 4 November 2026*
 
 [View current FCDO travel advice for Togo](https://www.gov.uk/foreign-travel-advice/togo)
 
 ## Change History
 
-### 2025
+### 2026
+
+**4 November 2026**
+<br />Updated information about applying for a visa (see 'Visa requirements' on the 'Entry requirements' page).
+
+<details>
+<summary><strong>2025</strong> (3 updates)</summary>
 
 **15 December 2025**
 <br />FCDO now advises against all travel to within 30km of the border with Burkina Faso except for the city of Dapaong and the N1 highway leading to it from the south and FCDO now advises against all but essential travel to the rest of the Savanes Region (‘Warnings and insurance’ page).  
@@ -20,6 +26,8 @@ FCDO advises against all but essential travel to parts of Togo.
 
 **30 June 2025**
 <br />Updated information on political situation ('Safety and security' page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (6 updates)</summary>

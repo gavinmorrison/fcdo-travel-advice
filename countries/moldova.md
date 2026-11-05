@@ -2,13 +2,19 @@
 
 FCDO advises against all travel to parts of Moldova.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 4 November 2026*
 
 [View current FCDO travel advice for Moldova](https://www.gov.uk/foreign-travel-advice/moldova)
 
 ## Change History
 
-### 2025
+### 2026
+
+**4 November 2026**
+<br />This travel advice has been reviewed for accuracy with changes made throughout, including updated information about visa requirements, land border crossings, entering Moldova from Ukraine, political situation, humanitarian support workers, crime, using cameras, money and taxi's ('Entry requirements' and 'Safety and security' pages). 
+
+<details>
+<summary><strong>2025</strong> (4 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -21,6 +27,8 @@ FCDO advises against all travel to parts of Moldova.
 
 **4 June 2025**
 <br />Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (5 updates)</summary>

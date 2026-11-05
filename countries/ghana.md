@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Ghana.
 
-*Last reviewed by FCDO: 2 July 2026*
+*Last reviewed by FCDO: 4 November 2026*
 
 [View current FCDO travel advice for Ghana](https://www.gov.uk/foreign-travel-advice/ghana)
 
 ## Change History
 
 ### 2026
+
+**4 November 2026**
+<br />Updated information about Ebola screening in Ghana (‘Entry requirements’ page).
 
 **2 July 2026**
 <br />Removal of information about flooding in parts of Ghana, including Accra and surrounding areas (‘Warnings and insurance’ page).
