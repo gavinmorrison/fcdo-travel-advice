@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 29 July 2026*
+*Last reviewed by FCDO: 5 November 2026*
 
 [View current FCDO travel advice for Honduras](https://www.gov.uk/foreign-travel-advice/honduras)
 
 ## Change History
 
 ### 2026
+
+**5 November 2026**
+<br />Updated information about visa requirements, including British citizens now being able to visit Honduras for up to 90 days without a visa ('Entry requirements' page).
 
 **29 July 2026**
 <br />This travel advice has been reviewed for accuracy with minor updates made throughout, including updated information on airport tax, crime and violent attacks against vehicles ('Safety and security' page). 

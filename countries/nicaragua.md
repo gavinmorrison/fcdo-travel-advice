@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 5 November 2026*
 
 [View current FCDO travel advice for Nicaragua](https://www.gov.uk/foreign-travel-advice/nicaragua)
 
 ## Change History
 
-### 2025
+### 2026
+
+**5 November 2026**
+<br />Updated information on visa requirements when travelling between Nicaragua, El Salvador, Guatemala and Honduras ('Entry requirements' page).
+
+<details>
+<summary><strong>2025</strong> (4 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -21,6 +27,8 @@ No specific FCDO travel advisories are currently active.
 
 **9 January 2025**
 <br />Updated information on travel within the C4 region relevant to Honduras and updated information on flying drones (‘Entry requirements’ and ‘Safety and security’ pages).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (2 updates)</summary>

@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 27 October 2026*
+*Last reviewed by FCDO: 5 November 2026*
 
 [View current FCDO travel advice for El Salvador](https://www.gov.uk/foreign-travel-advice/el-salvador)
 
 ## Change History
 
 ### 2026
+
+**5 November 2026**
+<br />Updated information about visa requirements when travelling between El Salvador, Guatemala, Honduras and Nicaragua ('Entry requirements' page).
 
 **27 October 2026**
 <br />New information about Ebola-related health measures and quarantine requirements for some travellers (‘Entry requirements’ page).

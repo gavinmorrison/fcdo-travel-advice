@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Guatemala.
 
-*Last reviewed by FCDO: 13 August 2026*
+*Last reviewed by FCDO: 5 November 2026*
 
 [View current FCDO travel advice for Guatemala](https://www.gov.uk/foreign-travel-advice/guatemala)
 
 ## Change History
 
 ### 2026
+
+**5 November 2026**
+<br />Updated information about visa requirements when travelling between Guatemala, El Salvador, Honduras and Nicaragua ('Entry requirements' page).
 
 **13 August 2026**
 <br />Removal of information about Fuego volcanic activity ('Warnings and insurance' page).

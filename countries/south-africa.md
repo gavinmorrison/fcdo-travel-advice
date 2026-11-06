@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 4 November 2026*
+*Last reviewed by FCDO: 5 November 2026*
 
 [View current FCDO travel advice for South Africa](https://www.gov.uk/foreign-travel-advice/south-africa)
 
 ## Change History
 
 ### 2026
+
+**5 November 2026**
+<br />Updated information about fraud and scams, and taxis and ride-hailing apps (‘Safety and security’ page).
 
 **4 November 2026**
 <br />New information about local government elections taking place in South Africa ('Warnings and insurance' page).
