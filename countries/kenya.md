@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Kenya.
 
 FCDO advises against all but essential travel to parts of Kenya.
 
-*Last reviewed by FCDO: 30 October 2026*
+*Last reviewed by FCDO: 6 November 2026*
 
 [View current FCDO travel advice for Kenya](https://www.gov.uk/foreign-travel-advice/kenya)
 
 ## Change History
 
 ### 2026
+
+**6 November 2026**
+<br />FCDO now advises against all but essential travel to Moyale Town and up to 5km around it, including to the border with Ethiopia. Updated information about the Kenya-Ethiopia border ('Warnings and insurance' and 'Regional risks' pages).
 
 **30 October 2026**
 <br />Updated information about the Kenya-Ethiopia border (‘Regional risks’ page).

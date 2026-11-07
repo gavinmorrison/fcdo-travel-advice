@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Cameroon.
 
 FCDO advises against all but essential travel to parts of Cameroon.
 
-*Last reviewed by FCDO: 9 February 2026*
+*Last reviewed by FCDO: 6 November 2026*
 
 [View current FCDO travel advice for Cameroon](https://www.gov.uk/foreign-travel-advice/cameroon)
 
 ## Change History
 
 ### 2026
+
+**6 November 2026**
+<br />New information about the introduction of health screening on arrival at Nsimalen International Airport and Douala International Airport ('Entry requirements' page).
 
 **9 February 2026**
 <br />FCDO no longer advises against all but essential travel  to the majority of Adamawa Region. FCDO continues to advise against all but essential or all travel to parts of Cameroon.

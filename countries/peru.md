@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Peru.
 
-*Last reviewed by FCDO: 9 October 2026*
+*Last reviewed by FCDO: 6 November 2026*
 
 [View current FCDO travel advice for Peru](https://www.gov.uk/foreign-travel-advice/peru)
 
 ## Change History
 
 ### 2026
+
+**6 November 2026**
+<br />New information about Pope Leo XIV’s visit to Peru from 11-16 November, including increased security measures and travel disruption (’Warnings and insurance’ page).
 
 **9 October 2026**
 <br />Removal of information about local elections ('Warnings and insurance' page).
