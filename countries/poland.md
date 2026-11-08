@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 11 August 2026*
+*Last reviewed by FCDO: 7 November 2026*
 
 [View current FCDO travel advice for Poland](https://www.gov.uk/foreign-travel-advice/poland)
 
 ## Change History
 
 ### 2026
+
+**7 November 2026**
+<br />Information following a shooting incident in Kraków’s Main Market Square ('Warnings and insurance' page)
 
 **11 August 2026**
 <br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page). 
