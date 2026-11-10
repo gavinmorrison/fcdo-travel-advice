@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to parts of Côte d'Ivoire.
 
-*Last reviewed by FCDO: 29 May 2026*
+*Last reviewed by FCDO: 9 November 2026*
 
 [View current FCDO travel advice for Côte d'Ivoire](https://www.gov.uk/foreign-travel-advice/cote-d-ivoire)
 
 ## Change History
 
 ### 2026
+
+**9 November 2026**
+<br />New information about Ebola screening and health declarations when arriving in country (‘Entry requirements’ page).
 
 **29 May 2026**
 <br />Addition of information about heightened health screening measures for those entering Côte d'Ivoire from Ebola-affected regions ('Entry requirements' page).

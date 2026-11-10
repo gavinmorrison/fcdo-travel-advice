@@ -2,13 +2,21 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 9 November 2026*
 
 [View current FCDO travel advice for Eswatini](https://www.gov.uk/foreign-travel-advice/eswatini)
 
 ## Change History
 
-### 2025
+### 2026
+
+**9 November 2026**
+<br />Updated information about visa requirements, LGBT+ travellers, road travel and conditions and the health risks you’ll face in Eswatini (‘Entry requirements’, ‘Safety and security’ and ‘Health’ pages).
+
+
+
+<details>
+<summary><strong>2025</strong> (3 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -18,6 +26,8 @@ No specific FCDO travel advisories are currently active.
 
 **3 February 2025**
 <br />Updated information on possible disruption to travel, including delays or closures at the border at short notice (‘Warnings and insurance’ page).
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (3 updates)</summary>
