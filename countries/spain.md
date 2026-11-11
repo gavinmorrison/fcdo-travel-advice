@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 28 October 2026*
+*Last reviewed by FCDO: 10 November 2026*
 
 [View current FCDO travel advice for Spain](https://www.gov.uk/foreign-travel-advice/spain)
 
 ## Change History
 
 ### 2026
+
+**10 November 2026**
+<br />New information about a national strike planned for 11 November ('Warnings and insurance' page).
+
+
+
 
 **28 October 2026**
 <br />New information following a high speed rail collision in Toledo ('Warnings and insurance' page). 

@@ -4,13 +4,16 @@ FCDO advises against all travel to parts of Nigeria.
 
 FCDO advises against all but essential travel to parts of Nigeria.
 
-*Last reviewed by FCDO: 28 October 2026*
+*Last reviewed by FCDO: 10 November 2026*
 
 [View current FCDO travel advice for Nigeria](https://www.gov.uk/foreign-travel-advice/nigeria)
 
 ## Change History
 
 ### 2026
+
+**10 November 2026**
+<br />This travel advice has been reviewed for accuracy with changes made throughout, including on land borders, street and vehicle crime, withdrawing and exchanging money, financial scams, terrorism in Nigeria, kidnapping for ransom, transport risks, dangers at road checkpoints, taxis and buses, sea travel, swimming safety, North West Nigeria and South East and South South Nigeria (See ‘Entry requirements’, ‘Safety and security’ and ‘Regional risks’ pages).
 
 **28 October 2026**
 <br />Updated information about Ebola screening and Healthcare in Nigeria (‘Entry requirements’ and ‘Health’ pages).
