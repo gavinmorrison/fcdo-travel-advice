@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 7 July 2026*
+*Last reviewed by FCDO: 11 November 2026*
 
 [View current FCDO travel advice for The Gambia](https://www.gov.uk/foreign-travel-advice/the-gambia)
 
 ## Change History
 
 ### 2026
+
+**11 November 2026**
+<br />New information about upcoming presidential elections (‘Warnings and insurance’ page).
+
+
+
 
 **7 July 2026**
 <br />Updated information about flooding and addition of information about power shortages and preparing for power cuts ('Safety and security' page).
