@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 November 2026*
+*Last reviewed by FCDO: 12 November 2026*
 
 [View current FCDO travel advice for Portugal](https://www.gov.uk/foreign-travel-advice/portugal)
 
 ## Change History
 
 ### 2026
+
+**12 November 2026**
+<br />Removal of information on severe weather
 
 **10 November 2026**
 <br />New information about severe weather (‘Warnings and insurance’ page).
