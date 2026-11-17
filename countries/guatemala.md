@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Guatemala.
 
-*Last reviewed by FCDO: 5 November 2026*
+*Last reviewed by FCDO: 16 November 2026*
 
 [View current FCDO travel advice for Guatemala](https://www.gov.uk/foreign-travel-advice/guatemala)
 
 ## Change History
 
 ### 2026
+
+**16 November 2026**
+<br />New information about a State of Emergency in Zacapa and Izabal ('Warnings and insurance' page).
 
 **5 November 2026**
 <br />Updated information about visa requirements when travelling between Guatemala, El Salvador, Honduras and Nicaragua ('Entry requirements' page).
