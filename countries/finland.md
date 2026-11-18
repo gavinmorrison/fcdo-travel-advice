@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 11 August 2026*
+*Last reviewed by FCDO: 17 November 2026*
 
 [View current FCDO travel advice for Finland](https://www.gov.uk/foreign-travel-advice/finland)
 
 ## Change History
 
 ### 2026
+
+**17 November 2026**
+<br />Updated emergency services contacts to include the 112 Suomi App (‘Getting help’ page). 
 
 **11 August 2026**
 <br />Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).  

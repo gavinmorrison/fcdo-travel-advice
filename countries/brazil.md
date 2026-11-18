@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Brazil.
 
-*Last reviewed by FCDO: 28 October 2026*
+*Last reviewed by FCDO: 17 November 2026*
 
 [View current FCDO travel advice for Brazil](https://www.gov.uk/foreign-travel-advice/brazil)
 
 ## Change History
 
 ### 2026
+
+**17 November 2026**
+<br />New information about the risk of extreme weather due to the El Niño climate event (‘Safety and security’ page). 
 
 **28 October 2026**
 <br />Removal of information about elections ('Warnings and insurance' and 'Safety and security' pages).
