@@ -2,13 +2,16 @@
 
 FCDO advises against all travel to Iran.
 
-*Last reviewed by FCDO: 27 October 2026*
+*Last reviewed by FCDO: 18 November 2026*
 
 [View current FCDO travel advice for Iran](https://www.gov.uk/foreign-travel-advice/iran)
 
 ## Change History
 
 ### 2026
+
+**18 November 2026**
+<br />Updated information about regional tensions (‘Warnings and insurance’ page).
 
 **27 October 2026**
 <br />Updated information about Regional tensions (‘Warnings and insurance’ page)  

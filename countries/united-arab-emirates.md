@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 27 October 2026*
+*Last reviewed by FCDO: 18 November 2026*
 
 [View current FCDO travel advice for United Arab Emirates](https://www.gov.uk/foreign-travel-advice/united-arab-emirates)
 
 ## Change History
 
 ### 2026
+
+**18 November 2026**
+<br />Updated information about regional tensions (See ‘Warnings and insurance’ page). 
 
 **27 October 2026**
 <br />Updated information about regional tensions (‘Warnings and insurance’ page) 

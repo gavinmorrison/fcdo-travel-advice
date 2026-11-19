@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Malaysia.
 
-*Last reviewed by FCDO: 19 March 2026*
+*Last reviewed by FCDO: 18 November 2026*
 
 [View current FCDO travel advice for Malaysia](https://www.gov.uk/foreign-travel-advice/malaysia)
 
 ## Change History
 
 ### 2026
+
+**18 November 2026**
+<br />New information about cannabis and drug offences (‘Warnings and insurance’ page). 
 
 **19 March 2026**
 <br />Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).

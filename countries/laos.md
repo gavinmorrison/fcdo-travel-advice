@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Laos.
 
-*Last reviewed by FCDO: 13 August 2026*
+*Last reviewed by FCDO: 18 November 2026*
 
 [View current FCDO travel advice for Laos](https://www.gov.uk/foreign-travel-advice/laos)
 
 ## Change History
 
 ### 2026
+
+**18 November 2026**
+<br />New information on the risk of attempting to smuggle drugs out of Laos, and updated information about land borders and crossing with Thailand and Cambodia  ('Warnings and insurance' page). 
 
 **13 August 2026**
 <br />Updated information on flooding risks during periods of heavy rain (‘Safety and security’ page).
