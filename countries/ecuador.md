@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Ecuador.
 
-*Last reviewed by FCDO: 1 November 2026*
+*Last reviewed by FCDO: 20 November 2026*
 
 [View current FCDO travel advice for Ecuador](https://www.gov.uk/foreign-travel-advice/ecuador)
 
 ## Change History
 
 ### 2026
+
+**20 November 2026**
+<br />Updated information following the Ecuadorean government extending the state of emergency for a further 30 days, and updated information about drug-assisted robbery ('Warnings and insurance' and 'Safety and security' pages).
 
 **1 November 2026**
 <br />Updated information about heavy rain and flooding on Santa Cruz Island, Galapagos. (Warnings and insurance)

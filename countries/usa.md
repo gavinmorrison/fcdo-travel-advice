@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 14 November 2026*
+*Last reviewed by FCDO: 20 November 2026*
 
 [View current FCDO travel advice for USA](https://www.gov.uk/foreign-travel-advice/usa)
 
 ## Change History
 
 ### 2026
+
+**20 November 2026**
+<br />Removal of information about air traffic disruptions across the US
 
 **14 November 2026**
 <br />Updated information on air traffic disruptions across the US
