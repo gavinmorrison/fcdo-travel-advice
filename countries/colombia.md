@@ -2,13 +2,16 @@
 
 FCDO advises against all but essential travel to parts of Colombia.
 
-*Last reviewed by FCDO: 30 October 2026*
+*Last reviewed by FCDO: 23 November 2026*
 
 [View current FCDO travel advice for Colombia](https://www.gov.uk/foreign-travel-advice/colombia)
 
 ## Change History
 
 ### 2026
+
+**23 November 2026**
+<br />Removal of information about the the temporary deployment of security forces in the city of Cucuta (‘Warnings and Insurance’ page).
 
 **30 October 2026**
 <br />New information about the the temporary deployment of security forces in the city of Cucuta (‘Warnings and Insurance’ page).

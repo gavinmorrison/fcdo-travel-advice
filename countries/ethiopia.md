@@ -4,13 +4,18 @@ FCDO advises against all travel to parts of Ethiopia.
 
 FCDO advises against all but essential travel to parts of Ethiopia.
 
-*Last reviewed by FCDO: 30 October 2026*
+*Last reviewed by FCDO: 23 November 2026*
 
 [View current FCDO travel advice for Ethiopia](https://www.gov.uk/foreign-travel-advice/ethiopia)
 
 ## Change History
 
 ### 2026
+
+**23 November 2026**
+<br />FCDO now advises against all but essential travel to East Borena and Arsi in Oromia Region. FCDO continues to advise against all travel and all but essential travel to other parts of Ethiopia (‘Warnings and insurance’ and ‘Regional risks’ pages).
+
+
 
 **30 October 2026**
 <br />Update on areas that the FCDO advise against all travel to within 10km of the border with Kenya (Warnings and Insurance page)
