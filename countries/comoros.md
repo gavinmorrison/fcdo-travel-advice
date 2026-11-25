@@ -2,13 +2,19 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 10 December 2025*
+*Last reviewed by FCDO: 25 November 2026*
 
 [View current FCDO travel advice for Comoros](https://www.gov.uk/foreign-travel-advice/comoros)
 
 ## Change History
 
-### 2025
+### 2026
+
+**25 November 2026**
+<br />Updated information about political situation, religion and sea travel (‘Safety and security’ page).
+
+<details>
+<summary><strong>2025</strong> (3 updates)</summary>
 
 **10 December 2025**
 <br />New information about dual nationals returning to the UK (‘Entry requirements’ page).
@@ -18,6 +24,8 @@ No specific FCDO travel advisories are currently active.
 
 **29 January 2025**
 <br />This travel advice was reviewed for accuracy and reissued without any significant updates.
+
+</details>
 
 <details>
 <summary><strong>2024</strong> (4 updates)</summary>
