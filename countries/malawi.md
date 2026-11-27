@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 25 November 2026*
+*Last reviewed by FCDO: 26 November 2026*
 
 [View current FCDO travel advice for Malawi](https://www.gov.uk/foreign-travel-advice/malawi)
 
 ## Change History
 
 ### 2026
+
+**26 November 2026**
+<br />Removal of polio as a vaccine requirement when entering Malawi ('Entry requirements' page).
 
 **25 November 2026**
 <br />New information about Ebola screening (‘Entry requirements’ page).
