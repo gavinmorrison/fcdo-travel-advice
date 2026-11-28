@@ -2,13 +2,16 @@
 
 No specific FCDO travel advisories are currently active.
 
-*Last reviewed by FCDO: 11 November 2026*
+*Last reviewed by FCDO: 27 November 2026*
 
 [View current FCDO travel advice for Poland](https://www.gov.uk/foreign-travel-advice/poland)
 
 ## Change History
 
 ### 2026
+
+**27 November 2026**
+<br />Updated information on risks from terrorism (see ‘Safety and security’ page)
 
 **11 November 2026**
 <br />Updated information following the terrorist attack in Kraków, including advice for those affected (‘Warnings and insurance’ page).
